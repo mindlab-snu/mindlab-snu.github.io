@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M.IN.D Lab @ SKKU!
+title: '####M.IN.D Lab @ SKKU!'
 subtitle: Machine INtelligence and Data science Lab
 published: true
 ---
