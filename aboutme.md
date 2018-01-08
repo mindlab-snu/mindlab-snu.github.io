@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to M.IN.D Lab @ SKKU!
-subtitle: Introduction to M.IN.D Lab
+title: M.IN.D Lab @ SKKU!
+subtitle: Machine INtelligence and Data science Lab
 published: true
 ---
 
