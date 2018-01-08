@@ -26,11 +26,6 @@ navbar-links:
   About: "aboutme"
   News: "news"
   People:
-  	- PI: "http://mind.skku.edu/pi/taesup.html"
-    - PhD:
-    - MS:
-    - BS:
-    - Alumni:
   Research: "research"
   Teaching: "teaching"
   Publications: "pub"
