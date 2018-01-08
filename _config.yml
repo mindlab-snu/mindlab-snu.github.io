@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About: "aboutme"
   News: "news"
-  People: "group"
+  People:
   	- PI: "http://mind.skku.edu/pi/taesup.html"
     - PhD:
     - MS:
