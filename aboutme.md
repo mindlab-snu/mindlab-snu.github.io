@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Welcome to M.IN.D Lab @ SKKU!
 subtitle: Introduction to M.IN.D Lab
 published: true
 ---
