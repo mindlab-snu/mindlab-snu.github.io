@@ -23,12 +23,17 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  News:
-  Research:
-  Teaching:
-  Group:
-  Publications:
+  About: "aboutme"
+  News: "news"
+  People: "group"
+  	- PI: "http://mind.skku.edu/pi/taesup.html"
+    - PhD:
+    - MS:
+    - BS:
+    - Alumni:
+  Research: "research"
+  Teaching: "teaching"
+  Publications: "pub"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,8 +65,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Taesup Moon
+  email: "tsmoon@skku.edu"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
