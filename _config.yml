@@ -25,7 +25,11 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About: "aboutme"
   News: "news"
-  People:
+  People: 
+    - PI: 
+    - PhD:
+    - MS:
+    - BS:
   Research: "research"
   Teaching: "teaching"
   Publications: "pub"
