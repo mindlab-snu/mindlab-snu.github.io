@@ -32,9 +32,9 @@ navbar-links:
     - BS:
   Research: 
     - Projects:
-    - Publications: 
+    - Publications: "pub"
   Teaching: "teaching"
-  Publications: "pub"
+  #Publications: "pub"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
