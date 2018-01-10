@@ -7,7 +7,6 @@ published: true
 ---
 
 <img src="img/ai.png" width="820" align="center"/>
-#![ai.jpg]({{site.baseurl}}/img/ai.jpg)
 
 
 
