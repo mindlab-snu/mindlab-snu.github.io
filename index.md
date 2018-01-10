@@ -5,6 +5,10 @@ permalink: /
 subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 published: true
 ---
+<p align="center">
+  <img width="460" height="300" src="img/ai.jpg">
+</p>
+
 
 <img src="img/ai.jpg" width="820" align="center"/>
 
