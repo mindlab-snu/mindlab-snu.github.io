@@ -1,9 +1,9 @@
 ## A New Post
 ---
 layout: page
-title: COCOAN lab
+title: M.IN.D Lab
 permalink: /
-subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>euroscience Laboratory
+subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 ---
 
 
