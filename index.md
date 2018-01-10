@@ -6,7 +6,9 @@ subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 published: true
 ---
 
-![ai.jpg]({{site.baseurl}}/img/ai.jpg)
+<img src="img/ai.png" width="820" align="center"/>
+#![ai.jpg]({{site.baseurl}}/img/ai.jpg)
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
