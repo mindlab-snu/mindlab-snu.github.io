@@ -1,4 +1,3 @@
-## A New Post
 ---
 layout: page
 title: M.IN.D Lab
