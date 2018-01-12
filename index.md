@@ -7,7 +7,9 @@ published: true
 ---
 <img src="img/front.png" width="820" align="center"/>
 
-Welcome to M.IN.D Lab at Sungkyunkwan University led by [Taesup Moon](pi). We develop state-of-the-art machine learning algorithms for solving **intelligence** and **real world data problem**. 
+Welcome to M.IN.D Lab at Sungkyunkwan University led by [Taesup Moon](pi). 
+
+We develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problem**. 
 
 For the **core algorithm research**, we currently focus on multi-task reinforcement learning, neural-network based estimation, interpretable machine learning, and external memory/knowledge based reasoning. For the **data science application research**, we work on non-intrusive load monitoring (NILM), satellite-based PM 2.5 estimation, medical/neuroscience data analyses, DNA sequence denoising, and radar-based object recognition. 
 
