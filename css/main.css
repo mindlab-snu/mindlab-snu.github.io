@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #F5F5F5;
+  color: #404040;
   position: relative;
   background: #FFF;
   {% if site.page-col %}
@@ -129,7 +129,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #f5f5f5;
 }
 
 .navbar-custom .navbar-brand:hover,
