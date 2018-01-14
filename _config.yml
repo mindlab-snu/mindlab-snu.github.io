@@ -36,8 +36,7 @@ navbar-links:
   Teaching: "teaching"
   #Publications: "pub"
   Resources:
-    - Codes
-    
+    - Codes:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
