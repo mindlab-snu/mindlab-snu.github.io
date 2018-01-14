@@ -26,12 +26,12 @@ navbar-links:
   About: "aboutme"
   News: "news"
   People: 
-    - PI: 
+    - PI: "people/pi"
     - PhD:
     - MS:
     - BS:
   Research: 
-    - Projects:
+    - Projects: "project"
     - Publications: "pub"
   Teaching: "teaching"
   #Publications: "pub"
