@@ -1,4 +1,4 @@
-<img src="images/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="img/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />
 
 Taesup Moon
 Assistant Professor
