@@ -27,9 +27,8 @@ navbar-links:
   News: "news"
   People: 
     - PI: "people/pi"
-    - PhD:
-    - MS:
-    - BS:
+    - Students: "people/students"
+    - Alumni: "people/alumni"
   Research: 
     - Projects: "projects/project"
     - Publications: "pub"
