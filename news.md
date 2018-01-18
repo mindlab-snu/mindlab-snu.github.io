@@ -1,3 +1,8 @@
+---
+layout: page
+title: News
+published: true
+---
 
 ### 2018 
 
