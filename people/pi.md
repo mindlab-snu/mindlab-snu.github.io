@@ -16,3 +16,4 @@ Sungkyunkwan University
 #### Brief Bio:  
 - 2017.3~ Assistant Professor, Sungkyunkwan University
 - 2015.9~2017.2, Assistant Professor, DGIST
+- 2013.9~2015.2, Reseaerch Staff Member, Samsung Advanced Institute of Technology
