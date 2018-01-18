@@ -1,4 +1,3 @@
-## News for M.IN.D lab!
 
 ### 2018 
 
@@ -58,4 +57,3 @@
 - 09/14, A paper “RNNDrop: A novel dropout for RNNs in ASR” accepted to 2015 IEEE ASRU Workshop.
 - 09, Byungjoon and Jinhee joined the lab!
 - 09/01, Taesup started a new job at DGIST!
-
