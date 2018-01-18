@@ -10,6 +10,6 @@ published: true
 Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problem**. 
 For the **core algorithm research**, we currently focus on multi-task reinforcement learning, neural-network based estimation, interpretable machine learning, and external memory/knowledge based reasoning. For the **data science application research**, we work on non-intrusive load monitoring (NILM), satellite-based PM 2.5 estimation, medical/neuroscience data analyses, DNA sequence denoising, and radar-based object recognition. 
 
-For more information, please visit our [project page](project).
+For more information, please visit our [project page](projects/project).
 
 Also, contact Prof. Taesup Moon
