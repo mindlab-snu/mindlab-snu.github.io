@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "index"
   News: "news"
   People: 
     - PI: 
