@@ -1,7 +1,6 @@
 ---
-layout: post
-published: false
-title: pi
+layout: page
+published: true
 ---
 
 <img src="img/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />
