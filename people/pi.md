@@ -15,4 +15,4 @@ Sungkyunkwan University
   
 #### Brief Bio:  
 - 2017.3~ Assistant Professor, Sungkyunkwan University
-- 2017.
+- 2015.9~2017.2, Assistant Professor, DGIST
