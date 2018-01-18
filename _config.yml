@@ -31,7 +31,7 @@ navbar-links:
     - MS:
     - BS:
   Research: 
-    - Projects: "project"
+    - Projects: "projects/projects"
     - Publications: "pub"
   Teaching: "teaching"
   #Publications: "pub"
