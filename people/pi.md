@@ -1,7 +1,9 @@
 ---
 layout: page
 published: true
+title:
 ---
+
 ### Taesup Moon
 
 <img src="img/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
