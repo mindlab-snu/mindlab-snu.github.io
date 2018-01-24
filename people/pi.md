@@ -12,6 +12,7 @@ professor at [DGIST](http://www.dgist.ac.kr) from Sep 2015 to Feb 2017. Before t
 From Feb 2012 to Aug 2013, he was a postdoctoral scholar at the [University of California at Berkeley](http://www.berkeley.edu), [Department of Statistics](http://statistics.berkeley.edu).    
   
   
+<br>
   
   
 
