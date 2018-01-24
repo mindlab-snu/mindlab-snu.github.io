@@ -4,7 +4,7 @@ layout: page
 
 ### Taesup Moon
 
-<img src="https://github.com/mindlab-skku/mindlab-skku.github.io/blob/master/people/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
 
 Assistant Professor  
 School of Electronic and Electrical Engineering  
