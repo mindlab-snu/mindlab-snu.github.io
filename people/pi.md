@@ -1,7 +1,6 @@
 ---
 layout: page
 title: People
-permalink: /pi/
 subtitle: Mind lab members
 ---
 
