@@ -1,8 +1,10 @@
 ---
 layout: page
-published: true
-title:
+title: People
+permalink: /pi/
+subtitle: Mind lab members
 ---
+
 
 ### Taesup Moon
 
