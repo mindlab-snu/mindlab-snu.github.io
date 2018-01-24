@@ -13,8 +13,8 @@ From Feb 2012 to Aug 2013, he was a postdoctoral scholar at the [University of C
   
   
 <br>
-  
-  
+<br>  
+<hr>  
 
 #### Brief Bio:  
 - 2017.3~ Assistant Professor, Sungkyunkwan University  
