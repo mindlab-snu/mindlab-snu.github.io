@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
 
-Taesup Moon is an assistant professor at the School of Electronic and Electrical Engineering, College of Information and Communication Engineering, Sungkyunkwan University.
+Taesup Moon is an assistant professor at the School of Electronic and Electrical Engineering, [College of Information and Communication Engineering](icc.skku.edu), [Sungkyunkwan University](www.skku.edu).
     
   
   
