@@ -1,9 +1,6 @@
 ---
 layout: page
-title: People
-subtitle: Mind lab members
 ---
-
 
 ### Taesup Moon
 
