@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 ---
 
 ### Taesup Moon
