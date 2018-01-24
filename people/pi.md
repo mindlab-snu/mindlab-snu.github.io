@@ -4,7 +4,6 @@ layout: page
 
 ### Taesup Moon
 
-![profile_icc.jpg]({{site.baseurl}}/img/profile_icc.jpg)
 <img src="profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
 
 Assistant Professor  
