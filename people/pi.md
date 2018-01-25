@@ -7,7 +7,7 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 25px !important; color: #BD0026;">Principal Investigator</span></b>
 <hr>
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Taesup Moon (문태섭)</span></b>
+<b><span style="font-size: 20px !important; color: #696969;">Taesup Moon (문태섭)</span></b>
 
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="150" height="215" align="left" hspace="20" />  
