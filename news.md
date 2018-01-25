@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-published: true
+subtitle: What's up in M.IN.D Lab?
 ---
 
 ### 2018 
