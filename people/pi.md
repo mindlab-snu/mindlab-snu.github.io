@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Principal Investigator
+title: People 
+subtitle: M.IN.D Lab Family
 ---
 
 ## Taesup Moon (문태섭)
