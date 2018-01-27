@@ -12,6 +12,10 @@ subtitle: M.IN.D Lab Family
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />
 
+<br>
+<br>
+<br>
+<br>
 
 <hr>
 
@@ -20,6 +24,12 @@ subtitle: M.IN.D Lab Family
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <hr>
@@ -30,6 +40,12 @@ subtitle: M.IN.D Lab Family
 
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
