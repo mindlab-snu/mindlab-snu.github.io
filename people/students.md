@@ -12,7 +12,6 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">MS Students</span></b>
 <hr>
-<br>
 
 - #### Sunghwan Joo
 - #### Yongbee Park
@@ -21,7 +20,6 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">BS Students</span></b>
 <hr>
-<br>
 
 - #### Seungwon Oh
 - #### Juyeon Huh
