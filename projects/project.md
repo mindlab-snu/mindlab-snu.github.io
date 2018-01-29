@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-subtitle: What we are working on
+title: Research
+subtitle: Projects
 ---
 
 
@@ -12,3 +12,7 @@ subtitle: What we are working on
 - Interpretable machine learning algorithms
 
 ### Data science applications
+- Satellite data based PM2.5 level estimation
+- Non-Intrusive Load Monitoring (NILM)
+- DNA seqeunce denoising
+- Neuroscience / Medical data analyses

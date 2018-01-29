@@ -1,3 +1,10 @@
+---
+layout: page
+title: Research
+subtitle: Publications
+---
+
+
 ### Preprints
 - [https://arxiv.org/abs/1709.03199 *3D densely convolution networks for volumetric segmentation*]\n
 Toan Duc Bui, Jitae Shin and Taesup Moon\n
