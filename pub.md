@@ -1,4 +1,4 @@
-== Preprints
+### Preprints
 - [https://arxiv.org/abs/1709.03199 *3D densely convolution networks for volumetric segmentation*]\n
 Toan Duc Bui, Jitae Shin and Taesup Moon\n
 A short paper for /iSeg-2017 Workshop (MICCAI Grand Challenge on 6-month infant brain MRI Segmentation)/
@@ -12,12 +12,12 @@ Sungmin Cha and Taesup Moon*\n
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungron Yoon, and Taesup Moon*\n
 /Submitted/
 
-== 2017
+### 2017
 - *\[J11\]* [./files/Journal/plosone_dude.pdf *DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing*]\n
 Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman\n
 /PLoS ONE/ ([https://doi.org/10.1371/journal.pone.0181463 doi.org\/10.1371\/journal.pone.0181463]), July 2017
 
-== 2016
+### 2016
 - *\[J10\]*  [./files/Journal/sensors-16-01990.pdf *Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks*]\n
 Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim\n
 /Sensors/, 2016,16,1990, November 2016
