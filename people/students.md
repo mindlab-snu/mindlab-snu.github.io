@@ -4,7 +4,7 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-<img src="../img/group_photo.jpg" width="820" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/group_photo.jpg" width="820" align="center"/>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Ph.D Students</span></b>
 <hr>
