@@ -7,6 +7,7 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 
 - 1, Hongjoon joined the lab as a BS intern. 
+<hr>
 
 ### 2017 (@SKKU)
 
@@ -30,6 +31,7 @@ subtitle: What's up in M.IN.D Lab?
 - 5/22, Invited talk at LG Seoul R&D Center
 - 3/1, Taesup joined SKKU!
 
+<hr>
 
 ### 2016 (@DGIST)
 
