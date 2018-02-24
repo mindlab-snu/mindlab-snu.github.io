@@ -4,7 +4,7 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-<img src="https://drive.google.com/file/d/17oDZLKREA9cpmaDQSUjNnkjEXhZ3hZto/view?usp=sharing" width="820" align="center"/>
+<img src="../img/group_photo.jpg" width="820" align="center"/>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Ph.D Students</span></b>
 <hr>
