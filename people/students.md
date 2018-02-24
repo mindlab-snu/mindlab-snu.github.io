@@ -36,5 +36,5 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
-- Byungjoon Kwon (Currently at NCSoft)
-- Jinhee Park (Currently at KBRI)
+- Byungjoon Kwon (MS, Currently at NCSoft)
+- Jinhee Park (MS, Currently at KBRI)
