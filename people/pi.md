@@ -9,13 +9,11 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #696969;">Taesup Moon (문태섭)</span></b>
 
-
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />
 Assistant Professor  
-School of Electronic and Electrical Engineering  
-College of Information and Communication Engineering  
-Sungkyunkwan University (SKKU)  
-
+[School of Electronic and Electrical Engineering](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp)  
+[College of Information and Communication Engineering](http://icc.skku.edu)  
+[Sungkyunkwan University (SKKU)](http://www.skku.edu)  
 **Contact**  
 [http://mind.skku.edu](http://mind.skku.edu)  
 [tsmoon@skku.edu](tsmoon@skku.edu)  
