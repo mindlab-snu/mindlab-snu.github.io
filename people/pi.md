@@ -37,8 +37,7 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 
 #### SKKU Affiliation
-* 
-He is a recipient of Samsung Scholarship, GE Scholarship, and AT&T Asia-Pacific Leadership Award.     
+* [SKKU Convergence Institute for Intelligence and Informatics (SCI-Cube)](http://sci-cube.skku.edu)
 
 <hr>  
 
