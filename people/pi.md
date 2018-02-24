@@ -22,10 +22,11 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 <hr>
 
-#### Education
-PhD, Electrical Engineering, Stanford University, Stanford, CA  
-MS, 
 
+**Education**   
+PhD, [Department of Electrical Engineering](http://ee.stanford.edu), [Stanford University](http://www.stanford.edu), USA (2008) 
+MS, [Department of Electrical Engineering](http://ee.stanford.edu), [Stanford University](http://www.stanford.edu), USA (2004)
+BS, [Department of Electrical Engineering](http://ee.snu.ac.kr), [Seoul National University](http://www.snu.ac.kr), KOREA (2002)
 #### Work Experience
 
 
