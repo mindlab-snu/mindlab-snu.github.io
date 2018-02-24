@@ -22,6 +22,12 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 <hr>
 
+#### Education
+PhD, Electrical Engineering, Stanford University, Stanford, CA  
+MS, 
+
+#### Work Experience
+
 
 * Assistant Professor
 
