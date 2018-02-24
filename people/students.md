@@ -9,7 +9,7 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 25px !important; color: #BD0026;">Ph.D Students</span></b>
 <hr>
 
-- **Suyeon Jin**  
+- Suyeon Jin  
 - **Sungmin Cha**  
 
 <b><span style="font-size: 25px !important; color: #BD0026;">MS Students</span></b>
