@@ -10,7 +10,7 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 25px !important; color: #696969;">Taesup Moon (문태섭)</span></b>
 
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />  
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />
 Assistant Professor  
 School of Electronic and Electrical Engineering  
 College of Information and Communication Engineering  
