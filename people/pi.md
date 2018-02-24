@@ -17,9 +17,9 @@ College of Information and Communication Engineering
 Sungkyunkwan University (SKKU)  
 
 **Contact**  
-* Web: http://mind.skku.edu
-* E-mail: tsmoon@skku.edu  
-* Address: Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
+Web: [http://mind.skku.edu](http://mind.skku.edu)  
+E-mail: [tsmoon@skku.edu](tsmoon@skku.edu)  
+Address: Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 <hr>
 
