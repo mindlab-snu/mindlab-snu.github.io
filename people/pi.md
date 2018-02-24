@@ -11,6 +11,8 @@ subtitle: M.IN.D Lab Family
 
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/people/profile_icc.jpg" width="197" height="260" align="left" hspace="20" />  
+<hr>
+
 
 
 Taesup Moon is an Assistant Professor at the [School of Electronic and Electrical Engineering](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp), [College of Information and Communication Engineering](http://icc.skku.edu), [Sungkyunkwan University (SKKU)](http://www.skku.edu). Prior to joining SKKU in March 2017, he was an Assistant Professor at [Daegu-Gyeongbuk Institute of Scienc and Technology (DGIST)](http://www.dgist.ac.kr), [Department of Information and Communication Engineering](http://ice.dgist.ac.kr) from Sep 2015 to Feb 2017. From Sep 2013 to Aug 2015, he was a Research Staff Member at [Samsung Advanced Institute of Technology (SAIT)](http://www.sait.samsung.co.kr). From Feb 2012 to Aug 2013, he was a Postdoctoral Scholar at the [University of California at Berkeley](http://www.berkeley.edu), [Department of Statistics](http://statistics.berkeley.edu). From Oct 2009 to Jan 2012, he was a Scientist at [Yahoo! Labs](http://research.yahoo.com).  
