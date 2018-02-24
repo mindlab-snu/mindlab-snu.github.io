@@ -9,11 +9,15 @@ subtitle: Projects
 #### Neural network based denoising / estimation  
 We apply deep neural networks to the classical denoising and estimation problems in signal processing. Under the universal denoising setting, only with the assumption of known noise model, the neural network model effectively aggregates the information from similar contexts and can attain much better performance than the original method proposed in the information theory community.  
 
-This project is supported by [NRF Young Researcher Program (한국연구재단 신진연구)](https://www.nrf.re.kr/biz/info/info/view?biz_no=319) (2016.6~2019.5, 3 Million KRW)
+This project is supported by [NRF Young Researcher Program (한국연구재단 신진연구)](https://www.nrf.re.kr/biz/info/info/view?biz_no=319) (2016.6~2019.5, 300 Million KRW). 
+
+#### Adaptive machine learning algorithm for intelligent autonomous digital companion  
+We develop new class of AI algorithm that can adapt fast and continually learn from interactiv environments. Particularly, we focus on multi-task reinforcement learning algorithm, an RL algorithm that can generalize fast to the tasks that are similar to previously learned tasks. We plan to apply ideas from universal source coding, memory-based learning and interpretable models. 
+
+This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=298&aid=0000214542&sid1=001&lfrom=facebook)(2016.12~2020.12, 750 Million KRW).
 
 
 
-#### Multi-task reinforcement learning / continual learning  
 #### External knowledge based reasoning  
 #### Interpretable machine learning algorithms  
 
