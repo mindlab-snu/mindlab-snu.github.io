@@ -29,7 +29,7 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
   
 #### Work Experience
 
-* Assistant Professor
+* Assistant Professor, [School of EEE](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp), [College of ICE](http://icc.skku.edu), [Sungkyunkwan University (SKKU)](http://www.skku.edu) (2017~)
 * Assistant Professor
 * Research Staff Member
 * Postdoctoral Researcher
