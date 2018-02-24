@@ -5,7 +5,7 @@ subtitle: What's up in M.IN.D Lab?
 ---
 
 ### 2018 
-- 2/15, 1 paper *Neural Adaptive Image Denoiser* accepted to /IEEE ICASSP 2018/.
+- 2/15, 1 paper **Neural Adaptive Image Denoiser** accepted to _IEEE ICASSP 2018_.
 - 1/1, Hongjoon joined the lab as a BS intern. 
 <hr>
 
