@@ -4,7 +4,7 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-<iframe src="https://drive.google.com/file/d/17oDZLKREA9cpmaDQSUjNnkjEXhZ3hZto/view?usp=sharing" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Benjamin Bannekat](https://drive.google.com/file/d/17oDZLKREA9cpmaDQSUjNnkjEXhZ3hZto/view?usp=sharing)
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Ph.D Students</span></b>
 <hr>
