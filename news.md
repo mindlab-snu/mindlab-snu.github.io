@@ -5,8 +5,8 @@ subtitle: What's up in M.IN.D Lab?
 ---
 
 ### 2018 
-
-- 1, Hongjoon joined the lab as a BS intern. 
+- 2/15, 1 paper *Neural Adaptive Image Denoiser" accepted to /IEEE ICASSP 2018/.
+- 1/1, Hongjoon joined the lab as a BS intern. 
 <hr>
 
 ### 2017 (@SKKU)
