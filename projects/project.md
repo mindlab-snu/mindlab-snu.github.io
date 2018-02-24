@@ -7,8 +7,9 @@ subtitle: Projects
 
 
 #### Neural network based denoising / estimation  
-We apply deep neural networks to the classical denoising and estimation problems in signal processing. Under the universal denoising setting, only with 
-the assumption of known noise model,
+We apply deep neural networks to the classical denoising and estimation problems in signal processing. Under the universal denoising setting, only with the assumption of known noise model, the neural network model effectively aggregates the information from similar contexts and can attain much better performance than the original method proposed in the information theory community.  
+
+This project is supported by NRF Young Researcher Program (2016.6~2019.5, 3 Million KRW)
 
 
 
