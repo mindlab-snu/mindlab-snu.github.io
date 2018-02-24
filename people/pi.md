@@ -29,9 +29,9 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
   
 #### Work Experience
 
-* Assistant Professor, [College of ICE](http://icc.skku.edu), [Sungkyunkwan University (SKKU)](http://www.skku.edu) (2017.3~)
+* Assistant Professor, [College of ICE](http://icc.skku.edu), [SKKU](http://www.skku.edu) (2017.3~)
 * Assistant Professor, [Department of ICE](http://ice.dgist.ac.kr), [DGIST](http://www.dgist.ac.kr) (2015.9~2017.2)
-* Research Staff Member, [Samsung Advanced Institute of Technology (SAIT)](http://www.sait.samsung.co.kr) (2013.9~2015.8)
+* Research Staff Member, [SAIT](http://www.sait.samsung.co.kr) (2013.9~2015.8)
 * Postdoctoral Researcher, [Department of Statistics](http://statistics.berkeley.edu), [UC Berkeley](http://www.berkeley.edu) (2012.2~2013.8)
 * Scientist, [Yahoo! Labs](http://research.yahoo.com) (2008.10~2012.1)
 
