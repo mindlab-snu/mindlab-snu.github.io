@@ -9,23 +9,32 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 25px !important; color: #BD0026;">Ph.D Students</span></b>
 <hr>
 
-- #### Suyeon Jin  
-- #### Sungmin Cha  
+- **Suyeon Jin**  
+- **Sungmin Cha**  
 
 <b><span style="font-size: 25px !important; color: #BD0026;">MS Students</span></b>
 <hr>
 
-- #### Sunghwan Joo
-- #### Yongbee Park
-- #### Donggyu Lee   
-- #### Hyeongmin Park
+- **Sunghwan Joo**
+- **Yongbee Park**
+- **Donggyu Lee**   
+- **Hyeongmin Park**
 
 <b><span style="font-size: 25px !important; color: #BD0026;">BS Students</span></b>
 <hr>
 
-- #### Seungwon Oh
-- #### Juyeon Huh
-- #### Wonbin Seo   
-- #### Hongjoon Ahn
+- **Seungwon Oh**
+- **Juyeon Heo**
+- **Wonbin Seo**   
+- **Hongjoon Ahn**
 
+<b><span style="font-size: 25px !important; color: #BD0026;">Visitors</span></b>
+<hr>
+- **Karel Setnička**
+- **Jaewoong Kang**
+- **Changho Shin**
 
+<b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
+<hr>
+- **Byungjoon Kwon (Currently at NCSoft)**
+- **Jinhee Park (Currently at KBRI)**
