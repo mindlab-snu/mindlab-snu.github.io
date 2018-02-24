@@ -1,4 +1,4 @@
----
+-
 layout: page
 title: Research
 subtitle: Projects
@@ -12,13 +12,18 @@ We apply deep neural networks to the classical denoising and estimation problems
 This project is supported by [NRF Young Researcher Program (한국연구재단 신진연구)](https://www.nrf.re.kr/biz/info/info/view?biz_no=319) (2016.6~2019.5, 300 Million KRW). 
 
 #### Multi-task / Lifelong Reinforcement Learning
-We develop new class of AI algorithm that can adapt fast and continually learn from interactiv environments. Particularly, we focus on multi-task reinforcement learning algorithm, an RL algorithm that can generalize fast to the tasks that are similar to previously learned tasks. We plan to apply ideas from universal source coding, memory-based learning and interpretable models. 
+We develop new class of AI algorithms that can adapt fast and continually learn from interactive environments, such as those in autonomous digital companion like Amazon Echo. Particularly, we focus on multi-task reinforcement learning algorithm, an RL algorithm that can generalize fast to the tasks that are similar to previously learned tasks. We plan to apply ideas from universal source coding, memory-based learning and interpretable models. 
 
 This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=298&aid=0000214542&sid1=001&lfrom=facebook) (2016.12~2020.12, 750 Million KRW).
 
 
 
-#### External knowledge based reasoning  
+#### Deep Learning based External knowledge based reasoning  
+We tackle machine comprehension problem, such as given in Stanford Question Answering Dataset (SQuAD), with an angle of utilizing external knowledge source for answering questions for given text. Recurrent neural networks or attention mechanisms are the main wagon for this research. 
+
+This project was supprted by [Samsung Software R&D Center] 
+
+  
 #### Interpretable machine learning algorithms  
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Data science applications</span></b>
