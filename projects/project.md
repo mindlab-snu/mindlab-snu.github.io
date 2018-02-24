@@ -7,6 +7,11 @@ subtitle: Projects
 
 
 #### Neural network based denoising / estimation  
+We apply deep neural networks to the classical denoising and estimation problems in signal processing. Under the universal denoising setting, only with 
+the assumption of known noise model,
+
+
+
 #### Multi-task reinforcement learning / continual learning  
 #### External knowledge based reasoning  
 #### Interpretable machine learning algorithms  
