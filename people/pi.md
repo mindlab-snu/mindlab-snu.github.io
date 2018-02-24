@@ -13,7 +13,8 @@ subtitle: M.IN.D Lab Family
 Assistant Professor  
 [School of Electronic and Electrical Engineering](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp)  
 [College of Information and Communication Engineering](http://icc.skku.edu)  
-[Sungkyunkwan University (SKKU)](http://www.skku.edu)  
+[Sungkyunkwan University (SKKU)](http://www.skku.edu) 
+ 
 **Contact**  
 [http://mind.skku.edu](http://mind.skku.edu)  
 [tsmoon@skku.edu](tsmoon@skku.edu)  
