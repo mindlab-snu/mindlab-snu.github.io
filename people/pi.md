@@ -22,8 +22,7 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 <hr>
 
-
-**Education** 
+#### Education 
 * PhD, [Department of Electrical Engineering](http://ee.stanford.edu), [Stanford University](http://www.stanford.edu) (2008)  
 * MS, [Department of Electrical Engineering](http://ee.stanford.edu), [Stanford University](http://www.stanford.edu) (2004)  
 * BS, [Department of Electrical Engineering](http://ee.snu.ac.kr), [Seoul National University](http://www.snu.ac.kr) (2002)  
