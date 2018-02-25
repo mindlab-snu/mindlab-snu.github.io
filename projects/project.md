@@ -17,14 +17,14 @@ We develop new class of AI algorithms that can adapt fast and continually learn 
 This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=298&aid=0000214542&sid1=001&lfrom=facebook) (2016.12~2020.12, 750 Million KRW).
 
 
-
 #### Deep Learning based External knowledge based reasoning  
 We tackle machine comprehension problem, such as given in Stanford Question Answering Dataset (SQuAD), with an angle of utilizing external knowledge source for answering questions for given text. Recurrent neural networks or attention mechanisms are the main wagons for this research. 
 
-This project was supprted by [Samsung Software R&D Center] 
-
+This project was supprted by Samsung Software R&D Center (2017.4~2017.12, 80 Million KRW). 
   
 #### Interpretable machine learning algorithms  
+
+Interpretability 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Data science applications</span></b>
 
