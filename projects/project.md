@@ -30,13 +30,14 @@ This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Data science applications</span></b>
 
+#### Neuroscience / Medical data analyses
+We apply interpretable deep learning methods to various medical / neuroscience related data for achieving high prediction accuracy as well as make new scientific findings. We try to collaborate with many partners, such as Samsung Medical Center, SNU Hospital, and SKKU IBS (Prof. Choong Wan Woo).
+
 #### Satellite data based PM2.5 level estimation
 
-We apply deep learning / machine learning method for PM2.5 level prediction using satellite and meteorological data. This is a joint work with Prof. Yang Liu at Emory University. 
+We apply deep learning / machine learning method for PM2.5 level prediction using satellite and meteorological data. This is a joint work with [Prof. Yang Liu (Emory University, Environmental Health)](https://www.sph.emory.edu/faculty/profile/#\!YLIU74)
 
 #### Non-Intrusive Load Monitoring (NILM)
 
 This project aims to disaggregate the energy usage per device from the total energy usage (time-series) data, based on convolutional neural networks (CNN). This is a joint work with [Encored Technologies, Inc.](http://www.enertalk.com/)
 
-#### DNA seqeunce denoising
-#### Neuroscience / Medical data analyses
