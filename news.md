@@ -5,6 +5,7 @@ subtitle: What's up in M.IN.D Lab?
 ---
 
 ### 2018 
+<hr>
 
 **February**
 - 2/19, Hyeongmin joined the lab as new MS student. Welcome!
