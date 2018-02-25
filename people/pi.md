@@ -17,7 +17,7 @@ Assistant Professor
  
 **Contact**  
 [http://mind.skku.edu](http://mind.skku.edu)  
-[tsmoon@skku.edu](E-mail:tsmoon@skku.edu)  
+tsmoon <at> skku <dot> edu  
 +82-31-299-4326  
 Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
