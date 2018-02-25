@@ -35,6 +35,6 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
-- Byungjoon Kwon (MS, Currently at NCSoft)
-- Jinhee Park (MS, Currently at KBRI)
-- Karel Setnička (MS visitor, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
+- Byungjoon Kwon (MS '17, Currently at NCSoft)
+- Jinhee Park (MS '17, Currently at KBRI)
+- Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
