@@ -20,7 +20,7 @@ This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](h
 #### Deep Learning based External knowledge based reasoning  
 We tackle machine comprehension problem, such as given in Stanford Question Answering Dataset (SQuAD), with an angle of utilizing external knowledge source for answering questions for given text. Recurrent neural networks or attention mechanisms are the main wagons for this research. 
 
-This project was supprted by Samsung Software R&D Center (2017.4~2017.12, 80 Million KRW). 
+This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017.4~2017.12, 80 Million KRW). 
   
 #### Interpretable machine learning algorithms  
 
