@@ -30,9 +30,9 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Visitors</span></b>
 <hr>
-- Karel Setnička
-- Jaewoong Kang
-- Changho Shin
+- Karel Setnička (from [Czech Technical University in Prague](https://www.cvut.cz/en))
+- Jaewoong Kang (from SKKU IWTL)
+- Changho Shin (from Encored Technologies, Inc.)
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
