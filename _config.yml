@@ -28,7 +28,6 @@ navbar-links:
   People: 
     - PI: "people/pi"
     - Students: "people/students"
-    - Alumni: "people/alumni"
   Research: 
     - Projects: "projects/project"
     - Publications: "pub"
