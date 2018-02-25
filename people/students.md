@@ -30,7 +30,6 @@ subtitle: M.IN.D Lab Family
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Visitors</span></b>
 <hr>
-- Karel Setnička (from [Czech Technical University in Prague](https://www.cvut.cz/en))
 - Jaewoong Kang (from SKKU IWTL)
 - Changho Shin (from Encored Technologies, Inc.)
 
@@ -38,3 +37,4 @@ subtitle: M.IN.D Lab Family
 <hr>
 - Byungjoon Kwon (MS, Currently at NCSoft)
 - Jinhee Park (MS, Currently at KBRI)
+- Karel Setnička (MS visitor, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
