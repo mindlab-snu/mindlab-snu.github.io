@@ -24,11 +24,19 @@ This project was supprted by Samsung Software R&D Center (2017.4~2017.12, 80 Mil
   
 #### Interpretable machine learning algorithms  
 
-Interpretability 
+Interpretability is an indispensable feature needed for AI algorithms that make critical decisions such as cancer treatment recommendation or load approval rate prediction. We plan to develop a new learning method for deep learning algorithms that take the interpretability into account. 
+
+This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Data science applications</span></b>
 
 #### Satellite data based PM2.5 level estimation
+
+We apply deep learning / machine learning method for PM2.5 level prediction using satellite and meteorological data. This is a joint work with Prof. Yang Liu at Emory University. 
+
 #### Non-Intrusive Load Monitoring (NILM)
+
+This project aims to disaggregate the energy usage per device from the total energy usage (time-series) data, based on convolutional neural networks (CNN). This is a joint work with [Encored Technologies, Inc.](http://www.enertalk.com/)
+
 #### DNA seqeunce denoising
 #### Neuroscience / Medical data analyses
