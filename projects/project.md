@@ -43,7 +43,7 @@ This project aims to disaggregate the energy usage per device from the total ene
 
 #### DNA sequence denoising
 
-This project
+We apply the recently proposed Neural DUDE to the Next Generation Sequencing DNA data. The aim is to develop flexible and universal denoiser that surpass the previous state-of-the-arts that are tailored to specific sequencing devices. This is a joint work with [Prof. Sungroh Yoon](http://best.snu.ac.kr).  
 
 
 
