@@ -30,7 +30,7 @@ Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim\n
 /Sensors/, 2016,16,1990, November 2016
 - **[C12]** [**Neural universal discrete denoiser**](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
 **Taesup Moon**, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
-/Proceedings of Neural Information Processing Systems (NIPS)/, December 2016
+_Proceedings of Neural Information Processing Systems (NIPS)_, December 2016
 - *\[C11\]* [./files/Conference/SPIE2016.pdf *Classification of human activity on water through micro-Dopplers using deep convolutional neural networks*]\n
 Youngwook Kim and Taesup Moon*\n
 /Proceedings of SPIE 9829, Radar Sensor Technology XX/, 982917, May 2016\n
