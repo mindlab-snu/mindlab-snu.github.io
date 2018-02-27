@@ -28,8 +28,8 @@ Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman\n
 - *\[J10\]*  [./files/Journal/sensors-16-01990.pdf *Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks*]\n
 Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim\n
 /Sensors/, 2016,16,1990, November 2016
-- *\[C12\]* [./files/Journal/neural_dude_nips_camera.pdf *Neural universal discrete denoiser*] ([./files/Journal/suppl_camera.pdf *supplementary*])\n
-Taesup Moon*, Seonwoo Min, Byunghan Lee, and Sungroh Yoon\n
+- *[C12]* [*Neural universal discrete denoiser*](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
+**Taesup Moon**, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
 /Proceedings of Neural Information Processing Systems (NIPS)/, December 2016
 - *\[C11\]* [./files/Conference/SPIE2016.pdf *Classification of human activity on water through micro-Dopplers using deep convolutional neural networks*]\n
 Youngwook Kim and Taesup Moon*\n
