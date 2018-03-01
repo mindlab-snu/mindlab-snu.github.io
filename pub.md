@@ -17,7 +17,7 @@ _Submitted_
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
 Bo-yong Park, Taesup Moon and Hyunjin Park   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
-- **[C13]** Neural adaptive image denoiser  
+- **[C13]** [Neural adaptive image denoiser](http://115.145.155.74/files/Conference/icassp_aide.pdf)  
 Sungmin Cha and Taesup Moon  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
@@ -113,7 +113,7 @@ IP.com Prior Art Database Disclosure, Disclosure Number IPCOM000216302D, March 2
 Taesup Moon, Wei Chu, Lihong Li, Zhaohui Zheng, and Yi Chang  
 IP.com Prior Art Database Disclosure, Disclosure Number IPCOM000203007D, January 2011
 
-#### Thesis
+### Thesis
 - Learning from noisy data with applications to filtering and denoising  
 PhD Thesis, Stanford University, September 2008  
 Reading committee: Tsachy Weissman, Thomas M. Cover, Abbas El Gamal
