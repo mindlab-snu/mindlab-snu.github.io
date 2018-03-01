@@ -7,17 +7,16 @@ subtitle: Publications
 
 ### Preprints
 - [**3D densely convolution networks for volumetric segmentation**](https://arxiv.org/abs/1709.03199)  
-Toan Duc Bui, Jitae Shin and Taesup Moon
-Submitted
-- *[https://arxiv.org/abs/1709.03657 Uniform concentration of the loss estimator for Neural DUDE]*\n
-Taesup Moon*\n
-[https://arxiv.org/abs/1709.03657 arXiv:1709.03657]
-- *Neural adaptive image denoiser*\n
-Sungmin Cha and Taesup Moon*\n
-/Submitted/ ([https://arxiv.org/abs/1709.05672 arXiv:1709.05672])
-- *Supervised Neural DUDE for adaptive discrete denoising*\n
-Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungron Yoon, and Taesup Moon*\n
-/Submitted/
+Toan Duc Bui, Jitae Shin and Taesup Moon  
+_Submitted_
+- [**A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers**](https://arxiv.org/abs/1709.03657)  
+Taesup Moon  
+_Submitted_
+
+### 2018
+- [**Neural adaptive image denoiser**]
+Sungmin Cha and Taesup Moon
+_2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
 - *\[J11\]* [./files/Journal/plosone_dude.pdf *DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing*]\n
