@@ -89,7 +89,7 @@ _IEEE Transactions on Signal Processing_, vol.57, no.3, pp.1068-1083, March 2009
 - **[J1]** [Universal filtering via hidden Markov modeling](http://mind.skku.edu/files/Journal/it1.pdf)  
 Taesup Moon and Tsachy Weissman  
 _IEEE Transactions on Information Theory_, vol.54, no.2, pp.692–708, February 2008
-- **[C3]** [Discrete denoising with shifts]
+- **[C3]** Discrete denoising with shifts  
 Taesup Moon and Tsachy Weissman  
 _Proceedings of the 45th Annual Allerton Conference on Communication, Control, and Computation_, Monticello, Illinois, September 2007
 - **[C2]** [Competitive on-line linear FIR MMSE filtering](http://mind.skku.edu/files/Conference/isit2007.pdf)  
