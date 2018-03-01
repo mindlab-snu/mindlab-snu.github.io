@@ -14,6 +14,9 @@ Taesup Moon
 _Submitted_
 
 ### 2018
+- **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
+Bo-yong Park, Taesup Moon and Hyunjin Park  
+_Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** Neural adaptive image denoiser  
 Sungmin Cha and Taesup Moon  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
