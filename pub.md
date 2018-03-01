@@ -15,7 +15,7 @@ _Submitted_
 
 ### 2018
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
-Bo-yong Park, Taesup Moon and _Hyunjin Park_* 
+Bo-yong Park, Taesup Moon and _Hyunjin Park_*   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** Neural adaptive image denoiser  
 Sungmin Cha and Taesup Moon  
@@ -27,9 +27,9 @@ Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman
 _PLoS ONE_ ([https://doi.org/10.1371/journal.pone.0181463 doi.org\/10.1371\/journal.pone.0181463]), July 2017
 
 ### 2016
-- *\[J10\]*  [http://115.145.155.74/files/Journal/sensors-16-01990.pdf *Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks*]\n
-Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim\n
-/Sensors/, 2016,16,1990, November 2016
+- **[J10]**  [Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks](http://115.145.155.74/files/Journal/sensors-16-01990.pdf)  
+Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim  
+_Sensors_, 2016,16,1990, November 2016  
 - **[C12]** [**Neural universal discrete denoiser**](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
 **Taesup Moon**, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
 _Proceedings of Neural Information Processing Systems (NIPS)_, December 2016
