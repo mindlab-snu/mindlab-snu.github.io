@@ -56,59 +56,45 @@ _IEEE Transactions on Geoscience and Remote Sensing_, vol.53, no.8, pp.4328-4339
 - **[J6]** [Exploiting user preference for online learning in recommender systems](http://115.145.155.74/files/Journal/bian_etal-tist.pdf)  
 Jiang Bian, Bo Long, Lihong Li, Taesup Moon, Anlei Dong, and Yi Chang  
 _ACM Transactions on Intelligent Systems and Technology_, vol.5, no.2, April 2014
-
 - **[J5]** [An online learning framework for refining recency search results with user click feedback](http://mind.skku.edu/files/Journal/a20-moon.pdf)  
 Taesup Moon, Lihong Li, Wei Chu, Zhaohui Zheng, and Yi Chang  
 _ACM Transactions on Information Systems_, vol. 30, no.4, 20:1-20:28, November 2012
-
 - **[J4]** [Universal switching FIR filtering](http://mind.skku.edu/files/Journal/sp4.pdf)  
 Taesup Moon  
 _IEEE Transactions on Signal Processing_, vol.60, no.3, pp.1460-1464, March 2012
-
 - **[C9]** [An unbiased offline evaluation of contextual bandit algorithms with generalized linear models](http://mind.skku.edu/files/Conference/li12a.pdf)  
 Lihong Li, Wei Chu, John Langford, Taesup Moon, Xuanhui Wang  
 _Journal of Machine Learning Research - Workshop and Conference Proceedings 26: On-line Trading of Exploration and Exploitation 2_, pp.19-36, May 2012
-
 - **[C8]** [Discrete denoising of heterogeneous two-dimensional data](http://mind.skku.edu/files/Conference/isit2011.pdf)  
 Taesup Moon, Tsachy Weissman, and Jae-Young Kim  
 _Proceedings of 2011 IEEE International Symposium on Information Theory (ISIT)_, pp.966–970, St. Petersburg, Russia, August 2011
-
 - **[C7]** [Learning to model relatedness for news recommendation](http://mind.skku.edu/files/Conference/www2011.pdf)   
 Yuanhua Lv, Taesup Moon, Pranam Kolari, Zhaohui Zheng, Xuanhui Wang, and Yi Chang  
 _Proceedings of the 20th International World Wide Web (WWW) Conference_, pp.57-66, Hyderabad, India, March 2011
-
 - **[C6]** [User behavior driven ranking without editorial judgments](http://mind.skku.edu/files/Conference/cikm1.pdf)  
 Taesup Moon, Shihao Ji, Georges Dupret, Ciya Liao, and Zhaohui Zheng  
 _Proceedings of the 19th ACM International Conference on Information and Knowledge Management (CIKM) (short paper)_, pp.1473–1476, Toronto, Canada, October 2010
-
 - **[C5]** [Online learning for recency search ranking using real-time user feedback](http://mind.skku.edu/files/Conference/cikm2.pdf)  
 Taesup Moon, Lihong Li, Wei Chu, Zhaohui Zheng, and Yi Chang  
 _Proceedings of the 19th ACM International Conference on Information and Knowledge Management (CIKM) (short paper)_, pp.1501–1504, Toronto, Canada, October 2010
-
 - **[C4]** [IntervalRank - Isotonic regression with listwise and pairwise constraints](http://mind.skku.edu/files/Conference/wsdm2010.pdf)  
 Taesup Moon, Alex Smola, Yi Chang, and Zhaohui Zheng  
 _Proceedings of the 3rd ACM International Conference on Web Search and Data Mining (WSDM)_, pp.151–159, New York, NY, February 2010
-
 - **[J3]** [Discrete denoising with shifts](http://mind.skku.edu/files/Journal/it3.pdf)  
 Taesup Moon and Tsachy Weissman  
 _IEEE Transactions on Information Theory_, vol. 55, no.11, pp.5284–5301, November 2009
-
 - **[J2]** [Universal FIR MMSE filtering](http://mind.skku.edu/files/Journal/sp2.pdf)  
 Taesup Moon and Tsachy Weissman  
 _IEEE Transactions on Signal Processing_, vol.57, no.3, pp.1068-1083, March 2009
-
 - **[J1]** [Universal filtering via hidden Markov modeling](http://mind.skku.edu/files/Journal/it1.pdf)  
 Taesup Moon and Tsachy Weissman  
 _IEEE Transactions on Information Theory_, vol.54, no.2, pp.692–708, February 2008
-
 - **[C3]** [Discrete denoising with shifts]
 Taesup Moon and Tsachy Weissman  
 _Proceedings of the 45th Annual Allerton Conference on Communication, Control, and Computation_, Monticello, Illinois, September 2007
-
 - **[C2]** [Competitive on-line linear FIR MMSE filtering](http://mind.skku.edu/files/Conference/isit2007.pdf)  
 Taesup Moon and Tsachy Weissman  
 _Proceedings of 2007 IEEE International Symposium on Information Theory (ISIT)_, pp.1126–1130, Nice, France, June 2007
-
 - **[C1]** [Discrete universal filtering via hidden Markov modeling](http://mind.skku.edu/files/Conference/isit2005.pdf)  
 Taesup Moon and Tsachy Weissman  
 _Proceedings of 2005 IEEE International Symposium on Information Theory (ISIT)_, pp.1285–1289, Adelaide, Australia, September 2005
