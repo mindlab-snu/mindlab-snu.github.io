@@ -18,7 +18,7 @@ _Submitted_
 Bo-yong Park, Taesup Moon and _**Hyunjin Park**_   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** Neural adaptive image denoiser  
-Sungmin Cha and _**Taesup Moon**_  
+Sungmin Cha and __Taesup Moon__  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
