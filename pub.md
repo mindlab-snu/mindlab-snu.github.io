@@ -6,9 +6,9 @@ subtitle: Publications
 
 
 ### Preprints
-- [https://arxiv.org/abs/1709.03199 *3D densely convolution networks for volumetric segmentation*]\n
-Toan Duc Bui, Jitae Shin and Taesup Moon\n
-A short paper for /iSeg-2017 Workshop (MICCAI Grand Challenge on 6-month infant brain MRI Segmentation)/
+- [**3D densely convolution networks for volumetric segmentation**](https://arxiv.org/abs/1709.03199)  
+Toan Duc Bui, Jitae Shin and Taesup Moon
+Submitted
 - *[https://arxiv.org/abs/1709.03657 Uniform concentration of the loss estimator for Neural DUDE]*\n
 Taesup Moon*\n
 [https://arxiv.org/abs/1709.03657 arXiv:1709.03657]

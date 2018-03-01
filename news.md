@@ -8,7 +8,7 @@ subtitle: What's up in M.IN.D Lab?
 <hr>
 
 **February**
-- 2/19, Hyeongmin joined the lab as new MS student. Welcome!
+- 2/19, Hyeongmin joined the lab as a new MS student. Welcome!
 - 2/19, Karel finished his visiting and went back to Czech Republic. 
 - 2/15, A paper, **Neural Adaptive Image Denoiser**, got accepted to _IEEE ICASSP 2018_!
 - 2/7, Taesup gave a talk at _IPIU 2018_. 
