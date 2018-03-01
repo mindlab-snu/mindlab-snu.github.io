@@ -15,7 +15,7 @@ _Submitted_
 
 ### 2018
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
-Bo-yong Park, Taesup Moon and _Hyunjin Park_*   
+Bo-yong Park, Taesup Moon and _**Hyunjin Park**_   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** Neural adaptive image denoiser  
 Sungmin Cha and Taesup Moon  
@@ -24,7 +24,7 @@ _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASS
 ### 2017
 - **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.155.74/files/Journal/plosone_dude.pdf)  
 Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman  
-_PLoS ONE_ ([https://doi.org/10.1371/journal.pone.0181463 doi.org\/10.1371\/journal.pone.0181463]), July 2017
+_PLoS ONE_ ([doi.org\/10.1371\/journal.pone.0181463](http://115.145.155.74/files/Journal/sensors-16-01990.pdf)), July 2017
 
 ### 2016
 - **[J10]**  [Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks](http://115.145.155.74/files/Journal/sensors-16-01990.pdf)  
