@@ -18,12 +18,12 @@ _Submitted_
 Bo-yong Park, Taesup Moon and _**Hyunjin Park**_   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** Neural adaptive image denoiser  
-Sungmin Cha and Taesup Moon  
+Sungmin Cha and _**Taesup Moon**_  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
 - **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.155.74/files/Journal/plosone_dude.pdf)  
-Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman  
+Byunghan Lee, _**Taesup Moon**_, _**Sungroh Yoon**_ and Tsachy Weissman  
 _PLoS ONE_ ([doi.org/10.1371/journal.pone.0181463](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)), July 2017
 
 ### 2016
