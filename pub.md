@@ -30,15 +30,15 @@ _PLoS ONE_ ([doi.org/10.1371/journal.pone.0181463](http://journals.plos.org/plos
 - **[J10]**  [Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks](http://115.145.155.74/files/Journal/sensors-16-01990.pdf)  
 Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim  
 _Sensors_, 2016,16,1990, November 2016  
-- **[C12]** [**Neural universal discrete denoiser**](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
+- **[C12]** [Neural universal discrete denoiser](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
 **Taesup Moon**, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
 _Proceedings of Neural Information Processing Systems (NIPS)_, December 2016
-- *\[C11\]* [http://115.145.155.74/files/Conference/SPIE2016.pdf *Classification of human activity on water through micro-Dopplers using deep convolutional neural networks*]\n
-Youngwook Kim and Taesup Moon*\n
-/Proceedings of SPIE 9829, Radar Sensor Technology XX/, 982917, May 2016\n
-- *\[J9\]* [./files/Journal/IEEE-Access-RMCA.pdf *Regularization and kernelization of the maximin correlation approach*]\n
-Taehoon Lee, Taesup Moon, Seung Jean Kim, and Sungroh Yoon*\n
-/IEEE Access/, vol. 4, pp. 1385-1392, April 2016\n
+- **[C11]** [Classification of human activity on water through micro-Dopplers using deep convolutional neural networks](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)  
+Youngwook Kim and **Taesup Moon**  
+_Proceedings of SPIE 9829, Radar Sensor Technology XX_, 982917, May 2016  
+- **[J9]** [Regularization and kernelization of the maximin correlation approach](http://115.145.155.74/files/Journal/IEEE-Access-RMCA.pdf)  
+Taehoon Lee, Taesup Moon, Seung Jean Kim, and **Sungroh Yoon**  
+_IEEE Access_, vol. 4, pp. 1385-1392, April 2016\n
 - *\[J8\]* [./files/Journal/GRSL_kim_moon.pdf *Human detection and activity classification based on micro-Dopplers using deep convolutional neural networks*] ([./files/Journal/GRSL-most-popular.png 3rd most downloaded paper (Aug 2016, July 2016)] in [http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859 IEEE GRSL])\n
 Youngwook Kim and Taesup Moon*\n
 /IEEE Geoscience and Remote Sensing Letters/, vol.13, no.1, pp.8-12, January 2016\n
