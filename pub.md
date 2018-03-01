@@ -6,7 +6,7 @@ subtitle: Publications
 
 
 ### Preprints
-- [**3D densely convolution networks for volumetric segmentation**](https://arxiv.org/abs/1709.03199)  
+- [3D densely convolution networks for volumetric segmentation](https://arxiv.org/abs/1709.03199)  
 Toan Duc Bui, Jitae Shin and Taesup Moon  
 _Submitted_
 - [**A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers**](https://arxiv.org/abs/1709.03657)  
