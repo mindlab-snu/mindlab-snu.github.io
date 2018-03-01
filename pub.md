@@ -99,4 +99,23 @@ _Proceedings of 2007 IEEE International Symposium on Information Theory (ISIT)_,
 Taesup Moon and Tsachy Weissman  
 _Proceedings of 2005 IEEE International Symposium on Information Theory (ISIT)_, pp.1285–1289, Adelaide, Australia, September 2005
 
+### Patents and Defensive Publications
+- Neural network training method and apparatus, and data processing apparatus  
+Taesup Moon, Yeha Lee, and Heeyoul Choi  
+US Patent Application 20160026913 A1, Jan 2016
+- Related news articles  
+Taesup Moon, Pranam Kolari, Zhoahui Zheng, Xuanhui Wang, Yi Chang, and Yuanhua Lv  
+US Patent US8713028 B2, April 2014
+- A method of using a pairwise learning model in an online recommendation system  
+Jiang Bian, Bo Long, Lihong Li, Taesup Moon, Anlei Dong, and Yi Chang  
+IP.com Prior Art Database Disclosure, Disclosure Number IPCOM000216302D, March 2012 
+- Method and system of online learning for recency search ranking using real-time user feedback  
+Taesup Moon, Wei Chu, Lihong Li, Zhaohui Zheng, and Yi Chang  
+IP.com Prior Art Database Disclosure, Disclosure Number IPCOM000203007D, January 2011
+
+#### Thesis
+- Learning from noisy data with applications to filtering and denoising  
+PhD Thesis, Stanford University, September 2008  
+Reading committee: Tsachy Weissman, Thomas M. Cover, Abbas El Gamal
+
 
