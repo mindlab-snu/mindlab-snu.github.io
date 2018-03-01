@@ -9,13 +9,13 @@ subtitle: Publications
 - [3D densely convolution networks for volumetric segmentation](https://arxiv.org/abs/1709.03199)  
 Toan Duc Bui, Jitae Shin and Taesup Moon  
 _Submitted_
-- [**A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers**](https://arxiv.org/abs/1709.03657)  
+- [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
 _Submitted_
 
 ### 2018
-- [**Neural adaptive image denoiser**]
-Sungmin Cha and Taesup Moon
+- Neural adaptive image denoiser  
+Sungmin Cha and Taesup Moon  
 _2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
