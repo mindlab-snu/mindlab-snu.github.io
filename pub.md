@@ -14,23 +14,23 @@ Taesup Moon
 _Submitted_
 
 ### 2018
-- Neural adaptive image denoiser  
+- **[C13]** Neural adaptive image denoiser  
 Sungmin Cha and Taesup Moon  
-_2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
+_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
-- *\[J11\]* [./files/Journal/plosone_dude.pdf *DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing*]\n
-Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman\n
-/PLoS ONE/ ([https://doi.org/10.1371/journal.pone.0181463 doi.org\/10.1371\/journal.pone.0181463]), July 2017
+- **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.155.74/files/Journal/plosone_dude.pdf)  
+Byunghan Lee, Taesup Moon\*, Sungroh Yoon\* and Tsachy Weissman  
+_PLoS ONE_ ([https://doi.org/10.1371/journal.pone.0181463 doi.org\/10.1371\/journal.pone.0181463]), July 2017
 
 ### 2016
-- *\[J10\]*  [./files/Journal/sensors-16-01990.pdf *Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks*]\n
+- *\[J10\]*  [http://115.145.155.74/files/Journal/sensors-16-01990.pdf *Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks*]\n
 Jinhee Park, Rios Jesus Javier, Taesup Moon*, and Youngwook Kim\n
 /Sensors/, 2016,16,1990, November 2016
 - **[C12]** [**Neural universal discrete denoiser**](http://115.145.155.74/files/Journal/neural_dude_nips_camera.pdf)  
 **Taesup Moon**, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
 _Proceedings of Neural Information Processing Systems (NIPS)_, December 2016
-- *\[C11\]* [./files/Conference/SPIE2016.pdf *Classification of human activity on water through micro-Dopplers using deep convolutional neural networks*]\n
+- *\[C11\]* [http://115.145.155.74/files/Conference/SPIE2016.pdf *Classification of human activity on water through micro-Dopplers using deep convolutional neural networks*]\n
 Youngwook Kim and Taesup Moon*\n
 /Proceedings of SPIE 9829, Radar Sensor Technology XX/, 982917, May 2016\n
 - *\[J9\]* [./files/Journal/IEEE-Access-RMCA.pdf *Regularization and kernelization of the maximin correlation approach*]\n
