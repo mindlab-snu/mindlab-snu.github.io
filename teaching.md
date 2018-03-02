@@ -11,28 +11,28 @@ subtitle: Courses
 
 <hr>
 ### 2017
-**Fall*
+####Fall
 - Circuit Theory (Undergraduate) 
 - Probability and Random Processes (Undergraduate)
 
-**Spring**
+####Spring
 - Neural Networks (Deep Learning) (Graduate)
 - Introduction to Machine Learning (Undergraduate)
 
 <hr>
 
 ### 2016
-**Fall*
+#### Fall
 - Algorithms (Graduate)
 
-**Spring**
+#### Spring
 - Data Structure and Algorithms (Undergraduate)
 - Introduction to Machine Learning (Undergraduate)
 
 <hr>
 
 ### 2015
-**Fall*
+#### Fall
 - Probability and Random Processes (Graduate)
 
 
