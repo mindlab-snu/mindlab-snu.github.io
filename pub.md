@@ -116,6 +116,6 @@ _IP.com Prior Art Database Disclosure, Disclosure Number IPCOM000203007D_, Janua
 ### Thesis
 - [Learning from noisy data with applications to filtering and denoising](http://115.145.155.74/files/Thesis/phd_thesis.pdf)    
 PhD Thesis, Stanford University, September 2008  
-Reading committee: Tsachy Weissman, Thomas M. Cover, Abbas El Gamal
+Reading committee: [Tsachy Weissman](https://web.stanford.edu/~tsachy/), [Thomas M. Cover](https://www.nap.edu/read/18959/chapter/12), [Abbas El Gamal](http://isl.stanford.edu/~abbas/)
 
 
