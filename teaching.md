@@ -5,7 +5,7 @@ subtitle: Courses
 ---
 
 ### 2018 
-**Spring**
+#### Spring
 - Neural Networks (Deep Learning) (Graduate)
 - Advanced Machine Learning (Undergraduate)
 
