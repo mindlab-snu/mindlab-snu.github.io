@@ -9,6 +9,6 @@ published: true
 
 Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). 
 
-Following is our lab intro video (special thanks to Karel Setnička)! To know more about joining the lab, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. Also, info for joining the lab [info](info.md) 
+Following is our lab intro video (special thanks to Karel Setnička)! To know more about joining the lab, please read this [info](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. 
 <iframe src="https://player.vimeo.com/video/257239184" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
