@@ -3,7 +3,19 @@ layout: page
 title: Research
 subtitle: Projects
 ---
-<b><span style="font-size: 25px !important; color: #BD0026;">Core machine intelligence algorithms</span></b>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Main research areas & tools</span></b>
+- Deep learning / Machine learning
+- Statistical signal processing
+- Information theory
+- Many areas that deal with mathematics and computation
+- **Main tools**: Python/NumPy, C++/CUDA, Keras, Tensorflow, Pytorch
+
+<hr>
+<b><span style="font-size: 25px !important; color: #BD0026;">Current projects</span></b>
+
+
+<b><span style="font-size: 20px !important; color: #BD0026;">Core machine intelligence algorithms</span></b>
 
 
 #### Neural Network based Denoising / Estimation  
@@ -27,8 +39,9 @@ This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017
 Interpretability is an indispensable feature needed for AI algorithms that make critical decisions such as cancer treatment recommendation or load approval rate prediction. We plan to develop a new learning method for deep learning algorithms that take the interpretability into account. 
 
 This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
+<hr>
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Data science applications</span></b>
+<b><span style="font-size: 20px !important; color: #BD0026;">Data science applications</span></b>
 
 #### Neuroscience / Medical data analyses
 We apply interpretable deep learning methods to various medical / neuroscience related data for achieving high prediction accuracy and making new new scientific contributions. We try to collaborate with many partners, such as Samsung Medical Center (Prof. Ho Yun Lee), SNU Hospital (Dr. Jangsup Moon, Prof. Jaejin Song), and [SKKU IBS (Prof. Choong-Wan Woo)](http://cocoanlab.github.io).
