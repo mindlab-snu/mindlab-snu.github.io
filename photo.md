@@ -1,8 +1,7 @@
 ---
-layout: post
-title: First post!
-tags: [random, exciting-stuff]
+layout: page
+title: Group photos
+subtitle: Handsome people
 ---
 
-<img src="img/front.png" width="820" align="center"/>
-
+To be updated...
