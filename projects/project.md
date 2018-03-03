@@ -15,7 +15,7 @@ subtitle: Projects
 <b><span style="font-size: 25px !important; color: #BD0026;">Current projects</span></b>
 
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Core machine intelligence algorithms</span></b>
+<b><span style="font-size: 20px !important; color: ##E9967A;">Core machine intelligence algorithms</span></b>
 
 
 #### Neural Network based Denoising / Estimation  
@@ -41,7 +41,7 @@ Interpretability is an indispensable feature needed for AI algorithms that make 
 This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
 <hr>
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Data science applications</span></b>
+<b><span style="font-size: 20px !important; color: ##E9967A;">Data science applications</span></b>
 
 #### Neuroscience / Medical data analyses
 We apply interpretable deep learning methods to various medical / neuroscience related data for achieving high prediction accuracy and making new new scientific contributions. We try to collaborate with many partners, such as Samsung Medical Center (Prof. Ho Yun Lee), SNU Hospital (Dr. Jangsup Moon, Prof. Jaejin Song), and [SKKU IBS (Prof. Choong-Wan Woo)](http://cocoanlab.github.io).
