@@ -4,5 +4,5 @@ title: First post!
 tags: [random, exciting-stuff]
 ---
 
+<img src="img/front.png" width="820" align="center"/>
 
-This is the first post.  
