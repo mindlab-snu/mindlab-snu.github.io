@@ -14,6 +14,7 @@ subtitle: What's up in M.IN.D Lab?
 - 3/15, A new project with KIST on "Interpretable AI" (40M KRW/year) started!
 
 **February**
+- 2/28, Taesup will serve as a reviewer for _ECCV 2018_.
 - 2/19, Hyeongmin joined the lab as a new MS student. Welcome!
 - 2/19, Karel finished his visiting and went back to Czech Republic. 
 - 2/15, A paper, **Neural Adaptive Image Denoiser**, got accepted to _IEEE ICASSP 2018_!
