@@ -7,6 +7,11 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
+**March**
+- 3/2, Our homepage is renewed!
+- 3/2, Jungtae and Youngeun joined the lab as Samsung-sponsored MS students.
+- 3/8, Taesup will give a tutorial at [_ICCE-Asia 2018_](http://www.icce-asia2018.org/) in June, 2018. 
+
 **February**
 - 2/19, Hyeongmin joined the lab as a new MS student. Welcome!
 - 2/19, Karel finished his visiting and went back to Czech Republic. 
