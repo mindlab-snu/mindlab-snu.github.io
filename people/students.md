@@ -10,7 +10,7 @@ subtitle: M.IN.D Lab Family
 <hr>
 
 - Suhyeon Jin  
-- Sungmin Cha  
+- Sungmin Cha  <a href="https://csm9493.github.io/about/" class="student">[Detail]</a>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">MS Students</span></b>
 <hr>
