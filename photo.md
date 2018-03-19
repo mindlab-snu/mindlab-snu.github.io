@@ -4,6 +4,7 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
+<b><span style="font-size: 25px !important; color: #BD0026;">2018</span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/180305_newcomer_welcome_dinner_mokjang.jpeg" width="820" align="center"/>
 **Welcome dinner for Jungtae and Youngeun at SKKU Farm.**
