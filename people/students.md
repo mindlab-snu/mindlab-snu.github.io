@@ -19,8 +19,8 @@ subtitle: M.IN.D Lab Family
 - Yongbee Park
 - Donggyu Lee   
 - Hyeongmin Park
-- [Jungtae Lee]()
-- Youngeun Seo
+- [Jungtae Lee]() (Samsung-sponsored)
+- Youngeun Seo (Samsung-sponsored)
 
 <b><span style="font-size: 25px !important; color: #BD0026;">BS Students</span></b>
 <hr>
