@@ -7,21 +7,21 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
-**March**
+#### March
 - 3/15, A new project with KIST on "Interpretable AI" (40M KRW/year) started!
 - 3/13, Taesup gave a talk at [Samsung Medical Center, Department of Radiology](http://radiology.samsunghospital.com/).
 - 3/8, Taesup will give a tutorial at [_ICCE-Asia 2018_](http://www.icce-asia2018.org/) in June, 2018. 
 - 3/2, Our homepage is renewed!
 - 3/2, Jungtae and Youngeun joined the lab as Samsung-sponsored MS students.
 
-**February**
+#### February
 - 2/28, Taesup will serve as a reviewer for _ECCV 2018_.
 - 2/19, Hyeongmin joined the lab as a new MS student. Welcome!
 - 2/19, Karel finished his visiting and went back to Czech Republic. 
 - 2/15, A paper, **Neural Adaptive Image Denoiser**, got accepted to _IEEE ICASSP 2018_!
 - 2/7, Taesup gave a talk at _IPIU 2018_. 
 
-**January**
+#### January
 - 1/1, Hongjoon joined the lab as a BS intern. 
 <hr>
 
