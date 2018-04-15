@@ -4,32 +4,20 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
-# 2018
+### 2018
 <hr>  
 
 <br>
 
-
-
-### Spring group photo, in SSaDong 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Image uploaded from iOS.jpg" width="820" align="center"/>
+<b><span style="font-size: 20px !important; color: #0055A9;">Spring group photo, in SSaDong</span></b>
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Image uploaded from iOS.jpg" width="600" align="center"/>
   
-
 <br>
 
-
-
-
+<b><span style="font-size: 20px !important; color: #0055A9;">Welcome dinner at SKKU Farm</span></b>
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/180305_newcomer_welcome_dinner_mokjang.jpeg" width="600" align="center"/>
   
-### Welcome dinner at SKKU Farm
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/180305_newcomer_welcome_dinner_mokjang.jpeg" width="820" align="center"/>
-  
-
 <br>
 
-
-
-
-
-### First group photo, in front of Samsung Library
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/group_photo.jpg" width="820" align="center"/>
+<span style="font-size: 20px !important; color: #0055A9;">First group photo, in front of Samsung Library</span></b>
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/group_photo.jpg" width="600" align="center"/>
