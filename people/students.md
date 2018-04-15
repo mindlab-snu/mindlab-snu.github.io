@@ -12,7 +12,7 @@ subtitle: M.IN.D Lab Family
 #### Suhyeon Jin
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution) </span>
+Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
 
 <br><br><br><br><br><br>
 
@@ -21,7 +21,7 @@ subtitle: M.IN.D Lab Family
 #### [Sungmin Cha](https://csm9493.github.io/about/)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning</span>
+<Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -33,7 +33,7 @@ subtitle: M.IN.D Lab Family
 #### Donggyu Lee
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Machine Learning and Deep Learning, Deep Reinforcement Learning, Multitask Reinforcement Learning, Continual Learning</span>
+Machine Learning and Deep Learning, Deep Reinforcement Learning, Multitask Reinforcement Learning, Continual Learning
 
 <br><br><br><br><br><br><br><br>
 
@@ -42,7 +42,7 @@ subtitle: M.IN.D Lab Family
 #### Hyeongmin Park
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Human Activity Classification with On-Body Antennas, Continual learning, Multi-task Reinforcement Learning</span>
+Human Activity Classification with On-Body Antennas, Continual learning, Multi-task Reinforcement Learning
 
 <br><br><br><br><br><br><br><br>
 
@@ -51,7 +51,7 @@ subtitle: M.IN.D Lab Family
 #### [Jungtae Lee](https://jungtae9lee.github.io/about/) (Samsung-sponsored)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Medical Image Analysis, System S/W</span>
+Medical Image Analysis, System S/W
 
 <br><br><br><br><br><br><br><br>
 
@@ -60,7 +60,7 @@ subtitle: M.IN.D Lab Family
 #### Sunghwan Joo
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sunghwan_Joo.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Non Intrusive Load Monitoring(NILM) with Encored Technologies, Multiplicative Noise Denoising</span>
+Non Intrusive Load Monitoring(NILM) with Encored Technologies, Multiplicative Noise Denoising
 
 <br><br><br><br><br><br><br><br>
 
@@ -69,7 +69,7 @@ subtitle: M.IN.D Lab Family
 #### Yongbee Park
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Air Pollution Estimating using Deep Learning, Denoising using Deep Learning</span>
+Air Pollution Estimating using Deep Learning, Denoising using Deep Learning
 
 <br><br><br><br><br><br><br><br>
 
@@ -78,7 +78,7 @@ subtitle: M.IN.D Lab Family
 #### Youngeun Seo (Samsung-sponsored)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/YeongEun_Seo.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">HPC(High Performance Computing) Workload Characterization for Scheduling Optimizations</span>
+HPC(High Performance Computing) Workload Characterization for Scheduling Optimizations
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -90,7 +90,7 @@ subtitle: M.IN.D Lab Family
 #### Hongjoon Ahn
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Denoising, Machine Learning and Deep Learning</span>
+Denoising, Machine Learning and Deep Learning
 
 <br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ subtitle: M.IN.D Lab Family
 #### Juyeon Heo
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Interpretable machine learning including application and fundamental methods</span>
+Interpretable machine learning including application and fundamental methods
 
 <br><br><br><br><br><br><br><br>
 
@@ -108,7 +108,7 @@ subtitle: M.IN.D Lab Family
 #### Seungwon Oh
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Medical Data Analysis, Machine Learning and Deep Learning</span>
+Medical Data Analysis, Machine Learning and Deep Learning
 
 <br><br><br><br><br><br><br><br>
 
@@ -117,7 +117,7 @@ subtitle: M.IN.D Lab Family
 #### Wonbin Seo
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Denoising, Machine Learning and Deep Learning</span>
+Denoising, Machine Learning and Deep Learning
 
 <br><br><br><br><br><br><br><br><br><br>
 
