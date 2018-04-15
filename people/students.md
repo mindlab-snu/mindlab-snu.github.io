@@ -4,7 +4,7 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-### PhD Students
+#### PhD Students
 <hr>
 <p id="Jaejoong"></p>
 
@@ -13,11 +13,15 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
 
 **Research Interests**  
-Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Inc.
-Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
+<p>Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Inc.<br>
+Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</p>
 
 
-<br><br><br>
+
+
+<br>
+
+
 
 <p id="YongWook"></p>
 
@@ -26,15 +30,21 @@ Interpretable machine learning algorithms with KIST (Explainable AI, Visualizati
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
 
 **Research Interests**  
-Machine Learning and Deep Learning
-Deep Reinforcement Learning
-Image Denoising using Deep Learning
+<p>Machine Learning and Deep Learning<br>
+Deep Reinforcement Learning<br>
+Image Denoising using Deep Learning</p>
 
 
-<br><br><br>
 
 
-### MS Students
+
+
+<br>
+
+
+
+
+#### MS Students
 <hr>
 
 * Donggyu Lee     
@@ -44,7 +54,7 @@ Image Denoising using Deep Learning
 * Yongbee Park
 * Youngeun Seo (Samsung-sponsored)
 
-### BS Students
+#### BS Students
 <hr>
 
 * Hongjoon Ahn
