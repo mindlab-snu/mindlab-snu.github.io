@@ -7,6 +7,8 @@ subtitle: Life in M.IN.D Lab
 ### 2018
 <hr> 
 
+<br>
+
 #### Spring group photo, in SSaDong
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Image uploaded from iOS.jpg" width="700" align="center"/>
   
