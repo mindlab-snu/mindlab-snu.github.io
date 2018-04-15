@@ -5,7 +5,6 @@ subtitle: Life in M.IN.D Lab
 ---
 
 <span style="font-size: 50px !important; color: #BD0026;">2018</span>
-
 <hr>  
 
 
