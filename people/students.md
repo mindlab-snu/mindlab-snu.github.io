@@ -8,12 +8,15 @@ subtitle: M.IN.D Lab Family
 <hr>
 
 * Suhyeon Jin  
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="180">
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" height="150" width="120">
 
 <br>
 
+
 * [Sungmin Cha](https://csm9493.github.io/about/)  
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="180">
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="180">
+
+<br>
 
 
 ## MS Students
