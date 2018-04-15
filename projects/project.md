@@ -4,16 +4,15 @@ title: Research
 subtitle: Main Areas & Projects
 ---
 
-## Main research areas & tools
+### Main research areas & tools
+<hr>
 - Deep learning / Machine learning
 - Statistical signal processing
 - Information theory
 - Many areas that deal with mathematics and computation
 - **Main tools**: Python/NumPy, C++/CUDA, Keras, Tensorflow, Pytorch
 
-<hr>
-##Current projects
-
+<br><br>
 
 ### Core machine intelligence algorithms
 <hr>
@@ -38,7 +37,8 @@ This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017
 Interpretability is an indispensable feature needed for AI algorithms that make critical decisions such as cancer treatment recommendation or load approval rate prediction. We plan to develop a new learning method for deep learning algorithms that take the interpretability into account. 
 
 This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
-<hr>
+
+<br><br>
 
 ### Data science applications
 <hr>
