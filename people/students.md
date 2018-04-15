@@ -12,7 +12,7 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhyeon Jin</span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">** Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)** </span>
+<span style="font-size: 15px !important; color: #555;">Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution) </span>
 
 <br><br><br><br><br><br>
 
@@ -140,7 +140,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Interpretable machine learning including application and fundamental methods</span>
 
-<br>
+<br><br><br><br><br><br><br><br>
 
 
 
