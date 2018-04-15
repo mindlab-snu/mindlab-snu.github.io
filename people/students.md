@@ -21,7 +21,7 @@ Deep Learning based External knowledge augmented reasoning with Samsung Electron
 #### [Sungmin Cha](https://csm9493.github.io/about/)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
-<Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning
+Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning
 
 <br><br><br><br><br><br><br><br><br><br>
 
