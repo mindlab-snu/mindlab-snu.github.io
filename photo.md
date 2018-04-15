@@ -5,7 +5,7 @@ subtitle: Life in M.IN.D Lab
 ---
 
 # 2018
-  
+<hr>  
 
 
 <br>
