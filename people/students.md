@@ -19,7 +19,6 @@ subtitle: M.IN.D Lab Family
 
 
 
-
 <p id="Sungmin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">[Sungmin Cha](https://csm9493.github.io/about/)</span></b>
@@ -54,7 +53,7 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 20px !important; color: #0055A9;">Hyeongmin Park</span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Human Activity Classification with On-Body Antennas,  Continual learning, Multi-task Reinforcement Learning</span>
+<span style="font-size: 15px !important; color: #555;">Human Activity Classification with On-Body Antennas, Continual learning, Multi-task Reinforcement Learning</span>
 
 <br><br><br><br><br><br>
 
@@ -70,6 +69,8 @@ subtitle: M.IN.D Lab Family
 <span style="font-size: 15px !important; color: #555;">Medical Image Analysis, System S/W</span>
 
 <br><br><br><br><br><br>
+
+
 
 
 
@@ -96,6 +97,8 @@ subtitle: M.IN.D Lab Family
 <span style="font-size: 15px !important; color: #555;">Air Pollution Estimating using Deep Learning, Denoising using Deep Learning</span>
 
 <br><br><br><br><br><br>
+
+
 
 
 
