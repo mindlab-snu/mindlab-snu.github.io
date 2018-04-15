@@ -3,10 +3,12 @@ layout: page
 title: Photos
 subtitle: Life in M.IN.D Lab
 ---
-## 2018
+
+# 2018
   
 
 
+<br>
 
 
 
@@ -19,12 +21,14 @@ subtitle: Life in M.IN.D Lab
 
 
 
+
   
-### Welcome dinner for Hyeongmin, Jungtae and Youngeun at SKKU Farm
+### Welcome dinner at SKKU Farm
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/180305_newcomer_welcome_dinner_mokjang.jpeg" width="820" align="center"/>
   
 
 <br>
+
 
 
 
