@@ -6,40 +6,35 @@ subtitle: M.IN.D Lab Family
 
 #### PhD Students
 <hr>
-<p id="Jaejoong"></p>
+
+<p id="Wani"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhyeon Jin </span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
 
 **Research Interests**  
-<p>Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Inc.<br>
-Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</p>
-
-
-
+_Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Inc_
+_Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)_
 
 <br>
 
-
-
-<p id="YongWook"></p>
+<p id="Catherine"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">[Sungmin Cha](https://csm9493.github.io/about/)   </span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
 
 **Research Interests**  
-<p>Machine Learning and Deep Learning<br>
-Deep Reinforcement Learning<br>
-Image Denoising using Deep Learning</p>
-
-
-
-
-
+_Machine Learning and Deep Learning_
+_Deep Reinforcement Learning_
+_Image Denoising using Deep Learning_
 
 <br>
+
+<p id="YongWook"></p>
+
+
 
 
 
