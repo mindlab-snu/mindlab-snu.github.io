@@ -140,7 +140,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Interpretable machine learning including application and fundamental methods</span>
 
-<br><br><br><br><br><br>
+<br>
 
 
 
