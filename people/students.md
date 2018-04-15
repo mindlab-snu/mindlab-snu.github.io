@@ -126,6 +126,7 @@ subtitle: M.IN.D Lab Family
 * Changho Shin (from Encored Technologies, Inc.)
 * Jaewoong Kang (from SKKU IWTL)
 
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Alumni
 <hr>
