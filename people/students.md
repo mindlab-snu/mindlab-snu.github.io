@@ -16,9 +16,6 @@ subtitle: M.IN.D Lab Family
 
 <br><br><br><br><br><br>
 
-
-
-
 <p id="Sungmin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">[Sungmin Cha](https://csm9493.github.io/about/)</span></b>
@@ -27,10 +24,6 @@ subtitle: M.IN.D Lab Family
 <span style="font-size: 15px !important; color: #555;">Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning</span>
 
 <br><br><br><br><br><br>
-
-
-
-
 
 ### MS Students
 <hr>
