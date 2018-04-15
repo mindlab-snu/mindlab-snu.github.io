@@ -18,7 +18,7 @@ subtitle: M.IN.D Lab Family
 
 <p id="Sungmin"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">[Sungmin Cha](https://csm9493.github.io/about/)</span></b>
+#### [Sungmin Cha](https://csm9493.github.io/about/)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning</span>
