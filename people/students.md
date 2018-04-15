@@ -12,9 +12,12 @@ subtitle: M.IN.D Lab Family
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhyeon Jin</span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</span>
+<span style="font-size: 15px !important; color: #555;">** Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)** </span>
 
 <br><br><br><br><br><br>
+
+
+
 
 
 <p id="Sungmin"></p>
@@ -43,15 +46,20 @@ subtitle: M.IN.D Lab Family
 <br><br><br><br><br><br>
 
 
+
+
+
 <p id="Hyeongmin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Hyeongmin Park</span></b>
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">**Research Interests**Human Activity Classification with On-Body Antennas,  Continual learning, Multi-task Reinforcement Learning</span>
-
+<span style="font-size: 15px !important; color: #555;">Human Activity Classification with On-Body Antennas,  Continual learning, Multi-task Reinforcement Learning</span>
 
 <br><br><br><br><br><br>
+
+
+
 
 
 <p id="Jungtae"></p>
@@ -64,6 +72,9 @@ subtitle: M.IN.D Lab Family
 <br><br><br><br><br><br>
 
 
+
+
+
 <p id="Sunghwan"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sunghwan Joo</span></b>
@@ -74,6 +85,9 @@ subtitle: M.IN.D Lab Family
 <br><br><br><br><br><br>
 
 
+
+
+
 <p id="Yongbee"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Yongbee Park</span></b>
@@ -81,7 +95,11 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Air Pollution Estimating using Deep Learning, Denoising using Deep Learning</span>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
+
+
+
+
 
 <p id="Youngeun"></p>
 
@@ -91,6 +109,10 @@ subtitle: M.IN.D Lab Family
 <span style="font-size: 15px !important; color: #555;">HPC(High Performance Computing) Workload Characterization for Scheduling Optimizations</span>
 
 <br><br><br><br><br><br>
+
+
+
+
 
 ### BS Students
 <hr>
@@ -105,7 +127,10 @@ subtitle: M.IN.D Lab Family
 <br><br><br><br><br><br>
 
 
-<p id="Sungmin"></p>
+
+
+
+<p id="Juyeon"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Juyeon Heo</span></b>
 
@@ -114,24 +139,34 @@ subtitle: M.IN.D Lab Family
 
 <br><br><br><br><br><br>
 
+
+
+
+
 <p id="Seungwon"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Seungwon Oh</span></b>
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Medical Data Analysis, Machine Learning and Deep Learning</span>
 
 <br><br><br><br><br><br>
 
-<p id="Seungwon"></p>
+
+
+
+
+<p id="Wonbin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Wonbin Seo</span></b>
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Denoising, Machine Learning and Deep Learning</span>
 
 <br><br><br><br><br><br>
- 
+
+
+
 
 
 ### Visitors
