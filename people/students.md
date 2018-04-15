@@ -6,8 +6,8 @@ subtitle: M.IN.D Lab Family
 
 ### PhD Students
 <hr>
-<b><span style="font-size: 20px; color: #0055A9;">Suhyeon Jin </span></b>
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
+<b><span style="font-size: 20px !important; color: #0055A9;">Suhyeon Jin</span></b>
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left">
 
 
 <br>
