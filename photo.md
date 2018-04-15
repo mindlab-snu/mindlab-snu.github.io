@@ -4,7 +4,7 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
-# 2018
+<span style="color:red"> #2018 </span>
 <hr>  
 
 
