@@ -4,14 +4,19 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-# PhD Students
+## PhD Students
 <hr>
 
 * Suhyeon Jin  
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="400">
-* [Sungmin Cha](https://csm9493.github.io/about/)  
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="180">
 
-# MS Students
+<br>
+
+* [Sungmin Cha](https://csm9493.github.io/about/)  
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="180">
+
+
+## MS Students
 <hr>
 
 * Donggyu Lee     
@@ -21,7 +26,7 @@ subtitle: M.IN.D Lab Family
 * Yongbee Park
 * Youngeun Seo (Samsung-sponsored)
 
-# BS Students
+## BS Students
 <hr>
 
 * Hongjoon Ahn
@@ -30,13 +35,13 @@ subtitle: M.IN.D Lab Family
 * Wonbin Seo   
 
 
-# Visitors
+## Visitors
 <hr>
 * Changho Shin (from Encored Technologies, Inc.)
 * Jaewoong Kang (from SKKU IWTL)
 
 
-# Alumni
+## Alumni
 <hr>
 * Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
 * Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
