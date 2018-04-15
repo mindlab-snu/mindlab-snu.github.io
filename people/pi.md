@@ -7,7 +7,7 @@ subtitle: M.IN.D Lab Family
 ### Principal Investigator
 <hr>
 
-<b><span style="font-size: 25px !important; color: #696969;">Taesup Moon</span></b>
+#### Taesup Moon
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Taesup_Moon.jpg" width="197" height="260" align="left" hspace="20" />
 Assistant Professor  
