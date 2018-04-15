@@ -4,7 +4,8 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
-<span style="color:red"> #2018 </span>
+<span style="font-size: 50px !important; color: #BD0026;">2018</span>
+
 <hr>  
 
 
