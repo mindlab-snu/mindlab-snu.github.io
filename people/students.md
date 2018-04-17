@@ -12,8 +12,8 @@ subtitle: M.IN.D Lab Family
 #### Suhyeon Jin
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
-	* Deep Learning based External knowledge augmented reasoning with Samsung Electronics, 
-	* Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
+	- Deep Learning based External knowledge augmented reasoning with Samsung Electronics, 
+	- Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
 
 <br><br><br><br><br>
 
@@ -22,12 +22,12 @@ subtitle: M.IN.D Lab Family
 #### Sungmin Cha
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
-	* Machine Learning and Deep Learning
-	* Deep Reinforcement Learning
-	* Image Denoising using Deep Learning
+	- Machine Learning and Deep Learning
+	- Deep Reinforcement Learning
+	- Image Denoising using Deep Learning
 
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Apr2017.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a></span>
-[Personal Webpage](https://csm9493.github.io/about/)
+<span style="font-size: 14px !important; color: #555;"><a href="https://csm9493.github.io/about">Webpage</a></span>
+
 
 <br><br><br><br><br><br>
 
@@ -64,7 +64,8 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="20" />
 	* Medical Image Analysis
 	* System S/W
-	* [Personal Webpage](https://jungtae9lee.github.io/about/) 
+
+<span style="font-size: 14px !important; color: #555;"><a href="https://jungtae9lee.github.io/about/">Webpage</a></span>
 
 <br><br><br><br><br>
 
