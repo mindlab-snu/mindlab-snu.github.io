@@ -14,7 +14,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
 Deep Learning based External knowledge augmented reasoning with Samsung Electronics, Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Sungmin"></p>
 
@@ -23,7 +23,7 @@ Deep Learning based External knowledge augmented reasoning with Samsung Electron
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
 Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising using Deep Learning
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### MS Students
 <hr>
@@ -35,7 +35,7 @@ Machine Learning and Deep Learning, Deep Reinforcement Learning, Image Denoising
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="20" />
 Machine Learning and Deep Learning, Deep Reinforcement Learning, Multitask Reinforcement Learning, Continual Learning
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Hyeongmin"></p>
 
@@ -44,7 +44,7 @@ Machine Learning and Deep Learning, Deep Reinforcement Learning, Multitask Reinf
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
 Human Activity Classification with On-Body Antennas, Continual learning, Multi-task Reinforcement Learning
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Jungtae"></p>
 
@@ -53,7 +53,7 @@ Human Activity Classification with On-Body Antennas, Continual learning, Multi-t
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="20" />
 Medical Image Analysis, System S/W
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Sunghwan"></p>
 
@@ -62,7 +62,7 @@ Medical Image Analysis, System S/W
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sunghwan_Joo.jpeg" width="150" height="215" align="left" hspace="20" />
 Non Intrusive Load Monitoring(NILM) with Encored Technologies, Multiplicative Noise Denoising
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Yongbee"></p>
 
@@ -71,7 +71,7 @@ Non Intrusive Load Monitoring(NILM) with Encored Technologies, Multiplicative No
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="20" />
 Air Pollution Estimating using Deep Learning, Denoising using Deep Learning
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Youngeun"></p>
 
@@ -80,7 +80,7 @@ Air Pollution Estimating using Deep Learning, Denoising using Deep Learning
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/YeongEun_Seo.png" width="150" height="215" align="left" hspace="20" />
 HPC(High Performance Computing) Workload Characterization for Scheduling Optimizations
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### BS Students
 <hr>
@@ -92,7 +92,7 @@ HPC(High Performance Computing) Workload Characterization for Scheduling Optimiz
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="20" />
 Denoising, Machine Learning and Deep Learning
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Juyeon"></p>
 
@@ -101,7 +101,7 @@ Denoising, Machine Learning and Deep Learning
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
 Interpretable machine learning including application and fundamental methods
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Seungwon"></p>
 
@@ -110,7 +110,7 @@ Interpretable machine learning including application and fundamental methods
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="20" />
 Medical Data Analysis, Machine Learning and Deep Learning
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p id="Wonbin"></p>
 
@@ -119,7 +119,7 @@ Medical Data Analysis, Machine Learning and Deep Learning
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="20" />
 Denoising, Machine Learning and Deep Learning
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### Visitors
 <hr>
