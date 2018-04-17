@@ -14,17 +14,17 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
-<li><p style="margin-left: 40px">Deep Learning based External knowledge augmented reasoning with Samsung Electronics</p></li>
+<li>Deep Learning based External knowledge augmented reasoning with Samsung Electronics</li>
 <li>Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</li>
 </ul>
 
-<br><br><br><br>
+<br>
 
 <p id="Sungmin"></p>
 
 #### Sungmin Cha
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li><p style="margin-left: 40px">Machine Learning and Deep Learning</p></li>
@@ -44,7 +44,7 @@ subtitle: M.IN.D Lab Family
 
 #### Donggyu Lee
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Machine Learning and Deep Learning</li>
@@ -59,7 +59,7 @@ subtitle: M.IN.D Lab Family
 
 #### Hyeongmin Park
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Human Activity Classification with On-Body Antennas</li>
@@ -73,7 +73,7 @@ subtitle: M.IN.D Lab Family
 
 #### Jungtae Lee (Samsung-sponsored)
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Medical Image Analysis</li>
@@ -88,7 +88,7 @@ subtitle: M.IN.D Lab Family
 
 #### Sunghwan Joo
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sunghwan_Joo.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sunghwan_Joo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Non Intrusive Load Monitoring(NILM) with Encored Technologies</li>
@@ -101,7 +101,7 @@ subtitle: M.IN.D Lab Family
 
 #### Yongbee Park
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Air Pollution Estimating using Deep Learning</li>
@@ -114,7 +114,7 @@ subtitle: M.IN.D Lab Family
 
 #### Youngeun Seo (Samsung-sponsored)
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/YeongEun_Seo.png" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/YeongEun_Seo.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>PC(High Performance Computing) Workload Characterization for Scheduling Optimizations</li>
@@ -129,7 +129,7 @@ subtitle: M.IN.D Lab Family
 
 #### Hongjoon Ahn
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Denoising</li>
@@ -142,7 +142,7 @@ subtitle: M.IN.D Lab Family
 
 #### Juyeon Heo
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Interpretable machine learning including application and fundamental methods</li>
@@ -154,7 +154,7 @@ subtitle: M.IN.D Lab Family
 
 #### Seungwon Oh
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Medical Data Analysis</li>
@@ -167,7 +167,7 @@ subtitle: M.IN.D Lab Family
 
 #### Wonbin Seo
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <li>Denoising</li>
