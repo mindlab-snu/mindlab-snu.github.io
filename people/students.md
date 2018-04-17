@@ -12,8 +12,8 @@ subtitle: M.IN.D Lab Family
 #### Suhyeon Jin
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="20" />
-- Deep Learning based External knowledge augmented reasoning with Samsung Electronics, 
-- Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
+	* Deep Learning based External knowledge augmented reasoning with Samsung Electronics, 
+	* Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)
 
 <br><br><br><br><br>
 
@@ -22,9 +22,11 @@ subtitle: M.IN.D Lab Family
 #### Sungmin Cha
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="20" />
-- Machine Learning and Deep Learning
-- Deep Reinforcement Learning
-- Image Denoising using Deep Learning
+	* Machine Learning and Deep Learning
+	* Deep Reinforcement Learning
+	* Image Denoising using Deep Learning
+
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Apr2017.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a></span>
 [Personal Webpage](https://csm9493.github.io/about/)
 
 <br><br><br><br><br><br>
@@ -37,10 +39,10 @@ subtitle: M.IN.D Lab Family
 #### Donggyu Lee
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="20" />
-- Machine Learning and Deep Learning
-- Deep Reinforcement Learning
-- Multitask Reinforcement Learning
-- Continual Learning
+	* Machine Learning and Deep Learning
+	* Deep Reinforcement Learning
+	* Multitask Reinforcement Learning
+	* Continual Learning
 
 <br><br><br><br><br>
 
@@ -49,9 +51,9 @@ subtitle: M.IN.D Lab Family
 #### Hyeongmin Park
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="20" />
-- Human Activity Classification with On-Body Antennas, 
-- Continual learning
-- Multi-task Reinforcement Learning
+ 	* Human Activity Classification with On-Body Antennas, 
+ 	* Continual learning
+	* Multi-task Reinforcement Learning
 
 <br><br><br><br><br>
 
@@ -60,9 +62,9 @@ subtitle: M.IN.D Lab Family
 #### Jungtae Lee (Samsung-sponsored)
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="20" />
-- Medical Image Analysis
-- System S/W
-[Personal Webpage](https://jungtae9lee.github.io/about/) 
+	* Medical Image Analysis
+	* System S/W
+	* [Personal Webpage](https://jungtae9lee.github.io/about/) 
 
 <br><br><br><br><br>
 
