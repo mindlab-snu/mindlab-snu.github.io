@@ -174,14 +174,14 @@ subtitle: M.IN.D Lab Family
 <li>Machine Learning and Deep Learning</li>
 </ul>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Visitors
 <hr>
 * Changho Shin (from Encored Technologies, Inc.)
 * Jaewoong Kang (from SKKU IWTL)
 
-<br><br><br>
+<br><br>
 
 ### Alumni
 <hr>
