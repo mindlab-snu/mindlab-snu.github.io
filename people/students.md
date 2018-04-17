@@ -18,7 +18,7 @@ subtitle: M.IN.D Lab Family
 <li>Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</li>
 </ul>
 
-<br><br><br>
+<br><br>
 
 <p id="Sungmin"></p>
 
@@ -27,7 +27,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
-<li><p style="margin-left: 40px">Machine Learning and Deep Learning</p></li>
+<li>Machine Learning and Deep Learning</li>
 <li>Deep Reinforcement Learning</li>
 <li>Image Denoising using Deep Learning</li>
 </ul>
@@ -53,7 +53,7 @@ subtitle: M.IN.D Lab Family
 <li>Continual Learning</li>
 </ul>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p id="Hyeongmin"></p>
 
@@ -67,7 +67,7 @@ subtitle: M.IN.D Lab Family
 <li>Multi-task Reinforcement Learning</li>
 </ul>
   
-<br><br><br><br><br>
+<br><br><br>
 
 <p id="Jungtae"></p>
 
@@ -82,7 +82,7 @@ subtitle: M.IN.D Lab Family
 	
 <span style="font-size: 15px !important; color: #555;"><a href="https://jungtae9lee.github.io/about/">Webpage</a></span>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p id="Sunghwan"></p>
 
