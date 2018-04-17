@@ -18,7 +18,7 @@ subtitle: M.IN.D Lab Family
 <li>Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</li>
 </ul>
 
-<br>
+<br><br><br>
 
 <p id="Sungmin"></p>
 
@@ -132,7 +132,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
-<li>Denoising</li>
+<li>Image Denoising using Deep Learning</li>
 <li>Machine Learning and Deep Learning</li>
 </ul>
 
@@ -170,7 +170,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
-<li>Denoising</li>
+<li>Image Denoising using Deep Learning</li>
 <li>Machine Learning and Deep Learning</li>
 </ul>
 
