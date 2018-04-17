@@ -18,7 +18,7 @@ subtitle: M.IN.D Lab Family
 <li>Interpretable machine learning algorithms with KIST (Explainable AI, Visualization, LRP/PatternAttribution)</li>
 </ul>
 
-<br><br>
+<br><br><br>
 
 <p id="Sungmin"></p>
 
@@ -67,7 +67,7 @@ subtitle: M.IN.D Lab Family
 <li>Multi-task Reinforcement Learning</li>
 </ul>
   
-<br><br><br>
+<br><br><br><br>
 
 <p id="Jungtae"></p>
 
