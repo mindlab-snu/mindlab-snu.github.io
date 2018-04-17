@@ -120,7 +120,7 @@ subtitle: M.IN.D Lab Family
 <li>PC(High Performance Computing) Workload Characterization for Scheduling Optimizations</li>
 </ul>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### BS Students
 <hr>
