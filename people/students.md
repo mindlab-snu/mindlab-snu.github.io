@@ -95,7 +95,7 @@ subtitle: M.IN.D Lab Family
 <li>Multiplicative Noise Denoising</li>
 </ul>
 
-<br><br><br>
+<br><br><br><br>
 
 <p id="Yongbee"></p>
 
@@ -108,7 +108,7 @@ subtitle: M.IN.D Lab Family
 <li>Denoising using Deep Learning</li>
 </ul>
  
-<br><br><br>
+<br><br><br><br>
 
 <p id="Youngeun"></p>
 
@@ -120,7 +120,7 @@ subtitle: M.IN.D Lab Family
 <li>PC(High Performance Computing) Workload Characterization for Scheduling Optimizations</li>
 </ul>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ### BS Students
 <hr>
