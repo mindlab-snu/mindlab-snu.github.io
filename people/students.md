@@ -108,7 +108,7 @@ subtitle: M.IN.D Lab Family
 <li>Denoising using Deep Learning</li>
 </ul>
  
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Youngeun"></p>
 
@@ -174,7 +174,7 @@ subtitle: M.IN.D Lab Family
 <li>Machine Learning and Deep Learning</li>
 </ul>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### Visitors
 <hr>
