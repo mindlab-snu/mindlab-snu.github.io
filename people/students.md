@@ -14,7 +14,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
-**Research Area**
+<strong>Research Areas</strong>
 <li>Deep learning based external knowledge augmented reasoning</li>
 <li>Interpretable machine learning algorithms</li>
 </ul>
@@ -28,6 +28,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>
 <li>Machine learning and deep learning</li>
 <li>Deep reinforcement learning</li>
 <li>Image denoising using deep learning</li>
@@ -121,7 +122,7 @@ subtitle: M.IN.D Lab Family
 <li>HPC(High Performance Computing) workload characterization for scheduling optimizations</li>
 </ul>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### BS Students
 <hr>
@@ -182,7 +183,7 @@ subtitle: M.IN.D Lab Family
 * Changho Shin (from Encored Technologies, Inc.)
 * Jaewoong Kang (from SKKU IWTL)
 
-<br><br>
+<br><
 
 ### Alumni
 <hr>
