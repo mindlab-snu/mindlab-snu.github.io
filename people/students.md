@@ -150,7 +150,7 @@ subtitle: M.IN.D Lab Family
 
 #### Juyeon Heo
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="40" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jooyeon_Heo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <strong>Research Areas</strong>	
