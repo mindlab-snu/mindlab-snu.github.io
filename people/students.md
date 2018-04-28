@@ -19,7 +19,7 @@ subtitle: M.IN.D Lab Family
 <li>Interpretable machine learning algorithms</li>
 </ul>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Sungmin"></p>
 
@@ -70,7 +70,7 @@ subtitle: M.IN.D Lab Family
 <li>Multi-task reinforcement learning</li>
 </ul>
   
-<br><br><br>
+<br><br><br><br>
 
 <p id="Jungtae"></p>
 
