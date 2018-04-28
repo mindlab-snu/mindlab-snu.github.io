@@ -13,8 +13,8 @@ subtitle: M.IN.D Lab Family
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="40" />
 
-Research Area
 <ul>
+**Research Area**
 <li>Deep learning based external knowledge augmented reasoning</li>
 <li>Interpretable machine learning algorithms</li>
 </ul>
@@ -96,7 +96,7 @@ Research Area
 <li>Multiplicative noise denoising</li>
 </ul>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Yongbee"></p>
 
