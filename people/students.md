@@ -36,7 +36,7 @@ subtitle: M.IN.D Lab Family
 	
 <span style="font-size: 15px !important; color: #555;"><a href="https://csm9493.github.io/about">[More Info]</a></span>
 
-<br><br>
+<br><br><br>
 
 ### MS Students
 <hr>
