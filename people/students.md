@@ -25,7 +25,7 @@ subtitle: M.IN.D Lab Family
 
 #### Sungmin Cha
 
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpeg" width="150" height="215" align="left" hspace="40" />
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sungmin_Cha.jpg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
 <strong>Research Areas</strong>
