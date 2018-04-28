@@ -49,6 +49,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Dongkyu_Lee.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>
 <li>Machine learning and deep learning</li>
 <li>Deep reinforcement learning</li>
 <li>Multitask reinforcement learning</li>
@@ -64,12 +65,13 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hyungmin_Park.jpg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Human activity classification with on-body antennas</li>
 <li>Continual learning</li>
 <li>Multi-task reinforcement learning</li>
 </ul>
   
-<br><br><br><br>
+<br><br><br>
 
 <p id="Jungtae"></p>
 
@@ -78,6 +80,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jungtae_Lee.JPG" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Medical image analysis</li>
 <li>System S/W</li>
 </ul>
@@ -93,6 +96,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Sunghwan_Joo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Non intrusive load monitoring</li>
 <li>Multiplicative noise denoising</li>
 </ul>
@@ -106,6 +110,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Yongbee_Park.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>PM2.5 estimation using deep learning</li>
 <li>Denoising using deep learning</li>
 </ul>
@@ -119,6 +124,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/YeongEun_Seo.png" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>HPC(High Performance Computing) workload characterization for scheduling optimizations</li>
 </ul>
 
@@ -134,6 +140,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Image denoising using deep learning</li>
 <li>Machine learning and deep learning</li>
 </ul>
@@ -147,6 +154,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/jooyeon_heo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Interpretable machine learning including application and fundamental methods</li>
 </ul>
 
@@ -159,6 +167,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Medical data analysis</li>
 <li>Machine learning and deep learning</li>
 </ul>
@@ -172,6 +181,7 @@ subtitle: M.IN.D Lab Family
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="40" />
 
 <ul>
+<strong>Research Areas</strong>	
 <li>Image denoising using deep learning</li>
 <li>Machine learning and deep learning</li>
 </ul>
@@ -180,13 +190,21 @@ subtitle: M.IN.D Lab Family
 
 ### Visitors
 <hr>
-* Changho Shin (from Encored Technologies, Inc.)
-* Jaewoong Kang (from SKKU IWTL)
 
-<br><
+<p id="Visitors"></p>
+
+<ul>
+<li>Changho Shin (from Encored Technologies, Inc.)</li>
+<li>Jaewoong Kang (from SKKU IWTL)</li>
+</ul>
+
+<br>
 
 ### Alumni
 <hr>
+
+<p id="Alumni"></p>
+
 * Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
 * Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
 * Jinhee Park (MS '17, Currently at [KBRI](http://www.kbri.re.kr/new/pages_eng/main/))
