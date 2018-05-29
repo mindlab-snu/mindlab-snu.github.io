@@ -7,6 +7,9 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
+#### May
+- 5/30, Taesup will serve as a reviewer for _NIPS 2018_
+
 #### March
 - 3/15, A new project with KIST on "Interpretable AI" (40M KRW/year) started!
 - 3/13, Taesup gave a talk at [Samsung Medical Center, Department of Radiology](http://radiology.samsunghospital.com/).
