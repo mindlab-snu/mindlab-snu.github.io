@@ -7,7 +7,7 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
-- 7/2, Jonwon and Tae-Eon joined the lab as BS interns. 
+- 7/2, Jongwon and Tae-Eon joined the lab as BS interns. 
 
 - 6/27~29, First Lab MT@Jeju! Photos available soon!
 - 6/24, Taesup gave a tutorial on [Multi-task and Continual Learning for Deep Reinforcement Learning](http://115.145.155.74/files/Talks/MTC_RL.pdf) at [_ICCE-Asia 2018_](http://www.icce-asia2018.org/).
