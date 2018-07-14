@@ -9,6 +9,7 @@ subtitle: What's up in M.IN.D Lab?
 
 - 7/2, Jonwon and Tae-Eon joined the lab as BS interns. 
 
+- 6/27~29, First Lab MT@Jeju! Photos available soon!
 - 6/24, Taesup gave a tutorial on [Multi-task and Continual Learning for Deep Reinforcement Learning](http://115.145.155.74/files/Talks/MTC_RL.pdf) at [_ICCE-Asia 2018_](http://www.icce-asia2018.org/).
 - 5/30, Taesup will serve as a reviewer for _NIPS 2018_
 - 3/15, A new project with KIST on "Interpretable AI" (40M KRW/year) started!
