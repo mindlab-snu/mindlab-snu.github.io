@@ -9,6 +9,13 @@ subtitle: Life in M.IN.D Lab
 
 <br>
 
+#### Summer @ Jeju 
+<img src="http://115.145.155.74/photos/skku/jeju.jpg" width="700" align="center"/>
+<img src="http://115.145.155.74/photos/skku/jeju2.jpg" width="700" align="center"/>
+
+
+<br>
+
 #### Spring group photo, in SSaDong
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/spring_lab_pink.jpg" width="700" align="center"/>
   
