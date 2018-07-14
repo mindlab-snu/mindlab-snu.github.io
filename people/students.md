@@ -173,19 +173,6 @@ subtitle: M.IN.D Lab Family
 
 <br><br><br><br><br>
 
-<p id="Wonbin"></p>
-
-#### Wonbin Seo
-
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Wonbin_Seo.jpeg" width="150" height="215" align="left" hspace="40" />
-
-<ul>
-<strong>Research Areas</strong>	
-<li>Image denoising using deep learning</li>
-<li>Machine learning and deep learning</li>
-</ul>
-
-<br><br><br><br><br><br>
 
 ### Visitors
 <hr>
