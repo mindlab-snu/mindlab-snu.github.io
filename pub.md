@@ -100,6 +100,9 @@ Taesup Moon and Tsachy Weissman
 _Proceedings of 2005 IEEE International Symposium on Information Theory (ISIT)_, pp.1285–1289, Adelaide, Australia, September 2005
 
 ### Patents and Defensive Publications
+- [Denoiser, and control method thereof](https://patentimages.storage.googleapis.com/f7/b5/86/28a2c5e32c2108/US20180137405A1.pdf)
+Taesup Moon
+_US Patent Application 20180137405 A1_, May 2018
 - [Neural network training method and apparatus, and data processing apparatus](https://patents.google.com/patent/US20160026913)    
 Taesup Moon, Yeha Lee, and Heeyoul Choi  
 _US Patent Application 20160026913 A1_, Jan 2016
