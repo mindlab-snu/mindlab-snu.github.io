@@ -12,8 +12,8 @@ _Submitted_
 - [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
 _Submitted_
-- [Fully Convolutional Pixel Adaptive Image Denoiser](http://115.145.155.74/files/Conference/cnn_aide.pdf)
-Sungmin Cha and Taesup Moon
+- [Fully Convolutional Pixel Adaptive Image Denoiser](http://115.145.155.74/files/Conference/cnn_aide.pdf)  
+Sungmin Cha and Taesup Moon  
 _Submitted_
 
 
