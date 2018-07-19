@@ -9,6 +9,9 @@ subtitle: Life in M.IN.D Lab
 
 <br>
 
+#### KCCV 2018 @ SKKU Seoul Campus
+<img src="http://115.145.155.74/photos/skku/kccv2018.jpg" width="700" align="center"/>
+
 #### Summer @ Jeju 
 <img src="http://115.145.155.74/photos/skku/jeju.jpg" width="700" align="center"/>
 <img src="http://115.145.155.74/photos/skku/jeju2.jpg" width="700" align="center"/>
