@@ -7,7 +7,7 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
-- 7/17~19, M.IN.D Lab served as superhero staffs at [KCCV 2018](https://kcvs.kr/front/conference/2018#conference-tap-02)  
+- 7/17~19, M.IN.D Lab served as superhero staffs at [KCCV 2018](https://kcvs.kr/front/conference/2018#conference-tap-02)
 - 7/2, Jongwon and Tae-Eon joined the lab as BS interns. 
 
 - 6/27~29, First Lab MT@Jeju! Photos available soon!
