@@ -7,6 +7,9 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
+- 8/14, Taesup will serve as a reviewer for _ICLR 2019_.
+
+- 7/20, M.IN.D Lab moved to \#21205!  
 - 7/17~19, M.IN.D Lab served as superhero staffs at [KCCV 2018](https://kcvs.kr/front/conference/2018#conference-tap-02)$ 
 - 7/2, Jongwon and Tae-Eon joined the lab as BS interns. 
 
