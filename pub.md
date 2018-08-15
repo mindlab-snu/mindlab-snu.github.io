@@ -15,7 +15,7 @@ _Submitted_
 - [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Submitted_
-- [Estimating PM2.5 Con- centration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
+- [Estimating PM2.5 Concentration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
 
