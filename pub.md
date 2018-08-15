@@ -15,6 +15,9 @@ _Submitted_
 - [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Submitted_
+- [Estimating PM2.5 Con- centration of the Continental United States via Interpretable Deep Convolutional Neural Networks]  
+Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+_Submitted_
 
 
 ### 2018
@@ -24,12 +27,12 @@ to appear at _IEEE International Symposium on Antennas and Propagation (ISAP)_, 
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
 Bo-yong Park, Taesup Moon and Hyunjin Park   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
-- **[C13]** [Neural adaptive image denoiser](http://115.145.155.74/files/Conference/icassp_aide.pdf)  
+- **[C13]** [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 Sungmin Cha and Taesup Moon  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, April 2018
 
 ### 2017
-- **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.155.74/files/Journal/plosone_dude.pdf)  
+- **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.145.158/files/Journal/plosone_dude.pdf)  
 Byunghan Lee, Taesup Moon, Sungroh Yoon and Tsachy Weissman  
 _PLoS ONE_ ([doi.org/10.1371/journal.pone.0181463](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)), July 2017
 
@@ -43,10 +46,10 @@ _Proceedings of Neural Information Processing Systems (NIPS)_, December 2016
 - **[C11]** [Classification of human activity on water through micro-Dopplers using deep convolutional neural networks](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)  
 Youngwook Kim and Taesup Moon  
 _Proceedings of SPIE 9829, Radar Sensor Technology XX_, 982917, May 2016  
-- **[J9]** [Regularization and kernelization of the maximin correlation approach](http://115.145.155.74/files/Journal/IEEE-Access-RMCA.pdf)  
+- **[J9]** [Regularization and kernelization of the maximin correlation approach](http://115.145.145.158/files/Journal/IEEE-Access-RMCA.pdf)  
 Taehoon Lee, Taesup Moon, Seung Jean Kim and Sungroh Yoon  
 _IEEE Access_, vol. 4, pp. 1385-1392, April 2016
-- **[J8]** [Human detection and activity classification based on micro-Dopplers using deep convolutional neural networks](http://115.145.155.74/files/Journal/GRSL_kim_moon.pdf) ([3rd most downloaded paper (Aug 2016, July 2016)](http://115.145.155.74/files/Journal/GRSL-most-popular.png) in [IEEE GRSL](http://115.145.155.74/files/Journal/GRSL-most-popular.png))  
+- **[J8]** [Human detection and activity classification based on micro-Dopplers using deep convolutional neural networks](http://115.145.145.158/files/Journal/GRSL_kim_moon.pdf) ([3rd most downloaded paper (Aug 2016, July 2016)](http://115.145.145.158/files/Journal/GRSL-most-popular.png) in [IEEE GRSL](http://115.145.155.74/files/Journal/GRSL-most-popular.png))  
 Youngwook Kim and Taesup Moon  
 _IEEE Geoscience and Remote Sensing Letters_, vol.13, no.1, pp.8-12, January 2016
 
