@@ -129,6 +129,19 @@ subtitle: M.IN.D Lab Family
 
 <br><br><br><br><br><br>
 
+<p id="Juyeon"></p>
+
+#### Juyeon Heo
+
+<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jooyeon_Heo.jpg" width="150" height="215" align="left" hspace="40" />
+
+<ul>
+<strong>Research Areas</strong>	
+<li>Interpretable machine learning including application and fundamental methods</li>
+</ul>
+
+<br><br><br><br><br>
+
 ### BS Students
 <hr>
 
@@ -146,32 +159,6 @@ subtitle: M.IN.D Lab Family
 
 <br><br><br><br><br>
 
-<p id="Juyeon"></p>
-
-#### Juyeon Heo
-
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Jooyeon_Heo.jpg" width="150" height="215" align="left" hspace="40" />
-
-<ul>
-<strong>Research Areas</strong>	
-<li>Interpretable machine learning including application and fundamental methods</li>
-</ul>
-
-<br><br><br><br><br>
-
-<p id="Seungwon"></p>
-
-#### Seungwon Oh
-
-<img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Seungwon_Oh.jpg" width="150" height="215" align="left" hspace="40" />
-
-<ul>
-<strong>Research Areas</strong>	
-<li>Medical data analysis</li>
-<li>Machine learning and deep learning</li>
-</ul>
-
-<br><br><br><br><br>
 
 ### Visitors
 <hr>
@@ -190,6 +177,7 @@ subtitle: M.IN.D Lab Family
 
 <p id="Alumni"></p>
 
+* Seungwon Oh (BS '18)
 * Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
 * Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
 * Jinhee Park (MS '17, Currently at [KBRI](http://www.kbri.re.kr/new/pages_eng/main/))
