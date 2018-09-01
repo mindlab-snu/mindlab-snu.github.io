@@ -8,11 +8,9 @@ subtitle: What's up in M.IN.D Lab?
 <hr>
 
 - 8/14, Taesup will serve as a reviewer for _ICLR 2019_.
-
 - 7/20, M.IN.D Lab moved to \#21205!
 - 7/17~19, M.IN.D Lab served as superhero staffs at [KCCV 2018](https://kcvs.kr/front/conference/2018#conference-tap-02)
 - 7/2, Jongwon and Tae-Eon joined the lab as BS interns. 
-
 - 6/27~29, First Lab MT@Jeju! Photos available soon!
 - 6/24, Taesup gave a tutorial on [Multi-task and Continual Learning for Deep Reinforcement Learning](http://115.145.155.74/files/Talks/MTC_RL.pdf) at [_ICCE-Asia 2018_](http://www.icce-asia2018.org/).
 - 5/30, Taesup will serve as a reviewer for [_NIPS 2018_](http://nips.cc)
