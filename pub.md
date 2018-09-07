@@ -18,6 +18,15 @@ _Submitted_
 - [Estimating PM2.5 Concentration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
+- [Iterative channel estimation for neural universal discrete denoising]()  
+Hongjoon Ahn and Taesup Moon  
+_Submitted_
+- [Supervised Neural DUDE for adaptive discrete denoising]()  
+Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+_Submitted_
+- [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despecking]()  
+Sunghwan Joo, Sungmin Cha, and Taesup Moon  
+_Submitted_
 
 
 ### 2018
