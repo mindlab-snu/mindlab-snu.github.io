@@ -30,7 +30,7 @@ _Submitted_
 
 
 ### 2018
-- **[C14]** Fast DCNN-Based Human Activity Classification with On-Body Antenna Using Generative Models  
+- **[C14]** [Fast DCNN-Based Human Activity Classification with On-Body Antenna Using Generative Models]()  
 Hyeongmin Park and Taesup Moon  
 to appear at _IEEE International Symposium on Antennas and Propagation (ISAP)_, October 2018
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
