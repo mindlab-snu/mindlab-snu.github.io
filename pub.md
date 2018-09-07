@@ -24,7 +24,7 @@ _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
-- [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despecking]()  
+- [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling]()  
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
 _Submitted_
 
