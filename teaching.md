@@ -5,6 +5,10 @@ subtitle: Courses
 ---
 
 ### 2018 
+#### Fall
+- Introduction to Machine Learning (Undergraduate)
+- Probability and Random Processes (Undergraduate)
+
 #### Spring
 - Neural Networks (Deep Learning) (Graduate)
 - Advanced Machine Learning (Undergraduate)
