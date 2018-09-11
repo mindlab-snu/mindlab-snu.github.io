@@ -7,7 +7,7 @@ subtitle: Publications
 
 ### Preprints
 - [3D densely convolutional networks for volumetric segmentation](https://arxiv.org/abs/1709.03199)  
-Toan Duc Bui, Jitae Shin and Taesup Moon  
+Toan Duc Bui, Jitae Shin, and Taesup Moon  
 _Submitted_
 - [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
@@ -22,7 +22,7 @@ _Submitted_
 Hongjoon Ahn and Taesup Moon  
 _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
-Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
 - [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling]()  
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
