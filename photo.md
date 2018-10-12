@@ -9,7 +9,7 @@ subtitle: Life in M.IN.D Lab
 
 <br>
 #### XAI Symposium @ COEX
-<img src="http://115.145.145.158/photos/skku/xai.jpg" width="500" align="center"/>
+<img src="http://115.145.145.158/photos/skku/xai.jpg" width="700" align="center"/>
 #### Lab poster
 <img src="http://115.145.145.158/photos/skku/mind_poster.jpg" width="500" align="center"/>
 
