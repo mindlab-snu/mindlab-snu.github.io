@@ -7,6 +7,7 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
+- 10/12, M.IN.D Lab participated in the XAI symposium. 
 - 9/22, Taesup will serve as a reviewer for [_CVPR 2019_](http://cvpr2019.thecvf.com/).
 - 10/18, Taesup will give a talk at [_ICTC 2018_](http://ictc.org).
 - 9/9, Taesup will serve as a PC member for [_PAKDD 2019_](http://www.pakdd2019.org).
