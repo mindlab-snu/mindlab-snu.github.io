@@ -8,6 +8,9 @@ subtitle: Life in M.IN.D Lab
 <hr> 
 
 <br>
+#### Lab poster
+<img src="http://115.145.145.158/photos/skku/mind_poster.jpg" width="500" align="center"/>
+
 
 #### KCCV 2018 @ SKKU Seoul Campus
 <img src="http://115.145.145.158/photos/skku/kccv2018.jpg" width="700" align="center"/>
