@@ -151,6 +151,13 @@ subtitle: M.IN.D Lab Family
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Hongjun_Ahn.jpeg" width="150" height="215" align="left" hspace="40" />
 
+<p id="TaeEon"></p>
+
+#### Tae Eon Park
+#### Juna Jeon
+
+
+
 <ul>
 <strong>Research Areas</strong>	
 <li>Image denoising using deep learning</li>
