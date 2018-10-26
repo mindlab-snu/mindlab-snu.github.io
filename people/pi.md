@@ -41,7 +41,7 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 * [SKKU Convergence Institute for Intelligence and Informatics (SCI-Cube)](http://sci-cube.skku.edu)
 
 #### Professional Services
-* Reviewer - NIPS (2017,2018), ICML (2018, 2019), ICLR (2019), PAKDD (2019), CVPR (2019), AAAI (2017,2018) 
+* Reviewer (recent) - _NIPS_ (2017,2018), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018) 
 
 <hr>  
 
