@@ -7,7 +7,7 @@ subtitle: What's up in M.IN.D Lab?
 ### 2018 
 <hr>
 
-- 11/1, We got **two papers** accepted to [_AAAI 2019_](https://aaai.org/Conferences/AAAI-19/)! The acceptance rate was 16.2\%.
+- 11/1, We got **two papers** accepted to [_AAAI 2019_](https://aaai.org/Conferences/AAAI-19/)! The acceptance rate was 16.2%.
 - 10/26, Taesup will serve as a reviewer for [_ICML 2019_](http://icml.cc).
 - 10/26, Taesup gave a talk at [_ISAP 2018_](http://isap2018.org/).
 - 10/12, M.IN.D Lab participated in the XAI symposium. 
