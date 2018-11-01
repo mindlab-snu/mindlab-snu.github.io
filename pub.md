@@ -24,9 +24,15 @@ _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
-- [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling]()  
+
+
+### 2019
+- **[C16]** [Subtask Gated Networks for Non-Intrusive Load Monitoring]()  
+Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
+to appear at _Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
+- **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling]()  
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
-_Submitted_
+to appear at _Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
 
 
 ### 2018
