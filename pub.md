@@ -29,16 +29,16 @@ _Submitted_
 ### 2019
 - **[C16]** [Subtask Gated Networks for Non-Intrusive Load Monitoring]()  
 Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
-to appear at _Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
+_Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
 - **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling]()  
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
-to appear at _Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
+_Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)_, January 2019  
 
 
 ### 2018
 - **[C14]** [Fast DCNN-Based Human Activity Classification with On-Body Antenna Using Generative Models]()  
 Hyeongmin Park and Taesup Moon  
-to appear at _IEEE International Symposium on Antennas and Propagation (ISAP)_, October 2018
+_International Symposium on Antennas and Propagation (ISAP)_, October 2018
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
 Bo-yong Park, Taesup Moon and Hyunjin Park   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
