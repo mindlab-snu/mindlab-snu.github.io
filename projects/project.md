@@ -27,10 +27,6 @@ We develop new class of AI algorithms that can adapt fast and continually learn 
 This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=298&aid=0000214542&sid1=001&lfrom=facebook) (2016.12~2020.12, 750 Million KRW).
 
 
-#### Deep Learning based External knowledge based reasoning  
-We tackle machine comprehension problem, such as given in Stanford Question Answering Dataset (SQuAD), with an angle of utilizing external knowledge source for answering questions for given text. Recurrent neural networks or attention mechanisms are the main wagons for this research. 
-
-This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017.4~2017.12, 80 Million KRW). 
   
 #### Interpretable machine learning algorithms  
 
@@ -39,6 +35,12 @@ Interpretability is an indispensable feature needed for AI algorithms that make 
 This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
 
 <br><br>
+
+#### Past projects
+- Deep learning based external knowledge based reasoning
+This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017.4~2017.12, 80 Million KRW). 
+
+
 
 ### Data science applications
 <hr>
