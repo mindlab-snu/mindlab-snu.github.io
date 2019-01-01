@@ -29,10 +29,10 @@ _Submitted_
 ### 2019
 - **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
 Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
-_Thirty-Third AAAI Conference on Artificial Intelligence (*AAAI*)_, January 2019  
+_Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
 - **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling](http://115.145.145.158/files/Conference/AAAI19_dopamine.pdf) (**Oral**)   
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
-_Thirty-Third AAAI Conference on Artificial Intelligence (*AAAI*)_, January 2019  
+_Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
 
 
 ### 2018
@@ -44,7 +44,7 @@ Bo-yong Park, Taesup Moon and Hyunjin Park
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
 - **[C13]** [Neural adaptive image denoiser](http://115.145.145.158/files/Conference/icassp_aide.pdf)  
 Sungmin Cha and Taesup Moon  
-_IEEE International Conference on Acoustics, Speech and Signal Processing (*ICASSP*)_, April 2018
+_IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, April 2018
 
 ### 2017
 - **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.145.158/files/Journal/plosone_dude.pdf)  
@@ -57,7 +57,7 @@ Jinhee Park, Rios Jesus Javier, Taesup Moon, and Youngwook Kim
 _Sensors_, 2016,16,1990, November 2016  
 - **[C12]** [Neural universal discrete denoiser](http://115.145.145.158/files/Journal/neural_dude_nips_camera.pdf)  
 Taesup Moon, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
-_Proceedings of Neural Information Processing Systems (*NIPS*)_, December 2016
+_Proceedings of Neural Information Processing Systems (**NIPS**)_, December 2016
 - **[C11]** [Classification of human activity on water through micro-Dopplers using deep convolutional neural networks](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)  
 Youngwook Kim and Taesup Moon  
 _Proceedings of SPIE 9829, Radar Sensor Technology XX_, 982917, May 2016  
