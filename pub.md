@@ -18,13 +18,15 @@ _Submitted_
 - [Estimating PM2.5 Concentration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
-- [Iterative channel estimation for neural universal discrete denoising]()  
+- [Iterative channel estimation for discrete denoising under channel uncertainty]()  
 Hongjoon Ahn and Taesup Moon  
 _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
-
+- [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)
+Juyeon Heo, Sunghwan Joo, and Taesup Moon
+_Submitted_
 
 ### 2019
 - **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
