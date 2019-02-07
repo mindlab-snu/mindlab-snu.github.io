@@ -25,7 +25,7 @@ _Submitted_
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
 - [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
-Juyeon Heo, Sunghwan Joo, and Taesup Moon
+Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Submitted_
 
 ### 2019
