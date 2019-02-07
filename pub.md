@@ -24,7 +24,7 @@ _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
-- [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)
+- [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon
 _Submitted_
 
