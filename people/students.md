@@ -9,6 +9,10 @@ subtitle: M.IN.D Lab Family
 
 <p id="Suhyeon"></p>
 
+* Suhyeon Jin  
+* Sungmin Cha  
+
+
 #### Suhyeon Jin
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Suhyeon_Jin.jpeg" width="150" height="215" align="left" hspace="40" />
