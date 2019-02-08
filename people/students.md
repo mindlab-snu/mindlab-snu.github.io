@@ -21,7 +21,20 @@ subtitle: M.IN.D Lab Family
 #### MS students
 <hr>
 
-  
+* Yongbee Park  
+* Donggyu Lee  
+* Hyeongmin Park  
+* Juyeon Heo  
+* Jungtae Lee  
+* Youngeun Seo  
+* Tae Eon Park
+* Juna Jeon
+
+<br>
+
+#### BS students
+<hr>
+* Hongjoon Ahn    
 
 <p id="Suhyeon"></p>
 
