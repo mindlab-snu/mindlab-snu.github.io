@@ -10,9 +10,12 @@ subtitle: M.IN.D Lab Family
 * Suhyeon Jin  
 * [Sungmin Cha](https://csm9493.github.io/about)
 
+<br?
+
 #### MS/PhD integrated
 <hr>
 * Sunghwan Joo
+<br>
 
 #### MS students
 <hr>
