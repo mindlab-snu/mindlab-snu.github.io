@@ -4,14 +4,22 @@ title: People
 subtitle: M.IN.D Lab Family
 ---
 
-### PhD Students
+#### PhD students
 <hr>
 
-<p id="Suhyeon"></p>
-
 * Suhyeon Jin  
-* Sungmin Cha  
+* [Sungmin Cha](https://csm9493.github.io/about)
 
+#### MS/PhD integrated
+<hr>
+* Sunghwan Joo
+
+#### MS students
+<hr>
+
+  
+
+<p id="Suhyeon"></p>
 
 #### Suhyeon Jin
 
