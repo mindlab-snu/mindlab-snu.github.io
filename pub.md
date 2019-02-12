@@ -32,7 +32,7 @@ _Submitted_
 - **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
 Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
 _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
-- **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling](http://115.145.145.158/files/Conference/AAAI19_dopamine.pdf) (**Oral**)   
+- **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling](https://arxiv.org/abs/1902.02530) (**Oral**)   
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
 _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
 
