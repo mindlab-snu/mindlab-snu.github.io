@@ -9,6 +9,9 @@ subtitle: M.IN.D Lab Family
 * Suhyeon Jin  
 * Sungmin Cha  
 * Sunghwan Joo
+
+#### MS students
+
 * Yongbee Park  
 * Donggyu Lee  
 * Hyeongmin Park  
@@ -17,11 +20,17 @@ subtitle: M.IN.D Lab Family
 * Youngeun Seo  
 * Tae Eon Park  
 * Juna Jeon  
+
+#### BS students
+
 * Hongjoon Ahn  
 
+#### Alumni
 
-
-
+* Seungwon Oh (BS '18)
+* Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
+* Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
+* Jinhee Park (MS '17, Currently at [KBRI](http://www.kbri.re.kr/new/pages_eng/main/))
 
 <p id="Suhyeon"></p>
 
@@ -201,8 +210,4 @@ subtitle: M.IN.D Lab Family
 
 <p id="Alumni"></p>
 
-* Seungwon Oh (BS '18)
-* Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
-* Karel Setnička (MS visitor '17, Currently at [Czech Technical University in Prague](https://www.cvut.cz/en))
-* Jinhee Park (MS '17, Currently at [KBRI](http://www.kbri.re.kr/new/pages_eng/main/))
 
