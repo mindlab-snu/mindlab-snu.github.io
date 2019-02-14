@@ -6,6 +6,23 @@ subtitle: M.IN.D Lab Family
 
 #### PhD students
 
+* Suhyeon Jin  
+* Sungmin Cha  
+* Sunghwan Joo
+* Yongbee Park  
+* Donggyu Lee  
+* Hyeongmin Park  
+* Juyeon Heo  
+* Jungtae Lee  
+* Youngeun Seo  
+* Tae Eon Park  
+* Juna Jeon  
+* Hongjoon Ahn  
+
+
+
+
+
 <p id="Suhyeon"></p>
 
 #### Suhyeon Jin
