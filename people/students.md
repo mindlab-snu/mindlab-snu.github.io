@@ -6,20 +6,20 @@ subtitle: M.IN.D Lab Family
 
 #### PhD students
 
-* Suhyeon Jin  
-* [Sungmin Cha](https://csm9493.github.io/about)  
-* Sunghwan Joo
+* Suhyeon Jin (BS@Ajou Univ., MS@DGIST) 
+* [Sungmin Cha](https://csm9493.github.io/about) (BS@Pukyung National Univ., MS@DGIST)
 
 #### MS students
 
-* Yongbee Park  
-* Donggyu Lee  
+* Sunghwan Joo (BS@SKKU)
+* Yongbee Park (BS@SKKU)
+* Donggyu Lee (BS@SKKU)
 * Hyeongmin Park  
-* Juyeon Heo  
-* [Jungtae Lee](https://jungtae9lee.github.io/about/)  
-* Youngeun Seo  
-* Tae Eon Park  
-* Juna Jeon  
+* Juyeon Heo (BS@SKKU) 
+* [Jungtae Lee](https://jungtae9lee.github.io/about/) (Samsung sponsored) 
+* Youngeun Seo (Samsung sponsored) 
+* Tae Eon Park (BS@SKKU) 
+* Juna Jeon (BS@Dongguk Univ.) 
 
 #### BS students
 
