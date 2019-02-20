@@ -14,7 +14,7 @@ subtitle: M.IN.D Lab Family
 * Sunghwan Joo (BS@SKKU)
 * Yongbee Park (BS@SKKU)
 * Donggyu Lee (BS@SKKU)
-* Hyeongmin Park  
+* Hyeongmin Park (BS@Ajou Univ.)  
 * Juyeon Heo (BS@SKKU) 
 * [Jungtae Lee](https://jungtae9lee.github.io/about/) (Samsung sponsored) 
 * Youngeun Seo (Samsung sponsored) 
