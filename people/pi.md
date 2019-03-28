@@ -19,7 +19,7 @@ Assistant Professor
 [http://mind.skku.edu](http://mind.skku.edu)  
 tsmoon _at_ skku _dot_ edu   
 +82-31-299-4326  
-Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
+Rm 400308, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 
 <hr>
 
@@ -41,7 +41,7 @@ Rm 21223, 2066 Seobu-Ro, Jangan-Gu, Suwon, 16419, KOREA
 * [SKKU Convergence Institute for Intelligence and Informatics (SCI-Cube)](http://sci-cube.skku.edu)
 
 #### Professional Services
-* Reviewer (recent) - _NIPS_ (2017,2018), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018), _SAC_ (2019)
+* Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
 
 
