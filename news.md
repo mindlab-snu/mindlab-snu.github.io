@@ -6,7 +6,7 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
-
+- 3/2, TaeEon and Juna joined the lab as new MS students!
 - 1/27-2/1, _**AAAI 2019**_
 
 
