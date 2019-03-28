@@ -8,14 +8,16 @@ subtitle: Life in M.IN.D Lab
 <hr> 
 
 <br>
+#### AAAI acceptance party & Homecoming Day
+<img src="http://115.145.209.240/photos/skku/home_coming.jpg" width="700" align="center"/>
 #### XAI Symposium @ COEX
-<img src="http://115.145.145.158/photos/skku/xai.jpg" width="700" align="center"/>
+<img src="http://115.145.209.240/photos/skku/xai.jpg" width="700" align="center"/>
 #### Lab poster
-<img src="http://115.145.145.158/photos/skku/mind_poster.jpg" width="500" align="center"/>
+<img src="http://115.145.209.240/photos/skku/mind_poster.jpg" width="500" align="center"/>
 
 
 #### KCCV 2018 @ SKKU Seoul Campus
-<img src="http://115.145.145.158/photos/skku/kccv2018.jpg" width="700" align="center"/>
+<img src="http://115.145.209.240/photos/skku/kccv2018.jpg" width="700" align="center"/>
 
 #### Summer @ Jeju 
 <img src="http://115.145.145.158/photos/skku/jeju.jpg" width="700" align="center"/>
