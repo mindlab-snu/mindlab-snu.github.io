@@ -39,6 +39,7 @@ tsmoon _at_ skku _dot_ edu
 
 #### SKKU Affiliation
 * [SKKU Convergence Institute for Intelligence and Informatics (SCI-Cube)](http://sci-cube.skku.edu)
+* [Department of Artificial Ingelligence](http://ai.skku.edu)
 
 #### Professional Services
 * Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
