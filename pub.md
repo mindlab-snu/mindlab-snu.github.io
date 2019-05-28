@@ -27,6 +27,9 @@ _Submitted_
 - [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Submitted_
+_ [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
+Sungmin Cha, Taeeon Park, and Taesup Moon  
+_Submitted_  
 
 ### 2019
 - **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
