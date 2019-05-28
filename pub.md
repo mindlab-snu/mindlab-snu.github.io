@@ -30,6 +30,9 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
+- [Uncertainty-based Continual Learning with Adaptive Regularization](https://arxiv.org/abs/)  
+Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
+_Submitted_  
 
 ### 2019
 - **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
