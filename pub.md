@@ -18,7 +18,7 @@ _Submitted_
 - [Estimating PM2.5 Concentration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
-- [Iterative channel estimation for discrete denoising under channel uncertainty]()  
+- [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
 Hongjoon Ahn and Taesup Moon  
 _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
@@ -30,7 +30,7 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [Uncertainty-based Continual Learning with Adaptive Regularization](https://arxiv.org/abs/)  
+- [Uncertainty-based Continual Learning with Adaptive Regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
 _Submitted_  
 
