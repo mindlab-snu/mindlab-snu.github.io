@@ -30,7 +30,7 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [Uncertainty-based Continual Learning with Adaptive Regularization](https://arxiv.org/abs/1905.11614)  
+- [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
 _Submitted_  
 
