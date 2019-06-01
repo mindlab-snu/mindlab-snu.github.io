@@ -8,6 +8,18 @@ subtitle: Life in M.IN.D Lab
 <hr> 
 
 <br>
+#### Homecoming Day 2018
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/3KH52KipVar4Ny178"
+  data-title="New photo by Taesup Moon">
+  <img data-src="https://lh3.googleusercontent.com/VtuiUGM6Wc9pn_Rw2DpK2riLGsZzujg1-WzfgQfeUXRYLXiGOaZwvx2mdcd0gZz5PEZP1YNUgWoid8EzzaXSZiw9NuOuCkXFvtGikAoVF-f_nJpl_X2JkGRgmHqjucwmVG0Br6bpRnA=w1920-h1080" src="" alt="" />
+</div>
+
+
+
+
+<br>
 #### AAAI acceptance party & Homecoming Day
 <img src="http://115.145.209.240/photos/skku/home_coming.jpg" width="700" align="center"/>
 #### XAI Symposium @ COEX
