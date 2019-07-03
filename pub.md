@@ -15,7 +15,7 @@ _Submitted_
 - [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Submitted_
-- [Estimating PM2.5 Concentration of the Continental United States via Interpretable Deep Convolutional Neural Networks]()  
+- [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
 - [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
@@ -32,6 +32,9 @@ Sungmin Cha, Taeeon Park, and Taesup Moon
 _Submitted_  
 - [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
+_Submitted_  
+- [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
+Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _Submitted_  
 
 ### 2019
