@@ -4,6 +4,16 @@ title: Teaching
 subtitle: Courses
 ---
 
+### 2019
+#### Fall
+- Convex Optimization (Graduate)
+
+#### Spring
+- Neural Networks (Deep Learning) (Graduate)
+- Advanced Machine Learning (Undergraduate)
+- Introduction to Programming with Python (Undergraduate)
+
+
 ### 2018 
 #### Fall
 - Introduction to Machine Learning (Undergraduate)
