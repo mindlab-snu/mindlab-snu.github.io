@@ -83,7 +83,7 @@ _IEEE Geoscience and Remote Sensing Letters_, vol.13, no.1, pp.8-12, January 201
 ### 2015
 - **[C10]** [RNNDrop: A novel dropout for RNNs in ASR](http://115.145.209.240/files/Conference/asru2015.pdf)  
 Taesup Moon, Heeyoul Choi, Hoshik Lee, and Inchul Song  
-_Proceedings of 2015 IEEE Automatic Speech Recognition and Understanding (ASRU) Workshop_, December 2015
+_Proceedings of 2015 IEEE Automatic Speech Recognition and Understanding (**ASRU**) Workshop_, December 2015
 - **[J7]** [Evaluation of a MISR-based high-resolution aerosol retrieval method using AERONET DRAGON campaign data](http://115.145.155.74/files/Journal/moon-tgrs.pdf)  
 Taesup Moon, Yueqing Wang, Yang Liu, and Bin Yu  
 _IEEE Transactions on Geoscience and Remote Sensing_, vol.53, no.8, pp.4328-4339, August 2015
@@ -103,19 +103,19 @@ Lihong Li, Wei Chu, John Langford, Taesup Moon, Xuanhui Wang
 _Journal of Machine Learning Research - Workshop and Conference Proceedings 26: On-line Trading of Exploration and Exploitation 2_, pp.19-36, May 2012
 - **[C8]** [Discrete denoising of heterogeneous two-dimensional data](http://115.145.209.240/files/Conference/isit2011.pdf)  
 Taesup Moon, Tsachy Weissman, and Jae-Young Kim  
-_Proceedings of 2011 IEEE International Symposium on Information Theory (ISIT)_, pp.966–970, St. Petersburg, Russia, August 2011
+_Proceedings of 2011 IEEE International Symposium on Information Theory (**ISIT**)_, pp.966–970, St. Petersburg, Russia, August 2011
 - **[C7]** [Learning to model relatedness for news recommendation](http://115.145.145.158/files/Conference/www2011.pdf)   
 Yuanhua Lv, Taesup Moon, Pranam Kolari, Zhaohui Zheng, Xuanhui Wang, and Yi Chang  
-_Proceedings of the 20th International World Wide Web (WWW) Conference_, pp.57-66, Hyderabad, India, March 2011
+_Proceedings of the 20th International World Wide Web (**WWW**) Conference_, pp.57-66, Hyderabad, India, March 2011
 - **[C6]** [User behavior driven ranking without editorial judgments](http://115.145.209.240/files/Conference/cikm1.pdf)  
 Taesup Moon, Shihao Ji, Georges Dupret, Ciya Liao, and Zhaohui Zheng  
-_Proceedings of the 19th ACM International Conference on Information and Knowledge Management (CIKM) (short paper)_, pp.1473–1476, Toronto, Canada, October 2010
+_Proceedings of the 19th ACM International Conference on Information and Knowledge Management (**CIKM**) (short paper)_, pp.1473–1476, Toronto, Canada, October 2010
 - **[C5]** [Online learning for recency search ranking using real-time user feedback](http://115.145.209.240/files/Conference/cikm2.pdf)  
 Taesup Moon, Lihong Li, Wei Chu, Zhaohui Zheng, and Yi Chang  
-_Proceedings of the 19th ACM International Conference on Information and Knowledge Management (CIKM) (short paper)_, pp.1501–1504, Toronto, Canada, October 2010
+_Proceedings of the 19th ACM International Conference on Information and Knowledge Management (**CIKM**) (short paper)_, pp.1501–1504, Toronto, Canada, October 2010
 - **[C4]** [IntervalRank - Isotonic regression with listwise and pairwise constraints](http://115.145.209.240/files/Conference/wsdm2010.pdf)  
 Taesup Moon, Alex Smola, Yi Chang, and Zhaohui Zheng  
-_Proceedings of the 3rd ACM International Conference on Web Search and Data Mining (WSDM)_, pp.151–159, New York, NY, February 2010
+_Proceedings of the 3rd ACM International Conference on Web Search and Data Mining (**WSDM**)_, pp.151–159, New York, NY, February 2010
 - **[J3]** [Discrete denoising with shifts](http://115.145.145.158/files/Journal/it3.pdf)  
 Taesup Moon and Tsachy Weissman  
 _IEEE Transactions on Information Theory_, vol. 55, no.11, pp.5284–5301, November 2009
@@ -130,10 +130,10 @@ Taesup Moon and Tsachy Weissman
 _Proceedings of the 45th Annual Allerton Conference on Communication, Control, and Computation_, Monticello, Illinois, September 2007
 - **[C2]** [Competitive on-line linear FIR MMSE filtering](http://115.145.209.240/files/Conference/isit2007.pdf)  
 Taesup Moon and Tsachy Weissman  
-_Proceedings of 2007 IEEE International Symposium on Information Theory (ISIT)_, pp.1126–1130, Nice, France, June 2007
+_Proceedings of 2007 IEEE International Symposium on Information Theory (**ISIT**)_, pp.1126–1130, Nice, France, June 2007
 - **[C1]** [Discrete universal filtering via hidden Markov modeling](http://115.145.209.240/files/Conference/isit2005.pdf)  
 Taesup Moon and Tsachy Weissman  
-_Proceedings of 2005 IEEE International Symposium on Information Theory (ISIT)_, pp.1285–1289, Adelaide, Australia, September 2005
+_Proceedings of 2005 IEEE International Symposium on Information Theory (**ISIT**)_, pp.1285–1289, Adelaide, Australia, September 2005
 
 ### Patents and Defensive Publications
 - [Denoiser, and control method thereof](https://patentimages.storage.googleapis.com/f7/b5/86/28a2c5e32c2108/US20180137405A1.pdf)  
