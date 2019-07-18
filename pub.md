@@ -33,6 +33,11 @@ _Submitted_
 - [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _Submitted_  
+- [Vacation Scheduling in M/G/1/N System using Recursively Supervised Neural Network]()  
+Yongbee Park and Taesup Moon  
+_Submitted_  
+
+
 
 ### 2019
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://arxiv.org/abs/1709.03199)  
