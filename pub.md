@@ -9,9 +9,6 @@ subtitle: Publications
 - [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
 _Submitted_
-- [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
-Sungmin Cha and Taesup Moon  
-_Submitted_
 - [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Submitted_
@@ -40,6 +37,9 @@ _Submitted_
 
 
 ### 2019
+- **[C17]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
+Sungmin Cha and Taesup Moon  
+_Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://arxiv.org/abs/1709.03199)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
 Accepted to _Biomedical Signal Processing and Control_  
