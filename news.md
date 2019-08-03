@@ -6,6 +6,7 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
+- 7/23, Our paper "Fully Convolutional Pixel Adaptive Image Denoiser" was accepted to [_ICCV 2019_](http://iccv2019.thecvf.com)! The acceptance rate was 25%. Huge congratulations to [Sungmin](https://csm9493.github.io/about/)!
 - 3/28, Received funding as a PI from KEIT on applying machine learning to semiconductor design!
 - 3/2, TaeEon and Juna joined the lab as new MS students!
 - 1/27-2/1, _**AAAI 2019**_
