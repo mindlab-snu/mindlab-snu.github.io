@@ -9,11 +9,14 @@ subtitle: M.IN.D Lab Family
 * Suhyeon Jin 
 * [Sungmin Cha](https://csm9493.github.io/about) 
 
-#### MS students
+#### MS/PhD integrated students
 
 * Sunghwan Joo 
-* Yongbee Park
 * Donggyu Lee 
+
+#### MS students
+
+* Yongbee Park
 * Hyeongmin Park 
 * Juyeon Heo 
 * [Jungtae Lee](https://jungtae9lee.github.io/about/) 
