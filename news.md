@@ -6,7 +6,7 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
-- Taesup will serve as a Program Committee of [_AAAI 2020_].
+- Taesup will serve as a Program Committee of [_AAAI 2020_](https://aaai.org/Conferences/AAAI-20/).
 - Taesup will serve as a Workshop Chair of [_ACML 2019_](http://www.acml-conf.org/2019/).
 - 7, Taesup served as a program committee member of [_KCCV 2019_](https://kcvs.kr/front/conference/2019).
 - 7,Hongjoon won 2 awards from the domestic conferences; 네이버관심상 at [_2019 대한전자공학회 하계학술대회_](http://conf.theieie.org/2019s/) and 우수 포스터상 at [_AI Korea 2019_](http://aisociety.kr/AIKOREA2019/). Congratulations Hongjoon!
