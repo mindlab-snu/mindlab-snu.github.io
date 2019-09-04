@@ -33,10 +33,10 @@ _Submitted_
 ### 2019
 - **[C19]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
-To appear at _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 - **[C18]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
-To appear at _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019
 - **[C17]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
