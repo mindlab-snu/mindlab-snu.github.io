@@ -18,14 +18,8 @@ _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
-- [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
-Juyeon Heo, Sunghwan Joo, and Taesup Moon  
-_Submitted_  
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
-_Submitted_  
-- [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
-Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
 _Submitted_  
 - [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
@@ -37,6 +31,12 @@ _Submitted_
 
 
 ### 2019
+- [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
+Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
+To appear at _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
+- [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
+Juyeon Heo, Sunghwan Joo, and Taesup Moon  
+To appear at _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019
 - **[C17]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
