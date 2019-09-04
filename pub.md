@@ -32,7 +32,7 @@ _Submitted_
 
 ### 2019
 - **[C19]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
-Hongjoon Ahn, Donggyu Lee, Sungmin Cha and Taesup Moon  
+Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 - **[C18]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
