@@ -6,6 +6,7 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
+- Two papers got accepted to [_NeurIPS 2019_](http://neurips.cc)!! The acceptance rate was 21.2%. Many congratulations on Hongjoon, Sungmin, Donggyu, Juyeon, Sunghwan!! 
 - Taesup will serve as a Program Committee of [_AAAI 2020_](https://aaai.org/Conferences/AAAI-20/).
 - Taesup will serve as a Workshop Chair of [_ACML 2019_](http://www.acml-conf.org/2019/).
 - 7, Taesup served as a program committee member of [_KCCV 2019_](https://kcvs.kr/front/conference/2019).
