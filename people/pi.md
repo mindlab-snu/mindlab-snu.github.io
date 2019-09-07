@@ -43,7 +43,7 @@ tsmoon _at_ skku _dot_ edu
 * [Department of Artificial Ingelligence](http://ai.skku.edu)
 
 #### Professional Services
-* Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2019), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
+* Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2020), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
 
 
