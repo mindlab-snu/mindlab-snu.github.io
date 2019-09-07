@@ -10,7 +10,7 @@ subtitle: M.IN.D Lab Family
 #### Taesup Moon
 
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Taesup_Moon.jpg" width="197" height="260" align="left" hspace="20" />
-Assistant Professor  
+Associate Professor  
 [School of Electronic and Electrical Engineering](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp)  
 [College of Information and Communication Engineering](http://icc.skku.edu)  
 [Sungkyunkwan University (SKKU)](http://www.skku.edu) 
@@ -42,7 +42,7 @@ tsmoon _at_ skku _dot_ edu
 * [Department of Artificial Ingelligence](http://ai.skku.edu)
 
 #### Professional Services
-* Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
+* Reviewer (recent) - _NeurIPS_ (2017,2018,2019), _ICML_ (2018, 2019), _ICLR_ (2019), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2019), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
 
 
