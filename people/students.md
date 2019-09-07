@@ -21,12 +21,12 @@ subtitle: M.IN.D Lab Family
 * Juyeon Heo 
 * Tae Eon Park 
 * Juna Jeon 
+* Hongjoon Ahn  
+* Jaeseok Byun 
 
 #### BS students
 
-* Hongjoon Ahn  
 * Dohyun Kim
-* Jaeseok Byun 
 
 #### Alumni
 
