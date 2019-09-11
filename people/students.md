@@ -6,27 +6,27 @@ subtitle: M.IN.D Lab Family
 
 #### PhD students
 
-* Suhyeon Jin 
-* [Sungmin Cha](https://csm9493.github.io/about) 
+* [Suhyeon Jin](https://sites.google.com/site/shjinshjin97) 
+* [Sungmin Cha](https://sites.google.com/view/sungmin-cha/) 
 
 #### MS/PhD integrated students
 
-* Sunghwan Joo 
-* Donggyu Lee 
+* [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) 
+* [Donggyu Lee](https://sites.google.com/view/dqlee) 
 
 #### MS students
 
-* Yongbee Park
-* Hyeongmin Park 
-* Juyeon Heo 
-* Tae Eon Park 
-* Juna Jeon 
-* Hongjoon Ahn  
-* Jaeseok Byun 
+* [Yongbee Park](https://sites.google.com/view/yongbeepark/)
+* [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/) 
+* [Juyeon Heo](https://sites.google.com/view/juyeonheo/) 
+* [Tae Eon Park](https://pte1236.wixsite.com/onibugi) 
+* [Junha Jeon](https://sites.google.com/view/junhajeon) 
+* [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
+* [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
 
 #### BS students
 
-* Dohyun Kim
+* [Dohyun Kim](https://sites.google.com/view/dokim/)
 
 #### Alumni
 
