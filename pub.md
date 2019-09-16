@@ -37,6 +37,7 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 - **[C18]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019
+_2019 ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models ([VXAI](http://xai.unist.ac.kr/workshop/2019/))_, November 2019  
 - **[C17]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
