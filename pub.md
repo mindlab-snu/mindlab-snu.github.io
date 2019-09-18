@@ -24,13 +24,13 @@ _Submitted_
 - [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _Submitted_  
-- [Vacation Scheduling in M/G/1/N System using Recursively Supervised Neural Network]()  
-Yongbee Park and Taesup Moon  
-_Submitted_  
 
 
 
 ### 2019
+- **[C20]** [Working Vacation Scheduling of M^X/M/1/N System using Neural Networks]()  
+Yongbee Park and Taesup Moon  
+_7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019  
 - **[C19]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
