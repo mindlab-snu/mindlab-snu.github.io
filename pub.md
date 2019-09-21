@@ -55,7 +55,7 @@ _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 20
 ### 2018
 - **[C15]** [UDLR Convolutional Network for Adaptive Image Denoiser](https://link.springer.com/chapter/10.1007/978-981-13-7780-8_5)  
 Sungmin Cha and Taesup Moon  
-_International Conference on Robot Intelligence Technology and Applications ([**RiTA**])_, December 2018  
+_International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2018.icrita.org/))_, December 2018  
 - **[C14]** [Fast DCNN-based human activity classification with on-body antenna using generative models]()  
 Hyeongmin Park and Taesup Moon  
 _International Symposium on Antennas and Propagation (ISAP)_, October 2018
