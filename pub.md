@@ -28,31 +28,34 @@ _Submitted_
 
 
 ### 2019
-- **[C20]** [Working Vacation Scheduling of M^X/M/1/N System using Neural Networks]()  
+- **[C21]** [Working Vacation Scheduling of M^X/M/1/N System using Neural Networks]()  
 Yongbee Park and Taesup Moon  
 _7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019  
-- **[C19]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
+- **[C20]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
-- **[C18]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
+- **[C19]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models ([**VXAI**](http://xai.unist.ac.kr/workshop/2019/))_, November 2019  
-- **[C17]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
+- **[C18]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://arxiv.org/abs/1709.03199)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
 _Biomedical Signal Processing and Control_, Vol.54, September 2019 
-- **[C16]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
+- **[C17]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
 Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
 _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
-- **[C15]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling](https://arxiv.org/abs/1902.02530) (**Oral**)   
+- **[C16]** [DoPAMINE: Double-sided masked CNN for pixelwise adaptive multiplicative noise despeckling](https://arxiv.org/abs/1902.02530) (**Oral**)   
 Sunghwan Joo, Sungmin Cha, and Taesup Moon  
 _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
 
 
 ### 2018
+- **[C15]** [UDLR Convolutional Network for Adaptive Image Denoiser](https://link.springer.com/chapter/10.1007/978-981-13-7780-8_5)  
+Sungmin Cha and Taesup Moon  
+_International Conference on Robot Intelligence Technology and Applications ([**RiTA**])_, December 2018  
 - **[C14]** [Fast DCNN-based human activity classification with on-body antenna using generative models]()  
 Hyeongmin Park and Taesup Moon  
 _International Symposium on Antennas and Propagation (ISAP)_, October 2018
