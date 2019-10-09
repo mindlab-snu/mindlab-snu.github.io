@@ -24,7 +24,9 @@ _Submitted_
 - [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _Submitted_  
-
+- [Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel]  
+Taeeon Park and Taesup Moon  
+_Submitted_  
 
 
 ### 2019
