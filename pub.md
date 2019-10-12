@@ -27,9 +27,6 @@ _Submitted_
 
 
 ### 2019
-- **[J14]** [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
-Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
-accepted to _Environmental Pollution (**EP**)_ (JCR Top 10%), October 2019  
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
@@ -37,6 +34,9 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models ([**VXAI**](http://xai.unist.ac.kr/workshop/2019/))_, November 2019  
+- **[J14]** [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
+Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+accepted to _Environmental Pollution (**EP**)_ (JCR Top 10%), October 2019  
 - **[C19]** [Working Vacation Scheduling of M^X/M/1/N System using Neural Networks]()  
 Yongbee Park and Taesup Moon  
 _7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019  
