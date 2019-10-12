@@ -9,9 +9,6 @@ subtitle: Publications
 - [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
 _Submitted_
-- [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
-Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
-_Submitted_
 - [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
 Hongjoon Ahn and Taesup Moon  
 _Submitted_
@@ -30,6 +27,9 @@ _Submitted_
 
 
 ### 2019
+- **[J14]** [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
+Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+accepted to _Environmental Pollution (**EP**)_ (JCR Top 10%), October 2019  
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
