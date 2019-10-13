@@ -29,20 +29,20 @@ _Submitted_
 ### 2019
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
-_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
 - **[C20]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
-_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models ([**VXAI**](http://xai.unist.ac.kr/workshop/2019/))_, November 2019  
 - **[J14]** [Estimating PM2.5 Concentration of the Conterminous United States via Interpretable Convolutional Neural Networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
-_Environmental Pollution_ (JCR top 10% journal), October 2019  
+_Environmental Pollution_ (JCR 2018 IF=5.714), October 2019 (accepted)  
 - **[C19]** [Working Vacation Scheduling of M^X/M/1/N System using Neural Networks]()  
 Yongbee Park and Taesup Moon  
-_7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019  
+_7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019 (accepted)    
 - **[C18]** [Fully Convolutional Pixel Adaptive Image Denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
-_Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019  
+_Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 (accepted)   
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://arxiv.org/abs/1709.03199)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
 _Biomedical Signal Processing and Control_, Vol.54, September 2019 
