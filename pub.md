@@ -43,7 +43,7 @@ _7th International Conference on Robot Intelligence Technology and Applications 
 - **[C18]** [Fully convolutional pixel adaptive image denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 (accepted)   
-- **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://arxiv.org/abs/1709.03199)  
+- **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809419301946)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
 _Biomedical Signal Processing and Control_, Vol.54, September 2019 
 - **[C17]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
