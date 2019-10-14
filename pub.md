@@ -33,13 +33,13 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 - **[C20]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
-_ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models ([**VXAI**](http://xai.unist.ac.kr/workshop/2019/))_, November 2019  
+_ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
 - **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks]()  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _Environmental Pollution_ (**IF=5.714**), October 2019 (accepted)  
 - **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks]()  
 Yongbee Park and Taesup Moon  
-_7th International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2019.icrita.org/))_, November 2019 (accepted)    
+_7th International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, November 2019 (accepted)    
 - **[C18]** [Fully convolutional pixel adaptive image denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 (accepted)   
@@ -57,7 +57,7 @@ _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 20
 ### 2018
 - **[C15]** [UDLR Convolutional Network for Adaptive Image Denoiser](https://link.springer.com/chapter/10.1007/978-981-13-7780-8_5)  
 Sungmin Cha and Taesup Moon  
-_International Conference on Robot Intelligence Technology and Applications ([**RiTA**](http://2018.icrita.org/))_, December 2018  
+_International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, December 2018  
 - **[C14]** [Fast DCNN-based human activity classification with on-body antenna using generative models]()  
 Hyeongmin Park and Taesup Moon  
 _International Symposium on Antennas and Propagation (ISAP)_, October 2018
