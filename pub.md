@@ -18,15 +18,15 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
-Lada Kohoutova, Juyeon Heo, Sungmin Cha, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
-_Submitted_  
 - [Unsupervised neural universal denoiser for finite-input general-output noisy channel]()  
 Taeeon Park and Taesup Moon  
 _Submitted_  
 
 
 ### 2019
+- **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
+Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
+Accepted to _Nature Protocols_  
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
