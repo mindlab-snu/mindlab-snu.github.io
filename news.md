@@ -6,8 +6,13 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
+- Taesup will give a tutorial at [(사)한국인공지능학회 추계학술대회](http://www.aitimes.kr/news/articleView.html?idxno=14602).
+- Sungmin got the Best Poster Award at Samsung AI Forum 2019! Congratulations!
+- Our paper got accepted to Environmental Pollution (JCR top 9.7% journal)! Congratulations Yongbee!
 - **Two papers** got accepted to [_**NeurIPS 2019**_](http://neurips.cc)!! The acceptance rate was 21.2%. Many congratulations on Hongjoon, Sungmin, Donggyu, Juyeon, Sunghwan!! 
 - Taesup will serve as a Program Committee of [_AAAI 2020_](https://aaai.org/Conferences/AAAI-20/).
+- 10, [Prof. Avani Wildani](http://www.mathcs.emory.edu/~avani/index.html) from Emory visited M.IN.D Lab!
+- 9, [Prof. Tsachy Weissman](http://www.stanford.edu/~tsachy) from Stanford visited M.IN.D Lab!
 - Taesup will serve as a Workshop Chair of [_ACML 2019_](http://www.acml-conf.org/2019/).
 - 7, Taesup served as a program committee member of [_KCCV 2019_](https://kcvs.kr/front/conference/2019).
 - 7,Hongjoon won 2 awards from the domestic conferences; 네이버관심상 at [_2019 대한전자공학회 하계학술대회_](http://conf.theieie.org/2019s/) and 우수 포스터상 at [_AI Korea 2019_](http://aisociety.kr/AIKOREA2019/). Congratulations Hongjoon!
