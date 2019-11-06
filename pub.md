@@ -26,7 +26,7 @@ _Submitted_
 ### 2019
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
-Accepted to _**Nature Protocols**_  
+Accepted
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
