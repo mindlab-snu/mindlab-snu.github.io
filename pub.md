@@ -34,7 +34,7 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
-- **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks]()  
+- **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395)  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _**Environmental Pollution** (**IF=5.714**)_, October 2019 (accepted)  
 - **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks]()  
