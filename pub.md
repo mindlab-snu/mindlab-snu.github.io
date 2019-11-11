@@ -45,7 +45,7 @@ Sungmin Cha and Taesup Moon
 _Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809419301946)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
-_Biomedical Signal Processing and Control_, Vol.54, September 2019 
+_Biomedical Signal Processing and Control_, Vol.54, September 2019, 101613  
 - **[C17]** [Subtask gated networks for non-intrusive load monitoring](https://arxiv.org/abs/1811.06692)  
 Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee    
 _Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI**)_, January 2019  
