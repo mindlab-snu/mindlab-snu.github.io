@@ -26,23 +26,23 @@ _Submitted_
 ### 2019
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
-Accepted
+_**Nature Protocols** (**IF=11.334**)_, November 2019 (accepted)
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
-_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 
 - **[C20]** [Fooling neural network interpretations via adversarial model manipulation](https://arxiv.org/abs/1902.02041)  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
-_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 (accepted)  
+_Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
 - **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395)  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
-_**Environmental Pollution** (**IF=5.714**)_, October 2019 (accepted)  
+_**Environmental Pollution** (**IF=5.714**)_, October 2019 
 - **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks]()  
 Yongbee Park and Taesup Moon  
-_7th International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, November 2019 (accepted)    
+_7th International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, November 2019 
 - **[C18]** [Fully convolutional pixel adaptive image denoiser](https://arxiv.org/abs/1807.07569) ([code](https://github.com/csm9493/FC-AIDE))  
 Sungmin Cha and Taesup Moon  
-_Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 (accepted)   
+_Proceedings of IEEE International Conference on Computer Vision (**ICCV**)_, October 2019 
 - **[J13]** [Skip-connected 3D DenseNet for volumetric infant brain MRI segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809419301946)  
 Toan Duc Bui, Taesup Moon, and Jitae Shin    
 _Biomedical Signal Processing and Control_, Vol.54, September 2019 
