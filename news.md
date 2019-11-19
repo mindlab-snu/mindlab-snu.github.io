@@ -6,6 +6,7 @@ subtitle: What's up in M.IN.D Lab?
 
 ### 2019
 <hr>
+- Our work on [PM2.5 estimation](https://doi.org/10.1016/j.envpol.2019.113395) has been featured in [Joong Agn-Ilbo article](https://news.joins.com/article/23636437)!
 - Taesup will give a tutorial at [(사)한국인공지능학회 추계학술대회](http://www.aitimes.kr/news/articleView.html?idxno=14602).
 - Sungmin got the Best Poster Award at Samsung AI Forum 2019! Congratulations!
 - Our paper got accepted to Environmental Pollution (JCR top 9.7% journal)! Congratulations Yongbee!
