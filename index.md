@@ -12,3 +12,20 @@ Welcome! Our mission is to develop state-of-the-art machine learning/deep learni
 Following is our lab intro video (special thanks to Karel Setnička)! To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. 
 <iframe src="https://player.vimeo.com/video/257239184" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+### Recent News
+<hr>
+- Our work on [PM2.5 estimation](https://doi.org/10.1016/j.envpol.2019.113395) has been featured in [Joong Agn-Ilbo article](https://news.joins.com/article/23636437)!
+- Taesup will give a tutorial at [(사)한국인공지능학회 추계학술대회](http://www.aitimes.kr/news/articleView.html?idxno=14602).
+- **Sungmin** got the Best Poster Award at Samsung AI Forum 2019! Congratulations!
+- Our paper got accepted to [_**Environmental Pollution**_](https://doi.org/10.1016/j.envpol.2019.113395) (JCR top 9.7% journal)! Congratulations Yongbee!
+- **Two papers** got accepted to [_**NeurIPS 2019**_](http://neurips.cc)!! The acceptance rate was 21.2%. Many congratulations on Hongjoon, Sungmin, Donggyu, Juyeon, Sunghwan!!
+- Taesup will serve as a Program Committee of [_AAAI 2020_](https://aaai.org/Conferences/AAAI-20/).
+- 10, [Prof. Avani Wildani](http://www.mathcs.emory.edu/~avani/index.html) from Emory visited M.IN.D Lab!
+- 9, [Prof. Tsachy Weissman](http://www.stanford.edu/~tsachy) from Stanford visited M.IN.D Lab!
+- Taesup will serve as a Workshop Chair of [_ACML 2019_](http://www.acml-conf.org/2019/).
+- 7, Taesup served as a program committee member of [_KCCV 2019_](https://kcvs.kr/front/conference/2019).
+- 7, **Hongjoon** won 2 awards from the domestic conferences; 네이버관심상 at [_2019 대한전자공학회 하계학술대회_](http://conf.theieie.org/2019s/) and 우수 포스터상 at [_AI Korea 2019_](http://aisociety.kr/AIKOREA2019/). Congratulations Hongjoon!
+- 7/23, Our paper "Fully Convolutional Pixel Adaptive Image Denoiser" was accepted to [_**ICCV 2019**_](http://iccv2019.thecvf.com)! The acceptance rate was 25%. Huge congratulations to [Sungmin](https://csm9493.github.io/about/)!
+- 3/28, Received funding as a PI from KEIT on applying machine learning to semiconductor design!
+- 3/2, TaeEon and Juna joined the lab as new MS students!
+- 1/27-2/1, _**AAAI 2019**_
