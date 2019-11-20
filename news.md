@@ -9,7 +9,7 @@ subtitle: What's up in M.IN.D Lab?
 - Our work on [PM2.5 estimation](https://doi.org/10.1016/j.envpol.2019.113395) has been featured in [Joong Agn-Ilbo article](https://news.joins.com/article/23636437)!
 - Taesup will give a tutorial at [(사)한국인공지능학회 추계학술대회](http://www.aitimes.kr/news/articleView.html?idxno=14602).
 - Sungmin got the Best Poster Award at Samsung AI Forum 2019! Congratulations!
-- Our paper got accepted to Environmental Pollution (JCR top 9.7% journal)! Congratulations Yongbee!
+- Our paper got accepted to [_**Environmental Pollution**_](https://doi.org/10.1016/j.envpol.2019.113395) (JCR top 9.7% journal)! Congratulations Yongbee!
 - **Two papers** got accepted to [_**NeurIPS 2019**_](http://neurips.cc)!! The acceptance rate was 21.2%. Many congratulations on Hongjoon, Sungmin, Donggyu, Juyeon, Sunghwan!! 
 - Taesup will serve as a Program Committee of [_AAAI 2020_](https://aaai.org/Conferences/AAAI-20/).
 - 10, [Prof. Avani Wildani](http://www.mathcs.emory.edu/~avani/index.html) from Emory visited M.IN.D Lab!
