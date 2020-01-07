@@ -23,7 +23,7 @@ _Submitted_
 ### 2020
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel]()
 Taeeon Park and Taesup Moon  
-_International Conference on Artificial Intelligence and Statistics (**AISTATS 2020**)_, June 2020 (accepted)  
+_International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020 (accepted)  
 
 
 ### 2019
