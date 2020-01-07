@@ -18,9 +18,12 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [Unsupervised neural universal denoiser for finite-input general-output noisy channel]()  
+
+
+### 2020
+- **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel]()
 Taeeon Park and Taesup Moon  
-_Submitted_  
+Accepted to _International Conference on Artificial Intelligence and Statistics (**AISTATS 2020**)_, June 2020
 
 
 ### 2019
