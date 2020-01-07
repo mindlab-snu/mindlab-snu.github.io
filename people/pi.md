@@ -7,14 +7,14 @@ subtitle: M.IN.D Lab Family
 ### Principal Investigator
 <hr>
 
-#### Taesup Moon
-
+#### Taesup Moon (Currently on leave to [Harvard SEAS](https://www.seas.harvard.edu/) until 20.8)  
+  
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Taesup_Moon.jpg" width="197" height="260" align="left" hspace="20" />
 Associate Professor   
 [School of Electronic and Electrical Engineering](http://ice.skku.edu/eng_ice/menu3/Dept_Electronic.jsp)  
 [College of Information and Communication Engineering](http://icc.skku.edu)  
 [Sungkyunkwan University (SKKU)](http://www.skku.edu)   
-(Currently on leave to [Harvard SEAS](https://www.seas.harvard.edu/) until 20.8)  
+
  
 **Contact**  
 [http://mind.skku.edu](http://mind.skku.edu)  
