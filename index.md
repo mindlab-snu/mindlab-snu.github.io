@@ -14,9 +14,9 @@ Following is our lab intro video (special thanks to Karel Setnička)! To know mo
 
 ### Recent News
 <hr>
-- 20.1 One paper got accepted to [AISTATS 2020](http://aistats.org)! Contratulations [Taeeon Park](https://pte1236.wixsite.com/onibugi)!
+- 20.1 One paper got accepted to [_AISTATS 2020_](http://aistats.org)! Contratulations [Tae Eon Park](https://pte1236.wixsite.com/onibugi)!
 - 20.1~20.8 Taesup is visiting Harvard SEAS as a visiting scholar (sabbatical leave). 
 - 19.12. Our lab was featured in [SKKU Webzine](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10)!
-- 19.12. Jihwan Kwak (BS intern) received the prestigious [SKKU President's List award](https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=77084&article.offset=0&articleLimit=10)! Congratulations!
+- 19.12. [Jihwan Kwak]() (BS intern) received the prestigious [SKKU President's List award](https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=77084&article.offset=0&articleLimit=10)! Congratulations!
 - Our NeurIPS papers were featured in [Joong Ang-Ilbo article](https://news.joins.com/article/23652311)!
 - Our work on [PM2.5 estimation](https://doi.org/10.1016/j.envpol.2019.113395) has been featured in [Joong Ang-Ilbo article](https://news.joins.com/article/23636437)!
