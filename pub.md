@@ -24,12 +24,12 @@ _Submitted_
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel]()  
 Taeeon Park and Taesup Moon  
 _International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020  
-
-
-### 2019
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _**Nature Protocols** (**IF=11.334**)_, November 2019 (accepted)
+
+
+### 2019
 - **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://arxiv.org/abs/1905.11614)  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 
