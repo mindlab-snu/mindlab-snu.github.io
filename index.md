@@ -14,8 +14,11 @@ Following is our lab intro video (special thanks to Karel Setnička)!
 
 ### Recent News
 <hr>
+- 20.3 Juyeon and Sunghwan are vising [TU Berlin](https://www.tu-berlin.de/menue/home/)([Prof. Klaus-Robert Müller lab](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))  for six months (20.3~20.8)!
+- 20.2 Donggyu and Hongjoon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for one month (20.2~20.3)! 
+- 20.2 Sungmin and Tae-Eon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for six months (20.2~20.7)!
 - 20.1 One paper got accepted to [_AISTATS 2020_](http://aistats.org)! Contratulations [Tae Eon Park](https://pte1236.wixsite.com/onibugi)!
-- 20.1~20.8 Taesup is visiting [Harvard SEAS](https://www.seas.harvard.edu/) as a visiting scholar (sabbatical leave). 
+- 20.1~20.8 Taesup is visiting [Prof. Flavio Calmon](http://people.seas.harvard.edu/~flavio/) at [Harvard SEAS](https://www.seas.harvard.edu/) as a visiting scholar (sabbatical leave). 
 - 19.12. Our lab was featured in [SKKU Webzine](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10)!
 - 19.12. [Jihwan Kwak]() (BS intern) received the prestigious [SKKU President's List award](https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=77084&article.offset=0&articleLimit=10)! Congratulations!
 - Our NeurIPS papers were featured in [Joong Ang-Ilbo article](https://news.joins.com/article/23652311)!
