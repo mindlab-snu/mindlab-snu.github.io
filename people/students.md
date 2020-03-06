@@ -30,7 +30,7 @@ subtitle: M.IN.D Lab Family
 #### Alumni
 
 * [Yongbee Park](https://sites.google.com/view/yongbeepark/) (MS '20)
-* [Suhyeon Jun]()
+* [Suhyeon Jin]()
 * [Jungtae Lee](https://jungtae9lee.github.io/about/) (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Youngeun Seo (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Seungwon Oh (BS '18, Currently an MS student at [University of Maryland](https://www.umd.edu/))
