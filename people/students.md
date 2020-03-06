@@ -6,20 +6,18 @@ subtitle: M.IN.D Lab Family
 
 #### PhD students
 
-* [Suhyeon Jin](https://sites.google.com/site/shjinshjin97) 
 * [Sungmin Cha](https://sites.google.com/view/sungmin-cha/) 
-
-#### MS/PhD integrated students
-
 * [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) 
 * [Donggyu Lee](https://sites.google.com/view/dqlee) 
 
+#### MS/PhD integrated students
+
+
 #### MS students
 
-* [Yongbee Park](https://sites.google.com/view/yongbeepark/)
 * [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/) 
 * [Juyeon Heo](https://sites.google.com/view/juyeonheo/) 
-* [Tae Eon Park](https://pte1236.wixsite.com/onibugi) 
+* [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Junha Jeon](https://sites.google.com/view/junhajeon) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
@@ -30,6 +28,8 @@ subtitle: M.IN.D Lab Family
 
 #### Alumni
 
+* [Yongbee Park](https://sites.google.com/view/yongbeepark/) (MS '20)
+* [Suhyeon Jun]()
 * [Jungtae Lee](https://jungtae9lee.github.io/about/) (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Youngeun Seo (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Seungwon Oh (BS '18, Currently an MS student at [University of Maryland](https://www.umd.edu/))
