@@ -15,6 +15,8 @@ Following is our lab intro video (special thanks to Karel Setnička)!
 ### Recent News
 <hr>
 - 20.3 Juyeon and Sunghwan are vising [TU Berlin](https://www.tu-berlin.de/menue/home/) ([Prof. Klaus-Robert Müller lab](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))  for six months (20.3~20.8)!
+- 20.2 Taesup gave a talk at [Stanford IT Forum](https://web.stanford.edu/group/it-forum/colloquium/colloquium_moon2.html)!
+- 20.2 Sungmin received the First Prize award for the Superior Research in SKKU ICC. Congrats!
 - 20.2 Donggyu and Hongjoon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for one month (20.2~20.3)! 
 - 20.2 Sungmin and Tae-Eon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for six months (20.2~20.7)!
 - 20.1 One paper got accepted to [_AISTATS 2020_](http://aistats.org)! Contratulations [Tae Eon Park](https://pte1236.wixsite.com/onibugi)!
