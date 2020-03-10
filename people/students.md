@@ -21,11 +21,11 @@ subtitle: M.IN.D Lab Family
 * [Junha Jeon](https://sites.google.com/view/junhajeon) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
-* [Sang Won Jung]()
+* [Sang Won Jung](https://sites.google.com/view/sangwon-jung)
 * [Dohyun Kim](https://sites.google.com/view/dokim/)
 
 #### BS students
-* [Jihwan Kwak]()
+* [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 
 #### Alumni
 
