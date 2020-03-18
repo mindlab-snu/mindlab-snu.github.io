@@ -28,7 +28,7 @@ Taeeon Park and Taesup Moon
 _International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020  
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
-_**Nature Protocols** (**IF=11.334**)_, November 2019 (accepted)
+_**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-5, March 2020
 
 
 ### 2019
