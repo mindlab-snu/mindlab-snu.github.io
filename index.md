@@ -14,6 +14,7 @@ Following is our lab intro video (special thanks to Karel Setnička)!
 
 ### Recent News
 <hr>
+- 20.3 Our first collaboration with [Cocoan Lab@SKKU](https://cocoanlab.github.io/) was published in [_*Nature Protocols*_](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)! 
 - 20.3 Juyeon and Sunghwan are visiting [TU Berlin](https://www.tu-berlin.de/menue/home/) ([Prof. Klaus-Robert Müller lab](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))  for six months (20.3~20.8)!
 - 20.2 Taesup gave a talk at [Stanford IT Forum](https://web.stanford.edu/group/it-forum/colloquium/colloquium_moon2.html)!
 - 20.2 Sungmin received the First Prize award for the Superior Research in SKKU ICC. Congrats!
