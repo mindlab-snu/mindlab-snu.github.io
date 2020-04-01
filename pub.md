@@ -18,13 +18,13 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [A Simple Class Decision Balancing for Incremental Learning](https://arxiv.org/abs/2003.13947)  
+- [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
 Hongjoon Ahn and Taesup Moon  
 _Submitted_    
-- [Adaptive Group Sparse Regularization for Continual Learning](https://arxiv.org/abs/2003.13726)  
+- [Adaptive group sparse regularization for continual learning](https://arxiv.org/abs/2003.13726)  
 Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
 _Submitted_  
-- [Learning Blind Pixelwise Affine Image Denoiser with Single Noisy Images]()  
+- [Learning blind pixelwise affine image denoiser with single noisy images]()  
 Jaeseok Byun and Taesup Moon  
 _Submitted_ 
 
