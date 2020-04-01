@@ -18,9 +18,16 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [A Simple Class Decision Balancing for Incremental Learning]()  
+- [A Simple Class Decision Balancing for Incremental Learning](https://arxiv.org/abs/2003.13947)  
 Hongjoon Ahn and Taesup Moon  
 _Submitted_    
+- [Adaptive Group Sparse Regularization for Continual Learning](https://arxiv.org/abs/2003.13726)  
+Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
+_Submitted_  
+- [Learning Blind Pixelwise Affine Image Denoiser with Single Noisy Images]()  
+Jaeseok Byun and Taesup Moon  
+_Submitted_ 
+
 
 ### 2020
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel](https://arxiv.org/abs/2003.02623)  
