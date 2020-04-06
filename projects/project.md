@@ -12,11 +12,11 @@ subtitle: Main Areas & Projects
 - Many areas that deal with mathematics and computation
 - **Main tools**: Python/NumPy, C++/CUDA, Keras, Tensorflow, Pytorch
 
-<br><br>
+<br>
 
 ### Current Projects
-#### Core machine intelligence algorithms
 <hr>
+#### Core machine intelligence algorithms
 - Neural network based denoising / estimation (Supported by [NRF](https://www.nrf.re.kr/biz/info/info/view?biz_no=319), [Samsung](https://www.sait.samsung.co.kr/saithome/main/main.do))
 - Multi-task / continual / incremental learning (Supported by [IITP](https://www.iitp.kr/en/main.it))
 - Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
@@ -24,13 +24,12 @@ subtitle: Main Areas & Projects
 
 
 #### Data science applications
-<hr>
 - Neuroscience / Medical data analyses (Joint work with Prof. [Choong-Wan Woo](https://cocoanlab.github.io/), Prof. [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do))
 - Satellite data based PM2.5 level estimation (Joint work with Prof. [Yang Liu](https://www.sph.emory.edu/faculty/profile/#\!YLIU74))
 - Random variation prediction for semiconductor manufacturing (Supported by [KEIT](https://itech.keit.re.kr/index.do))
 
-
-### Past projects
-
+<br>
+### Past Projects
+<hr>
 - Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
 - DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
