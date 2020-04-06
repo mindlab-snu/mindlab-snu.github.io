@@ -14,61 +14,23 @@ subtitle: Main Areas & Projects
 
 <br><br>
 
-### Core machine intelligence algorithms
+### Current Projects
+#### Core machine intelligence algorithms
 <hr>
-- Neural network based denoising / estimation (Supported by NRF, Samsung)
-- Multi-task / continual / incremental learning (Supported by IITP)
-- Interpretable machine learning (Supported by KIST)
-- Fairness in machine learning (Supported by IITP)
+- Neural network based denoising / estimation (Supported by [NRF](https://www.nrf.re.kr/biz/info/info/view?biz_no=319), [Samsung](https://www.sait.samsung.co.kr/saithome/main/main.do))
+- Multi-task / continual / incremental learning (Supported by [IITP](https://www.iitp.kr/en/main.it))
+- Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
+- Fairness in machine learning (Supported by [IITP](https://www.iitp.kr/en/main.it), Joint work with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/))
 
 
-
-\\#### Neural Network based Denoising / Estimation  
-\\We apply deep neural networks to the classical denoising and estimation problems in signal processing. Under the universal denoising setting, only with the assumption of known noise model, the neural network model effectively aggregates the information from similar contexts and can attain much better performance than the original method proposed in the information theory community.  
-\\
-\\This project is supported by [NRF Young Researcher Program (한국연구재단 신진연구)](https://www.nrf.re.kr/biz/info/info/view?biz_no=319) (2016.6~2019.5, 300 Million KRW). 
-\\
-\\#### Multi-task / Lifelong Reinforcement Learning
-\\We develop new class of AI algorithms that can adapt fast and continually learn from interactive environments, such as those in autonomous digital companion like Amazon Echo. Particularly, we focus on multi-task reinforcement learning algorithm, an RL algorithm that can generalize fast to the tasks that are similar to previously learned tasks. We plan to apply ideas from universal source coding, memory-based learning and interpretable models. 
-\\
-\\This project is supported by [MSIP-IITP Flagship Project on AI (주관:KAIST)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=298&aid=0000214542&sid1=001&lfrom=facebook) (2016.12~2020.12, 750 Million KRW).
-\\
-\\
-\\ 
-\\#### Interpretable machine learning algorithms  
-\\
-\\Interpretability is an indispensable feature needed for AI algorithms that make critical decisions such as cancer treatment recommendation or load approval rate prediction. We plan to develop a new learning method for deep learning algorithms that take the interpretability into account. 
-\\
-\\This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
-\\
-\\#### Fairness in Machine Learning
-\\
-\\This project is supported by [IITP](). 
-\\
-\\
-\\<br>
-\\
-\\#### Past projects
-\\- Deep learning based external knowledge based reasoning
-\\This project was supprted by [Samsung Electronics](http://www.samsung.com) (2017.4~2017.12, 80 Million KRW). 
-\\
-
-
-### Data science applications
+#### Data science applications
 <hr>
-#### Neuroscience / Medical data analyses
-We apply interpretable deep learning methods to various medical / neuroscience related data for achieving high prediction accuracy and making new new scientific contributions. We try to collaborate with many partners, such as Samsung Medical Center (Prof. Ho Yun Lee), SNU Hospital (Dr. Jangsup Moon, Prof. Jaejin Song), and [SKKU IBS (Prof. Choong-Wan Woo)](http://cocoanlab.github.io).
-
-#### Satellite data based PM2.5 level estimation
-
-We apply deep learning / machine learning method for PM2.5 level prediction using satellite and meteorological data. This is a joint work with [Prof. Yang Liu (Emory University, Environmental Health)](https://www.sph.emory.edu/faculty/profile/#\!YLIU74)
+- Neuroscience / Medical data analyses (Joint work with Prof. [Choong-Wan Woo](https://cocoanlab.github.io/), Prof. [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do))
+- Satellite data based PM2.5 level estimation (Joint work with Prof. [Yang Liu](https://www.sph.emory.edu/faculty/profile/#\!YLIU74))
+- Random variation prediction for semiconductor manufacturing (Supported by [KEIT](https://itech.keit.re.kr/index.do))
 
 
-#### DNA sequence denoising
+### Past projects
 
-We apply the recently proposed Neural DUDE to the Next Generation Sequencing DNA data. The aim is to develop flexible and universal denoiser that surpass the previous state-of-the-arts that are tailored to specific sequencing devices. This is a joint work with [Prof. Sungroh Yoon (SNU)](http://best.snu.ac.kr).  
-
-
-#### Past projects
 - Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
 - DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
