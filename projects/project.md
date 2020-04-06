@@ -34,7 +34,12 @@ Interpretability is an indispensable feature needed for AI algorithms that make 
 
 This project is supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018.3~2020.12, 150 Million KRW).  
 
-<br><br>
+#### Fairness in Machine Learning
+
+This project is supported by [IITP](). 
+
+
+<br>
 
 #### Past projects
 - Deep learning based external knowledge based reasoning
@@ -51,13 +56,12 @@ We apply interpretable deep learning methods to various medical / neuroscience r
 
 We apply deep learning / machine learning method for PM2.5 level prediction using satellite and meteorological data. This is a joint work with [Prof. Yang Liu (Emory University, Environmental Health)](https://www.sph.emory.edu/faculty/profile/#\!YLIU74)
 
-#### Non-Intrusive Load Monitoring (NILM)
-
-This project aims to disaggregate the energy usage per device from the total energy usage (time-series) data, based on convolutional neural networks (CNN). This is a joint work with [Encored Technologies, Inc.](http://www.enertalk.com/)
 
 #### DNA sequence denoising
 
 We apply the recently proposed Neural DUDE to the Next Generation Sequencing DNA data. The aim is to develop flexible and universal denoiser that surpass the previous state-of-the-arts that are tailored to specific sequencing devices. This is a joint work with [Prof. Sungroh Yoon (SNU)](http://best.snu.ac.kr).  
 
 
-
+#### Past projects
+- Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr)
+- DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr)
