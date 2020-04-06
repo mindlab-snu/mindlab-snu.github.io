@@ -63,5 +63,5 @@ We apply the recently proposed Neural DUDE to the Next Generation Sequencing DNA
 
 
 #### Past projects
-- Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr)
-- DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr)
+- Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
+- DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
