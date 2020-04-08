@@ -26,7 +26,8 @@ subtitle: Main Areas & Projects
 #### Data science applications
 - Neuroscience / Medical data analyses (Joint work with Prof. [Choong-Wan Woo](https://cocoanlab.github.io/), Prof. [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do))
 - Satellite data based PM2.5 level estimation (Joint work with Prof. [Yang Liu](https://www.sph.emory.edu/faculty/profile/#\!YLIU74))
-- Random variation prediction for semiconductor manufacturing (Supported by [KEIT](https://itech.keit.re.kr/index.do))
+- Random variation prediction for semiconductor manufacturing (Supported by [KEIT](https://itech.keit.re.kr/index.do), Joint work with Prof. [Chang-Hwan Shin](
+http://dclab.skku.edu))
 
 <br>
 ### Past Projects
