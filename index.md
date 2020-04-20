@@ -11,7 +11,7 @@ Welcome! Our mission is to develop state-of-the-art machine learning/deep learni
 
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
 
-Following is our lab intro video (special thanks to Karel Setnička)! 
+Following is our lab intro video taken in 2018 (special thanks to Karel Setnička)! 
 <iframe src="https://player.vimeo.com/video/257239184" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Recent News
