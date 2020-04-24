@@ -10,9 +10,6 @@ subtitle: M.IN.D Lab Family
 * [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) 
 * [Donggyu Lee](https://sites.google.com/view/dqlee) 
 
-#### MS/PhD integrated students
-
-
 #### MS students
 
 * [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/) 
