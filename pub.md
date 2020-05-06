@@ -32,10 +32,10 @@ Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager,
 _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-5, March 2020
 - **[W]** [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
 Hongjoon Ahn and Taesup Moon  
-_**CVPR 2020 Workshop** on Continual Learning in Computer Vision (CLVISION)_, June 2020    
+_CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020    
 - **[W]** [Adaptive group sparse regularization for continual learning](https://arxiv.org/abs/2003.13726)  
 Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
-_**CVPR 2020 Workshop** on Continual Learning in Computer Vision (CLVISION)_, June 2020  
+_CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020  
 
 
 ### 2019
