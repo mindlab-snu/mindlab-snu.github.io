@@ -18,12 +18,6 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
-Hongjoon Ahn and Taesup Moon  
-_Submitted_    
-- [Adaptive group sparse regularization for continual learning](https://arxiv.org/abs/2003.13726)  
-Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
-_Submitted_  
 - [Learning blind pixelwise affine image denoiser with single noisy images]()  
 Jaeseok Byun and Taesup Moon  
 _Submitted_ 
@@ -33,9 +27,15 @@ _Submitted_
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel](https://arxiv.org/abs/2003.02623)  
 Taeeon Park and Taesup Moon  
 _International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020  
-- **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework]()  
+- **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-5, March 2020
+- **[W]** [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
+Hongjoon Ahn and Taesup Moon  
+_**CVPR 2020 Workshop** on Continual Learning in Computer Vision (CLVISION)_, June 2020    
+- **[W]** [Adaptive group sparse regularization for continual learning](https://arxiv.org/abs/2003.13726)  
+Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
+_**CVPR 2020 Workshop** on Continual Learning in Computer Vision (CLVISION)_, June 2020  
 
 
 ### 2019
