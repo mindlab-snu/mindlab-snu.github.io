@@ -17,7 +17,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 - 20.7 Taesup is co-organizing a workshop ([XXAI: Extending Explainable AI Beyond Deep Models and Classifiers]()) in [_**ICML 2020**_](http://icml.cc). Stay tuned!
-- 20.5 One paper got accepted to [_**UAI 2020**_](https://auai.org/uai2020)! Congratulations [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)! 
+- 20.5 One paper got accepted to [_**UAI 2020**_](https://www.auai.org/uai2020)! Congratulations [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)! 
 - 20.4 Two papers got accepted to [_**CVPR 2020 Workshop** on Continual Learning in Computer Vision_](https://sites.google.com/view/clvision2020/overview?authuser=0)! Congrats to Hongjoon, Sangwon, and Sungmin! 
 - 20.3 Our first collaboration paper with [Cocoan Lab@SKKU](https://cocoanlab.github.io/) was published in [_**Nature Protocols**_](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)! 
 - 20.3 Juyeon and Sunghwan are visiting [TU Berlin](https://www.tu-berlin.de/menue/home/) ([Prof. Klaus-Robert Müller lab](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))  for six months (20.3~20.8)!
