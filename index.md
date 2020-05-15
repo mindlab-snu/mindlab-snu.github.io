@@ -17,6 +17,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 - 20.7 Taesup is co-organizing a workshop ([XXAI: Extending Explainable AI Beyond Deep Models and Classifiers]()) in [_**ICML 2020**_](http://icml.cc). Stay tuned!
+- 20.5 One paper got accepted to [_**UAI**_](https://auai.org/uai2020)! Congratulations [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)! 
 - 20.4 Two papers got accepted to [_**CVPR 2020 Workshop** on Continual Learning in Computer Vision_](https://sites.google.com/view/clvision2020/overview?authuser=0)! Congrats to Hongjoon, Sangwon, and Sungmin! 
 - 20.3 Our first collaboration paper with [Cocoan Lab@SKKU](https://cocoanlab.github.io/) was published in [_**Nature Protocols**_](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)! 
 - 20.3 Juyeon and Sunghwan are visiting [TU Berlin](https://www.tu-berlin.de/menue/home/) ([Prof. Klaus-Robert Müller lab](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))  for six months (20.3~20.8)!
@@ -24,7 +25,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - 20.2 Sungmin received the First Prize award for the Superior Research in SKKU ICC. Congrats!
 - 20.2 Donggyu and Hongjoon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for one month (20.2~20.3)! 
 - 20.2 Sungmin and Tae-Eon are visiting [Harvard SEAS](https://www.seas.harvard.edu/) for six months (20.2~20.7)!
-- 20.1 One paper got accepted to [_**AISTATS 2020**_](http://aistats.org)! Contratulations [Tae Eon Park](https://pte1236.wixsite.com/onibugi)!
+- 20.1 One paper got accepted to [_**AISTATS 2020**_](http://aistats.org)! Congratulations [Tae Eon Park](https://pte1236.wixsite.com/onibugi)!
 - 20.1~20.8 Taesup is visiting [Prof. Flavio Calmon](http://people.seas.harvard.edu/~flavio/) at [Harvard SEAS](https://www.seas.harvard.edu/) as a visiting scholar (sabbatical leave). 
 - 19.12. Our lab was featured in [SKKU Webzine](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10)!
 - 19.12. [Jihwan Kwak]() (BS intern) received the prestigious [SKKU President's List award](https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=77084&article.offset=0&articleLimit=10)! Congratulations!

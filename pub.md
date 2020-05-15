@@ -9,9 +9,6 @@ subtitle: Publications
 - [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
 Taesup Moon  
 _Submitted_
-- [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
-Hongjoon Ahn and Taesup Moon  
-_Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
@@ -24,6 +21,9 @@ _Submitted_
 
 
 ### 2020
+- **[C23]** [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
+Hongjoon Ahn and Taesup Moon  
+_Conference on Uncertainty in Artificial Intelligence (**UAI**)_, August 2020  
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel](https://arxiv.org/abs/2003.02623)  
 Taeeon Park and Taesup Moon  
 _International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020  
