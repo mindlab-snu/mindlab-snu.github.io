@@ -15,12 +15,12 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
-- [Learning blind pixelwise affine image denoiser with single noisy images]()  
-Jaeseok Byun and Taesup Moon  
-_Submitted_ 
 
 
 ### 2020
+- **[J16]** [Learning blind pixelwise affine image denoiser with single noisy images]()  
+Jaeseok Byun and Taesup Moon  
+Accepted to _**IEEE Signal Processing Letters** (**IF=3.268**)_  
 - **[C23]** [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
 Hongjoon Ahn and Taesup Moon  
 _Conference on Uncertainty in Artificial Intelligence (**UAI**)_, August 2020  
@@ -30,6 +30,9 @@ _International Conference on Artificial Intelligence and Statistics (**AISTATS**
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-5, March 2020
+- **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395) ([press](https://news.joins.com/article/23636437))  
+Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
+_**Environmental Pollution** (**IF=5.714**)_, https://doi.org/10.1016/j.envpol.2019.113395, January 2020 
 - **[W]** [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
 Hongjoon Ahn and Taesup Moon  
 _CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020    
@@ -46,9 +49,6 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
-- **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395) ([press](https://news.joins.com/article/23636437))  
-Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
-_**Environmental Pollution** (**IF=5.714**)_, https://doi.org/10.1016/j.envpol.2019.113395, October 2019 
 - **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks]()  
 Yongbee Park and Taesup Moon  
 _7th International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, November 2019 
