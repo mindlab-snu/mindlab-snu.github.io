@@ -17,6 +17,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 - 20.7 Taesup is co-organizing a workshop ([XXAI: Extending Explainable AI Beyond Deep Models and Classifiers](http://interpretable-ml.org/icml2020workshop/#organizers)) in [_**ICML 2020**_](http://icml.cc). 
+- 20.6 One paper got accepted to [_**IEEE Signal Processing Letters**_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)! Congratulations [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun)!
 - 20.5 Taesup is giving a talk at [Harvard SEAS](https://www.seas.harvard.edu/) [EE Seminar](https://events.seas.harvard.edu/event/fully_convolutional_pixelwise_context-adaptive_denoiser). 
 - 20.5 One paper got accepted to [_**UAI 2020**_](https://www.auai.org/uai2020)! Congratulations [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)! 
 - 20.4 Two papers got accepted to [_**CVPR 2020 Workshop** on Continual Learning in Computer Vision_](https://sites.google.com/view/clvision2020/overview?authuser=0)! Congrats to Hongjoon, Sangwon, and Sungmin! 
