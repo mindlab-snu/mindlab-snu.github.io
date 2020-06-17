@@ -15,6 +15,9 @@ _Submitted_
 - [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _Submitted_  
+- [CPR: Classifier-projection regularization for continual learning](https://arxiv.org/abs/2006.07326)  
+Sungmin Cha, Hsiang Hsu, Flavio P. Calmon, and Taesup Moon  
+_Submitted_  
 
 
 ### 2020
