@@ -23,13 +23,13 @@ _Submitted_
 ### 2020
 - **[J16]** [Learning blind pixelwise affine image denoiser with single noisy images]()  
 Jaeseok Byun and Taesup Moon  
-Accepted to _**IEEE Signal Processing Letters** (**IF=3.268**)_  
+_**IEEE Signal Processing Letters** (**IF=3.268**)_, 10.1109/LSP.2020.3002652, June 2020  
 - **[C23]** [Iterative channel estimation for discrete denoising under channel uncertainty](https://arxiv.org/abs/1902.08921)  
 Hongjoon Ahn and Taesup Moon  
 _Conference on Uncertainty in Artificial Intelligence (**UAI**)_, August 2020  
 - **[C22]** [Unsupervised neural universal denoiser for finite-input general-output noisy channel](https://arxiv.org/abs/2003.02623)  
 Taeeon Park and Taesup Moon  
-_International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, June 2020  
+_International Conference on Artificial Intelligence and Statistics (**AISTATS**)_, August 2020  
 - **[J15]** [Interpreting machine learning models in neuroimaging: Towards a unified framework](https://cocoanlab.github.io/pdfs/Kohoutova2020.pdf)  
 Lada Kohoutova, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, and Choong-Wan Woo  
 _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-5, March 2020
