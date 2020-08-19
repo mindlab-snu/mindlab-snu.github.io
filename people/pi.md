@@ -7,7 +7,7 @@ subtitle: M.IN.D Lab Family
 ### Principal Investigator
 <hr>
 
-#### Taesup Moon (Currently on leave to [Harvard SEAS](https://www.seas.harvard.edu/) until 20.8)  
+#### Taesup Moon 
   
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Taesup_Moon.jpg" width="197" height="260" align="left" hspace="20" />
 Associate Professor   
