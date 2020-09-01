@@ -16,8 +16,8 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 20.8 Taesup gave a talk at [AI KOREA '20](http://aisociety.kr/AIKOREA2020/).  
-- 20.8 Taesup gave a talk at [KCCV '20](http://kccv2020.kcvs.kr/).  
+- 20.8 Taesup gave a talk at [AI KOREA '20](http://aisociety.kr/AIKOREA2020/invited_talk/index.html)  
+- 20.8 Taesup gave a talk at [KCCV '20](http://kccv2020.kcvs.kr/?act=info.page&pcode=schedule).  
 - 20.7 Taesup gave a talk at [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do).
 - 20.7 Taesup is co-organizing a workshop ([XXAI: Extending Explainable AI Beyond Deep Models and Classifiers](http://interpretable-ml.org/icml2020workshop/#organizers)) in [_**ICML 2020**_](http://icml.cc). 
 - 20.6 One paper (in collaboration with Hsaing Hsu and Flavio Calmon) got accepted to [_**ICML 2020 Workshop** on LifelongML_](https://lifelongml.github.io/cfp/)! Congratulations [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)!  
