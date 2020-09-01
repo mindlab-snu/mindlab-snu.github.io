@@ -22,6 +22,7 @@ subtitle: M.IN.D Lab Family
 
 #### BS students
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
+* [Taebaek Hwang]  
 
 #### Alumni
 
