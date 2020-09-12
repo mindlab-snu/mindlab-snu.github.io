@@ -45,10 +45,10 @@ _CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 20
 
 
 ### 2019
-- **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization) ([code](https://github.com/csm9493/UCL))  
+- **[C21]** [Uncertainty-based continual learning with adaptive regularization](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization) ([code](https://github.com/csm9493/UCL),[press](https://news.joins.com/article/23652311))  
 Hongjoon Ahn, Sungmin Cha, Donggyu Lee and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019 
-- **[C20]** [Fooling neural network interpretations via adversarial model manipulation](https://papers.nips.cc/paper/8558-fooling-neural-network-interpretations-via-adversarial-model-manipulation) ([code](https://github.com/rmrisforbidden/Fooling_Neural_Network-Interpretations))  
+- **[C20]** [Fooling neural network interpretations via adversarial model manipulation](https://papers.nips.cc/paper/8558-fooling-neural-network-interpretations-via-adversarial-model-manipulation) ([code](https://github.com/rmrisforbidden/Fooling_Neural_Network-Interpretations),[press](https://news.joins.com/article/23652311))  
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
