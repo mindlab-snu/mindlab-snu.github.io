@@ -16,6 +16,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 20.9 One paper got accepted to [_**NeurIPS 2020**_](https://neurips.cc/)! Congratulations [Sangwon Jung](https://sites.google.com/view/sangwon-jung),[Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn), and [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)!
 - 20.8 Taesup gave a talk at [AI KOREA '20](http://aisociety.kr/AIKOREA2020/invited_talk/index.html)  
 - 20.8 Taesup gave a talk at [KCCV '20](http://kccv2020.kcvs.kr/?act=info.page&pcode=schedule).  
 - 20.7 Taesup gave a talk at [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do).
