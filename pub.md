@@ -19,8 +19,8 @@ _Submitted_
 
 ### 2020
 - **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://arxiv.org/abs/2003.13726)  
-Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
-Accepted to _Neural Information Processing Systems (**NeurIPS**)_, December 2020 
+Sangwon Jung*, Hongjoon Ahn*, Sungmin Cha, and Taesup Moon  
+_Neural Information Processing Systems (**NeurIPS**)_, December 2020 
 - **[J16]** [Learning blind pixelwise affine image denoiser with single noisy images](https://ieeexplore.ieee.org/document/9117146)  
 Jaeseok Byun and Taesup Moon  
 _**IEEE Signal Processing Letters** (**IF=3.268**)_, 10.1109/LSP.2020.3002652, June 2020  
