@@ -12,9 +12,6 @@ _Submitted_
 - [Supervised Neural DUDE for adaptive discrete denoising]()  
 Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
 _Submitted_
-- [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
-Sungmin Cha, Taeeon Park, and Taesup Moon  
-_Submitted_  
 
 
 ### 2020
@@ -36,6 +33,9 @@ _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-
 - **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395) ([press](https://news.joins.com/article/23636437))  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _**Environmental Pollution** (**IF=5.714**)_, https://doi.org/10.1016/j.envpol.2019.113395, January 2020 
+- **[W]** [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
+Sungmin Cha, Taeeon Park, and Taesup Moon  
+_NeurIPS 2020 Workshop on Deep Learning and Inverse Problems_, December 2020    
 - **[W]** [CPR: Classifier-projection regularization for continual learning](https://arxiv.org/abs/2006.07326)  
 Sungmin Cha, Hsiang Hsu, Flavio P. Calmon, and Taesup Moon  
 _4th Lifelong Learning Workshop (**LifelongML**) at ICML 2020_, July 2020  
