@@ -15,6 +15,9 @@ _Submitted_
 
 
 ### 2020
+- **[J17]** [Continual Learning of Micro-Doppler Signatures based Human Activity Classification]()  
+Donggyu Lee, Hyeongmin Park, Taesup Moon, and Youngwook Kim  
+Accepted to _**IEEE Geoscience and Remote Sensing Letters**_, December 2020   
 - **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://arxiv.org/abs/2003.13726)  
 Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2020 
