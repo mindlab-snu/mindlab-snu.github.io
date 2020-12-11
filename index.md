@@ -16,6 +16,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 20.12 One paper got accepted to [_**IEEE GRSL**_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)! Congratulations [Donggyu Lee](https://sites.google.com/view/dqlee) and [Hyeongmin Park]().
 - 20.9 One paper got accepted to [_**NeurIPS 2020**_](https://neurips.cc/)! Congratulations [Sangwon Jung](https://sites.google.com/view/sangwon-jung), [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn), and [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)!
 - 20.8 Taesup gave a talk at [AI KOREA '20](http://aisociety.kr/AIKOREA2020/invited_talk/index.html)  
 - 20.8 Taesup gave a talk at [KCCV '20](http://kccv2020.kcvs.kr/?act=info.page&pcode=schedule).  
