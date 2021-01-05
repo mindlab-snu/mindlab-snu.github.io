@@ -28,7 +28,7 @@ subtitle: M.IN.D Lab Family
 
 * [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/), (MS '20, Currently at [GymT](https://www.tlabstudio.com/))   
 * [Yongbee Park](https://sites.google.com/view/yongbeepark/) (MS '20, Currently at [OnePredict](http://onepredict.ai))
-* [Suhyeon Jin]()
+* [Suhyeon Jin]() (PhD 수료 '20, Currently at [3Billion](https://www.3billion.io/))
 * [Jungtae Lee](https://jungtae9lee.github.io/about/) (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Youngeun Seo (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Seungwon Oh (BS '18, Currently an MS student at [University of Maryland](https://www.umd.edu/))
