@@ -15,11 +15,11 @@ _Submitted_
 
 
 ### 2021
-- **[C26]** [CPR: Classifier-projection regularization for continual learning](https://arxiv.org/abs/2006.07326)
+- **[C26]** [CPR: Classifier-projection regularization for continual learning](https://arxiv.org/abs/2006.07326)  
 Sungmin Cha, Hsiang Hsu, Flavio P. Calmon, and Taesup Moon  
 _International Conference on Learning Representations (**ICLR**)_, May 2021  
 _4th Lifelong Learning Workshop (**LifelongML**) at ICML 2020_, July 2020  
-- **[C25]** [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)
+- **[C25]** [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
 Sungmin Cha, Taeeon Park, and Taesup Moon  
 _International Conference on Learning Representations (**ICLR**)_, May 2021  
 _**NeurIPS 2020 Workshop** on Deep Learning and Inverse Problems_, December 2020  
@@ -31,6 +31,7 @@ Accepted to _**IEEE Geoscience and Remote Sensing Letters** (**IF=3.833**)_, Dec
 - **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://arxiv.org/abs/2003.13726)  
 Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2020 
+_CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020  
 - **[J16]** [Learning blind pixelwise affine image denoiser with single noisy images](https://ieeexplore.ieee.org/document/9117146)  
 Jaeseok Byun and Taesup Moon  
 _**IEEE Signal Processing Letters** (**IF=3.268**)_, 10.1109/LSP.2020.3002652, June 2020  
@@ -46,18 +47,9 @@ _**Nature Protocols** (**IF=11.334**)_, https://doi.org/10.1038/s41596-019-0289-
 - **[J14]** [Estimating PM2.5 concentration of the conterminous United States via interpretable convolutional neural networks](https://doi.org/10.1016/j.envpol.2019.113395) ([press](https://news.joins.com/article/23636437))  
 Yongbee Park, Byungjoon Kwon, Juyeon Heo, Xuefei Hu, Yang Liu, and Taesup Moon  
 _**Environmental Pollution** (**IF=5.714**)_, https://doi.org/10.1016/j.envpol.2019.113395, January 2020 
-- **[W]** [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/abs/1905.10488)  
-Sungmin Cha, Taeeon Park, and Taesup Moon  
-_**NeurIPS 2020 Workshop** on Deep Learning and Inverse Problems_, December 2020    
-- **[W]** [CPR: Classifier-projection regularization for continual learning](https://arxiv.org/abs/2006.07326)  
-Sungmin Cha, Hsiang Hsu, Flavio P. Calmon, and Taesup Moon  
-_4th Lifelong Learning Workshop (**LifelongML**) at ICML 2020_, July 2020  
 - **[W]** [A simple class decision balancing for incremental learning](https://arxiv.org/abs/2003.13947)  
 Hongjoon Ahn and Taesup Moon  
 _CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020    
-- **[W]** [Adaptive group sparse regularization for continual learning](https://arxiv.org/abs/2003.13726)  
-Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
-_CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020  
 
 
 ### 2019
