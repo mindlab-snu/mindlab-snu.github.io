@@ -16,7 +16,7 @@ _Submitted_
 
 ### 2021
 - **[C26]** [CPR: Classifier-projection regularization for continual learning](https://openreview.net/pdf?id=F2v4aqEL6ze)  
-Sungmin Cha, Hsiang Hsu, Flavio P. Calmon, and Taesup Moon  
+Sungmin Cha, Hsiang Hsu, Taebaek Hwang, Flavio P. Calmon, and Taesup Moon  
 _International Conference on Learning Representations (**ICLR**)_, May 2021  
 _4th Lifelong Learning Workshop (**LifelongML**) at ICML 2020_, July 2020  
 - **[C25]** [GAN2GAN: Generative noise learning for blind image denoising with single noisy images](https://openreview.net/pdf?id=SHvF5xaueVn)  
