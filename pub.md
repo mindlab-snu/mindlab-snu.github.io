@@ -15,7 +15,7 @@ _Submitted_
 
 
 ### 2021
-- **[J18]** [Deep Learning Aided Blind Synchronization Word Estimation]  
+- **[J18]** [Deep Learning Aided Blind Synchronization Word Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351925)  
 Yong-sung Kil, Jun Min Song, Sang-Hyo Kim, Taesup Moon, and Seok-Ho Chang  
 _IEEE Access_, February 2021  
 - **[C26]** [CPR: Classifier-projection regularization for continual learning](https://openreview.net/pdf?id=F2v4aqEL6ze)  
