@@ -15,9 +15,12 @@ _Submitted_
 
 
 ### 2021
+- **[J19]** [Prediction Model for Random Variation in FinFET Induced by Line-Edge-Roughness (LER)](https://www.mdpi.com/2079-9292/10/4/455/htm)  
+Jinwoong Lee, Taeeon Park, Hongjoon Ahn, Jihwan Kwak, Taesup Moon, and Changhwan Shin  
+_**Electronics** (**IF=2.412**)_, 10(4), 455, February 2021 
 - **[J18]** [Deep Learning Aided Blind Synchronization Word Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351925)  
 Yong-sung Kil, Jun Min Song, Sang-Hyo Kim, Taesup Moon, and Seok-Ho Chang  
-_IEEE Access_, February 2021  
+_**IEEE Access** (**IF=3.745**)_, February 2021  
 - **[C26]** [CPR: Classifier-projection regularization for continual learning](https://openreview.net/pdf?id=F2v4aqEL6ze)  
 Sungmin Cha, Hsiang Hsu, Taebaek Hwang, Flavio P. Calmon, and Taesup Moon  
 _International Conference on Learning Representations (**ICLR**)_, May 2021  
