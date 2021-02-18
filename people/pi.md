@@ -7,7 +7,7 @@ subtitle: M.IN.D Lab Family
 ### Principal Investigator
 <hr>
 
-#### Taesup Moon (I will move to Seoul National University as of March 01, 2021)
+#### Taesup Moon (I will move to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021)
   
 <img src="https://raw.githubusercontent.com/mindlab-skku/mindlab-skku.github.io/master/img/Taesup_Moon.jpg" width="197" height="260" align="left" hspace="20" />
 Associate Professor   
