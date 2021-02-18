@@ -7,6 +7,8 @@ published: true
 ---
 <img src="img/front.png" width="820" align="center"/>
 
+** We will be moving to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021. Please stay tuned for the updated homepage! **
+
 Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this feature in [**SKKU Webzine**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) (in Korean).    
 
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
