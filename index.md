@@ -7,14 +7,16 @@ published: true
 ---
 <img src="img/front.png" width="820" align="center"/>
 
-**We will be moving to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021. Please stay tuned for the updated homepage!**
+**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**
 
-Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this feature in [**SKKU Webzine**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) (in Korean).    
+Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) (in Korean).    
 
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
 
+<!--
 Following is our lab intro video taken in 2018 (special thanks to Karel Setnička)! 
 <iframe src="https://player.vimeo.com/video/257239184" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+-->
 
 ### Recent News
 <hr>
