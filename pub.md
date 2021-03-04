@@ -16,9 +16,9 @@ _Submitted_
 
 ### 2021
 - **[C28]** [Fair Feature Distillation for Visual Recognition]()  
-Accepted to _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 
-- **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise]()  
-Accepted to _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021  
+_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 
+- **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise]() (**Oral**)    
+_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021  
 - **[J19]** [Prediction Model for Random Variation in FinFET Induced by Line-Edge-Roughness (LER)](https://www.mdpi.com/2079-9292/10/4/455/htm)  
 Jinwoong Lee, Taeeon Park, Hongjoon Ahn, Jihwan Kwak, Taesup Moon, and Changhwan Shin  
 _**Electronics** (**IF=2.412**)_, 10(4), 455, February 2021 
