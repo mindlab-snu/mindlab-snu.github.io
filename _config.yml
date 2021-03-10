@@ -66,9 +66,9 @@ footer-col: "aliceblue"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Taesup Moon
-  email: "tsmoon@skku.edu"
+  email: "tsmoon@snu.ac.kr"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: github.com/mindlab-snu    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -114,7 +114,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mindlab-skku.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mindlab-snu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
