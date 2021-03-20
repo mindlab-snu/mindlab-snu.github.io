@@ -21,5 +21,8 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 - 21.3 We moved to [**Seoul National University ECE**](http://ee.snu.ac.kr) as of March 01, 2021!
-- 21.3 Two papers got accepted to [CVPR 21]()!
-- 21.3 Two papers got accepted to [ICLR 21]()!
+- 21.3 Two papers got accepted to [**CVPR 21**](http://cvpr2021.thecvf.com/)! Congratulations Sungmin, Jaeseok, Sangwon, Donggyu, and Taeeon!
+- 21.3 Two papers got accepted to [**ICLR 21**](https://iclr.cc/)! Congratulations Sungmin and Taeeon!
+- 21.3 Our lab will be supported by [**NRF Mid-Career Research Program**](https://www.nrf.re.kr/biz/info/notice/list?menu_no=378&biz_no=85) for 5 years!
+- 20.11 Sungmin won the Best Paper Award at [**2020 Microsoft-AI Association Fall Conference**]()! Congratulations!
+- 20.12 Sangwon, Hongjoon won the [**Qualcomm Innovation Fellowship Korea**]()! Congratulations!
