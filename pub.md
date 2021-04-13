@@ -4,16 +4,6 @@ title: Research
 subtitle: Publications
 ---
 
-
-### Preprints
-- [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
-Taesup Moon  
-_Submitted_
-- [Supervised Neural DUDE for adaptive discrete denoising]()  
-Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
-_Submitted_
-
-
 ### 2021
 - **[C28]** [Fair Feature Distillation for Visual Recognition]()  
 Donggyu Lee, Sangwon Jung, Taeeon Park, and Taesup Moon  
@@ -180,6 +170,14 @@ _Proceedings of 2007 IEEE International Symposium on Information Theory (**ISIT*
 - **[C1]** [Discrete universal filtering via hidden Markov modeling](http://115.145.209.240/files/Conference/isit2005.pdf)  
 Taesup Moon and Tsachy Weissman  
 _Proceedings of 2005 IEEE International Symposium on Information Theory (**ISIT**)_, pp.1285–1289, Adelaide, Australia, September 2005
+
+### Unpublished manuscripts
+- [A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers](https://arxiv.org/abs/1709.03657)  
+Taesup Moon  
+_Submitted_
+- [Supervised Neural DUDE for adaptive discrete denoising]()  
+Sungmin Cha, Seonwoo Min, Byunghan Lee, Sungroh Yoon, and Taesup Moon
+_Submitted_
 
 ### Patents and Defensive Publications
 - [Denoiser, and control method thereof](https://patentimages.storage.googleapis.com/f7/b5/86/28a2c5e32c2108/US20180137405A1.pdf)  
