@@ -20,7 +20,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 21.5 M.IN.D Lab will participate in [**Naver-SNU Hyperscal AI Project**](htt://www.aitimes.kr/news/articleView.html?idxno=20983)!
+- 21.5 M.IN.D Lab will participate in [**Naver-SNU Hyperscal AI Project**](http://www.aitimes.kr/news/articleView.html?idxno=20983)!
 - 21.4 Our lab will be supported by [**NRF 미래뇌융합기술 연구과제**]()!
 - 21.4 Our lab will be supported by [**Microsoft-IITP Project**]()!
 - 21.3 We moved to [**Seoul National University ECE**](http://ee.snu.ac.kr) as of March 01, 2021!
