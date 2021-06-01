@@ -20,9 +20,9 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 21.5 M.IN.D Lab will participate in [Naver-SNU Hyperscal AI Project]!
-- 21.4 Our lab will be supported by [NRF Brain Project]!
-- 21.4 Our lab will be supported by [Microsoft-IITP Project]!
+- 21.5 M.IN.D Lab will participate in [**Naver-SNU Hyperscal AI Project**](aitimes.kr/news/articleView.html?idxno=20983)!
+- 21.4 Our lab will be supported by [**NRF 미래뇌융합기술 연구과제**]()!
+- 21.4 Our lab will be supported by [**Microsoft-IITP Project**]()!
 - 21.3 We moved to [**Seoul National University ECE**](http://ee.snu.ac.kr) as of March 01, 2021!
 - 21.3 Two papers got accepted to [**CVPR 21**](http://cvpr2021.thecvf.com/)! Congratulations Sungmin, Jaeseok, Sangwon, Donggyu, and Taeeon!
 - 21.3 Two papers got accepted to [**ICLR 21**](https://iclr.cc/)! Congratulations Sungmin and Taeeon!
