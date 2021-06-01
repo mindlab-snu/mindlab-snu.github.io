@@ -30,7 +30,7 @@ Donggyu Lee, Hyeongmin Park, Taesup Moon, and Youngwook Kim
 _**IEEE Geoscience and Remote Sensing Letters** (**IF=3.833**)_, January 2021 (Early Access)    
 
 ### 2020
-- **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://arxiv.org/abs/2003.13726)  
+- **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://papers.nips.cc/paper/2020/hash/258be18e31c8188555c2ff05b4d542c3-Abstract.html)  
 Sangwon Jung, Hongjoon Ahn, Sungmin Cha, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2020  
 _CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2020  
