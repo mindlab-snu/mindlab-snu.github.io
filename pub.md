@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### 2021
 - **[C28]** [Fair Feature Distillation for Visual Recognition]()  
-Donggyu Lee, Sangwon Jung, Taeeon Park, and Taesup Moon  
+Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
 _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 
 - **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise](https://arxiv.org/abs/2105.10967) (**Oral**)    
 Jaeseok Byun, Sungmin Cha, and Taesup Moon  
