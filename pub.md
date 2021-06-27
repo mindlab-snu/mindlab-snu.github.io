@@ -5,10 +5,10 @@ subtitle: Publications
 ---
 
 ### 2021
-- **[C28]** [Fair Feature Distillation for Visual Recognition]()  
+- **[C28]** [Fair Feature Distillation for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Jung_Fair_Feature_Distillation_for_Visual_Recognition_CVPR_2021_paper.html)  
 Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
 _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 
-- **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise](https://arxiv.org/abs/2105.10967) (**Oral**)    
+- **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise](https://openaccess.thecvf.com/content/CVPR2021/html/Byun_FBI-Denoiser_Fast_Blind_Image_Denoiser_for_Poisson-Gaussian_Noise_CVPR_2021_paper.html) (**Oral**)    
 Jaeseok Byun, Sungmin Cha, and Taesup Moon  
 _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021  
 - **[J19]** [Prediction Model for Random Variation in FinFET Induced by Line-Edge-Roughness (LER)](https://www.mdpi.com/2079-9292/10/4/455/htm)  
@@ -62,7 +62,7 @@ _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2
 Juyeon Heo, Sunghwan Joo, and Taesup Moon  
 _Proceedings of Neural Information Processing Systems (**NeurIPS**)_, December 2019  
 _ICCV Workshop on Interpreting and Explaining Visual Artificial Intelligence Models (**VXAI**)_, November 2019  
-- **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks]()  
+- **[C19]** [Working vacation scheduling of M^X/M/1/N system using neural networks](https://ieeexplore.ieee.org/document/8932783)  
 Yongbee Park and Taesup Moon  
 _7th International Conference on Robot Intelligence Technology and Applications (**RiTA**)_, November 2019 
 - **[C18]** [Fully convolutional pixel adaptive image denoiser](https://openaccess.thecvf.com/content_ICCV_2019/html/Cha_Fully_Convolutional_Pixel_Adaptive_Image_Denoiser_ICCV_2019_paper.html) ([code](https://github.com/csm9493/FC-AIDE))  
@@ -89,29 +89,29 @@ _International Symposium on Antennas and Propagation (ISAP)_, October 2018
 - **[J12]** [Dynamic functional connectivity analysis reveals improved association between brain networks and eating behaviors compared to static analysis](https://www.ncbi.nlm.nih.gov/pubmed/28986105)  
 Bo-yong Park, Taesup Moon and Hyunjin Park   
 _Behavioural Brain Research_, vol. 337, p.114-121, January 2018  
-- **[C13]** [Neural adaptive image denoiser](http://115.145.209.240/files/Conference/icassp_aide.pdf)  
+- **[C13]** [Neural adaptive image denoiser](https://sigport.org/documents/neural-adaptive-image-denoiser)  
 Sungmin Cha and Taesup Moon  
 _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, April 2018
 
 ### 2017
-- **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://115.145.209.240/files/Journal/plosone_dude.pdf)  
+- **[J11]** [DUDE-Seq: Fast, flexible, and robust denoising for targeted amplicon sequencing](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)  
 Byunghan Lee, Taesup Moon, Sungroh Yoon and Tsachy Weissman  
 _PLoS ONE_ ([doi.org/10.1371/journal.pone.0181463](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)), July 2017
 
 ### 2016
-- **[J10]**  [Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks](http://115.145.209.240/files/Journal/sensors-16-01990.pdf)  
+- **[J10]**  [Micro-Doppler based classification of human aquatic activities via transfer learning of convolutional neural networks](https://www.mdpi.com/1424-8220/16/12/1990)  
 Jinhee Park, Rios Jesus Javier, Taesup Moon, and Youngwook Kim  
 _Sensors_, 2016,16,1990, November 2016  
-- **[C12]** [Neural universal discrete denoiser](http://115.145.209.240/files/Journal/neural_dude_nips_camera.pdf)  
+- **[C12]** [Neural universal discrete denoiser](https://papers.nips.cc/paper/2016/file/f83630579d055dc5843ae693e7cdafe0-Paper.pdf)  
 Taesup Moon, Seonwoo Min, Byunghan Lee, and Sungroh Yoon  
 _Proceedings of Neural Information Processing Systems (**NIPS**)_, December 2016
 - **[C11]** [Classification of human activity on water through micro-Dopplers using deep convolutional neural networks](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181463)  
 Youngwook Kim and Taesup Moon  
 _Proceedings of SPIE 9829, Radar Sensor Technology XX_, 982917, May 2016  
-- **[J9]** [Regularization and kernelization of the maximin correlation approach](http://115.145.209.240/files/Journal/IEEE-Access-RMCA.pdf)  
+- **[J9]** [Regularization and kernelization of the maximin correlation approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7448814)  
 Taehoon Lee, Taesup Moon, Seung Jean Kim and Sungroh Yoon  
 _IEEE Access_, vol. 4, pp. 1385-1392, April 2016
-- **[J8]** [Human detection and activity classification based on micro-Dopplers using deep convolutional neural networks](http://115.145.145.158/files/Journal/GRSL_kim_moon.pdf) ([3rd most downloaded paper (Aug 2016, July 2016)](http://115.145.209.240/files/Journal/GRSL-most-popular.png) in [IEEE GRSL](http://115.145.209.240/files/Journal/GRSL-most-popular.png))  
+- **[J8]** [Human detection and activity classification based on micro-Dopplers using deep convolutional neural networks](https://ieeexplore.ieee.org/document/7314905) ([3rd most downloaded paper (Aug 2016, July 2016)](http://115.145.209.240/files/Journal/GRSL-most-popular.png) in [IEEE GRSL](http://115.145.209.240/files/Journal/GRSL-most-popular.png))  
 Youngwook Kim and Taesup Moon  
 _IEEE Geoscience and Remote Sensing Letters_, vol.13, no.1, pp.8-12, January 2016
 
