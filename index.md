@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 published: true
 ---
-<img src="img/LabPhoto.png" width="1100" align="center"/>
+<img src="img/LabPhoto.png" width="1500" align="center"/>
 
 <!--**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**-->
 
