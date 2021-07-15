@@ -3,6 +3,18 @@ layout: page
 title: Teaching
 subtitle: Courses
 ---
+### 2021
+#### Fall
+- Programming Methodology (Undergraduate)
+
+#### Spring
+- Adaptive Machine Learning and Explainable AI (Graduate)
+
+
+### 2020
+#### Fall
+- Introduction to Machine Learning (Undergraduate)
+- Learning Theory (Graduate)
 
 ### 2019
 #### Fall
