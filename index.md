@@ -9,7 +9,9 @@ published: true
 
 <!--**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**-->
 
-Welcome! Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) (in Korean).    
+Welcome to M.IN.D Lab at Seoul National University! 
+
+Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).    
 
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
 
