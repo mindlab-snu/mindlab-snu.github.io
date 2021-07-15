@@ -22,7 +22,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 <hr>
 - 21.7 Three members will do industry internships in the fall! Congratulations Hongjoon Ahn (Amazon Shanghai), Jaeseok Byun (Microsoft Research Asia Beijing), and Sangwon Jung (Naver AI)!
 - 21.7 Sungmin Cha got the Best Paper Award at [CKAIA summer conference](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=111#CONF).
-- 21.7 Taesup served as a General Chair for the CKAIS summer conference!
+- 21.7 Taesup served as a General Chair for the CKAIA summer conference.
 - 21.5 M.IN.D Lab will participate in [**Naver-SNU Hyperscal AI Project**](http://www.aitimes.kr/news/articleView.html?idxno=20983)!
 - 21.4 Our lab will be supported by [**NRF 미래뇌융합기술 연구과제**]()!
 - 21.4 Our lab will be supported by [**Microsoft-IITP Project**]()!
