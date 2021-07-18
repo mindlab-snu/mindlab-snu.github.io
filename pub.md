@@ -30,7 +30,7 @@ Donggyu Lee, Hyeongmin Park, Taesup Moon, and Youngwook Kim
 _**IEEE Geoscience and Remote Sensing Letters** (**IF=3.833**)_, January 2021 (Early Access)    
 - **[W]** [Self-Supervised Iterative Contextual Smoothing for Efficient Adversarial Defense against Gray- and Black-Box Attack]()  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
-_**ICML Workshop** on Adversarial Machine Learning (**AdvML**)_, July 2021
+_**ICML 2021 Workshop** on Adversarial Machine Learning (**AdvML**)_, July 2021
 
 ### 2020
 - **[C24]** [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://papers.nips.cc/paper/2020/hash/258be18e31c8188555c2ff05b4d542c3-Abstract.html)  
