@@ -12,7 +12,6 @@ subtitle: M.IN.D Lab Family
 
 #### MS students
 
-* [Juyeon Heo](https://sites.google.com/view/juyeonheo/) 
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Junha Jeon](https://sites.google.com/view/junhajeon) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
@@ -26,6 +25,7 @@ subtitle: M.IN.D Lab Family
 
 #### Alumni
 
+* [Juyeon Heo](https://sites.google.com/view/juyeonheo/) , (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
 * [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/), (MS '20, Currently at [GymT](https://www.tlabstudio.com/))   
 * [Yongbee Park](https://sites.google.com/view/yongbeepark/) (MS '20, Currently at [OnePredict](http://onepredict.ai))
 * [Suhyeon Jin]() (PhD 수료 '20, Currently at [3Billion](https://www.3billion.io/))
