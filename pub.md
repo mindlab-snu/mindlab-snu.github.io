@@ -7,7 +7,7 @@ subtitle: Publications
 ### 2021
 - **[C29]** [SS-IL: Separated Softmax for Incremental Learning]()  
 Hongjoon Ahn, Jihwan Kwak, Subin Lim, Hyeonsu Bang, Hyojun Kim, and Taesup Moon  
-Accepted to _IEEE International Conference on Computer Vision (**ICCV**)_, October 2021
+Accepted to _International Conference on Computer Vision (**ICCV**)_, October 2021
 - **[C28]** [Fair Feature Distillation for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Jung_Fair_Feature_Distillation_for_Visual_Recognition_CVPR_2021_paper.html)  
 Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
 _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021 
