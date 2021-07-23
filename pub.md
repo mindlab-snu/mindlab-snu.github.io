@@ -5,12 +5,15 @@ subtitle: Publications
 ---
 
 ### 2021
+- **[C29]** [SS-IL: Separated Softmax for Incremental Learning]()  
+Hongjoon Ahn, Jihwan Kwak, Subin Lim, Hyeonsu Bang, Hyojun Kim, and Taesup Moon  
+Accepted to _IEEE International Conference on Computer Vision (**ICCV**)_, October 2021
 - **[C28]** [Fair Feature Distillation for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Jung_Fair_Feature_Distillation_for_Visual_Recognition_CVPR_2021_paper.html)  
 Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
-_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 
+_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021 
 - **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise](https://openaccess.thecvf.com/content/CVPR2021/html/Byun_FBI-Denoiser_Fast_Blind_Image_Denoiser_for_Poisson-Gaussian_Noise_CVPR_2021_paper.html) (**Oral**)    
 Jaeseok Byun, Sungmin Cha, and Taesup Moon  
-_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021  
+_IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021  
 - **[J19]** [Prediction Model for Random Variation in FinFET Induced by Line-Edge-Roughness (LER)](https://www.mdpi.com/2079-9292/10/4/455/htm)  
 Jinwoong Lee, Taeeon Park, Hongjoon Ahn, Jihwan Kwak, Taesup Moon, and Changhwan Shin  
 _**Electronics** (**IF=2.412**)_, 10(4), 455, February 2021 
