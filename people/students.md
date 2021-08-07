@@ -19,7 +19,7 @@ subtitle: M.IN.D Lab Family
 * [Dohyun Kim](https://sites.google.com/view/dokim/)
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 
-#### BS students
+#### BS students / Interns
 
 * [Taebaek Hwang]()  
 
