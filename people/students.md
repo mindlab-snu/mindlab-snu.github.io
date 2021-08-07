@@ -23,10 +23,6 @@ subtitle: M.IN.D Lab Family
 
 * [Taebaek Hwang]()  
 
-#### Administrative Assistant
-
-* [Hayoung Lee](mailto:hazero@snu.ac.kr)
-
 
 #### Alumni
 
