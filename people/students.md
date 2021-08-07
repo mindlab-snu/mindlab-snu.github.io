@@ -23,6 +23,11 @@ subtitle: M.IN.D Lab Family
 
 * [Taebaek Hwang]()  
 
+#### Administrative Assistant
+
+* [Hayoung Lee](hazero@snu.ac.kr)
+
+
 #### Alumni
 
 * [Junha Jeon](https://sites.google.com/view/junhajeon) , (MS '21, Currently at [OnePredict](http://onepredict.ai))
