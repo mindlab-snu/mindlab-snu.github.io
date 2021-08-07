@@ -25,7 +25,7 @@ subtitle: M.IN.D Lab Family
 
 #### Administrative Assistant
 
-* [Hayoung Lee](hazero@snu.ac.kr)
+* [Hayoung Lee](mailto:hazero@snu.ac.kr)
 
 
 #### Alumni
