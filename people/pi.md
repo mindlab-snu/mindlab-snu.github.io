@@ -20,7 +20,9 @@ Associate Professor
 [http://mindlab-snu.github.io](http://mindlab-snu.github.io)  
 tsmoon _at_ snu _dot_ ac  _dot_ kr  
 +82-2-880-7297
-301-707, Gwanak-Ro 1, Gwanak-Gu, Seoul, 08826, KOREA
+301-707, Gwanak-Ro 1, Gwanak-Gu, Seoul, 08826, KOREA  
+
+Administrative Assistant: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 
 <hr>
 
