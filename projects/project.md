@@ -10,7 +10,7 @@ subtitle: Main Areas & Projects
 - Statistical signal processing
 - Information theory
 - Many areas that deal with mathematics and computation
-- **Main tools**: Python/NumPy, C++/CUDA, Keras, Tensorflow, Pytorch
+- **Main tools**: Python/NumPy, C++/CUDA, Pytorch
 
 <br>
 
