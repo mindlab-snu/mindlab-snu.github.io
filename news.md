@@ -5,7 +5,7 @@ subtitle: What's up in M.IN.D Lab?
 ---
 
 
-### 2020
+### 2020 (@SKKU)
 <hr>
 - 20.12 One paper got accepted to [_**IEEE GRSL**_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)! Congratulations [Donggyu Lee](https://sites.google.com/view/dqlee) and [Hyeongmin Park]().
 - 20.9 One paper got accepted to [_**NeurIPS 2020**_](https://neurips.cc/)! Congratulations [Sangwon Jung](https://sites.google.com/view/sangwon-jung), [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn), and [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)!
@@ -33,7 +33,7 @@ subtitle: What's up in M.IN.D Lab?
 
 
 
-### 2019
+### 2019 (@SKKU)
 <hr>
 - Our NeurIPS papers were featured in [Joong Ang-Ilbo article](https://news.joins.com/article/23652311)!
 - Our work on [PM2.5 estimation](https://doi.org/10.1016/j.envpol.2019.113395) has been featured in [Joong Ang-Ilbo article](https://news.joins.com/article/23636437)!
@@ -52,7 +52,7 @@ subtitle: What's up in M.IN.D Lab?
 - 3/2, TaeEon and Juna joined the lab as new MS students!
 - 1/27-2/1, _**AAAI 2019**_
 
-### 2018 
+### 2018 (@SKKU)
 <hr>
 
 - 11/1, We got **two papers** accepted to [_AAAI 2019_](https://aaai.org/Conferences/AAAI-19/)! The acceptance rate was 16.2%. Congrats to Sunghwan and Sungmin!
