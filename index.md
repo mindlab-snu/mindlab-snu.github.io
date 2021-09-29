@@ -22,6 +22,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 21.9 One paper got accepted to [**NeurIPS 21**](http://neurips.cc)! Congratulations Sungmin Cha!
 - 21.7 One paper got accepted to [**ICCV 21**](http://iccv2021.thecvf.com/home)! Congratulations Hongjoon Ahn and Jihwan Kwak!
 - 21.7 Three members will do industry internships in the fall! Congratulations Hongjoon Ahn ([Amazon Shanghai](https://www.amazon.jobs/en-gb/locations/shanghai-china)), Jaeseok Byun ([Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)), and Sangwon Jung ([Naver AI](https://clova.ai/ko))!
 - 21.7 Sungmin Cha got the Best Paper Award at [CKAIA summer conference](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=111#CONF).
