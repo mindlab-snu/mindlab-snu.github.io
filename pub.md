@@ -5,6 +5,9 @@ subtitle: Publications
 ---
 
 ### 2021
+- **[C30]** [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](). 
+Sungmin Cha, Beomyoung Kim, Youngjoon Yoo, and Taesup Moon. 
+_Neural Information Processing Systems (**NeurIPS**)_, December 2021
 - **[C29]** [SS-IL: Separated Softmax for Incremental Learning]()  
 Hongjoon Ahn, Jihwan Kwak, Subin Lim, Hyeonsu Bang, Hyojun Kim, and Taesup Moon  
 _International Conference on Computer Vision (**ICCV**)_, October 2021
