@@ -5,12 +5,15 @@ subtitle: Publications
 ---
 
 ### 2021
-- **[C30]** [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning]()  
+- **[C30]** [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://papers.nips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html)  
 Sungmin Cha, Beomyoung Kim, Youngjoon Yoo, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2021  
-- **[C29]** [SS-IL: Separated Softmax for Incremental Learning]()  
+- **[C29]** [SS-IL: Separated Softmax for Incremental Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)  
 Hongjoon Ahn, Jihwan Kwak, Subin Lim, Hyeonsu Bang, Hyojun Kim, and Taesup Moon  
 _International Conference on Computer Vision (**ICCV**)_, October 2021
+- **[J20]** [Is the posterior cingulate cortex an on-off switch for tinnitus?: A comparison between hearing loss subjects with and without tinnitus](https://reader.elsevier.com/reader/sd/pii/S0378595521001908?token=B4980F1D0A9CE3831487AA7198DF94F89B05818CDA11332AB20E0B97E19E34AED603F99BC97FA7F9C467F36E92E2F524&originRegion=us-east-1&originCreation=20211129015125)  
+Sang-Yeon Lee, Munyoung Chang, Byungjoon Kwon, Byung Yoon Choi, Ja-Won Koo, Taesup Moon, Dirk De Ridder, Sven Vanneste, and Jae-Jin Song  
+_**Hearing Research**_, Volume 411, November 2021, 108356  
 - **[C28]** [Fair Feature Distillation for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Jung_Fair_Feature_Distillation_for_Visual_Recognition_CVPR_2021_paper.html)  
 Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
 _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021 
