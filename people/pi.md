@@ -39,11 +39,15 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 * Postdoctoral Researcher, [Department of Statistics](http://statistics.berkeley.edu), [UC Berkeley](http://www.berkeley.edu) (2012.2~2013.8)
 * Scientist, [Yahoo! Labs](http://research.yahoo.com) (2008.10~2012.1)
 
+#### Other SNU Affiliations
+* [Graduate School of AI, Seoul National University](https://gsai.snu.ac.kr)
+* [Artificial Intelligence Institute at Seoul National University](https://aiis.snu.ac.kr)
 
 
 #### Professional Services
 * Reviewer (recent) - _NeurIPS_ (2017,2018,2019,2020), _ICML_ (2018, 2019,2020), _ICLR_ (2019,2020), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2020), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
+
 
 
 <hr>  
