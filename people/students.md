@@ -28,7 +28,7 @@ subtitle: M.IN.D Lab Family
 
 * Junha Jeon (MS '21, Currently at [OnePredict](http://onepredict.ai))
 * [Juyeon Heo](https://sites.google.com/view/juyeonheo/) (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
-* Hyeongmin Park (MS '20, Currently at [GymT](https://www.tlabstudio.com/))   
+* Hyeongmin Park (MS '20, Currently at [Hyundai Robotics](https://www.hyundai-robotics.com/))   
 * Yongbee Park(MS '20, Currently at [OnePredict](http://onepredict.ai))
 * Suhyeon Jin (PhD 수료 '20, Currently at [3Billion](https://www.3billion.io/))
 * Jungtae Lee (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
