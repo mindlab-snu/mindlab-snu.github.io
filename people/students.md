@@ -26,12 +26,12 @@ subtitle: M.IN.D Lab Family
 
 #### Alumni
 
-* [Junha Jeon](https://sites.google.com/view/junhajeon) , (MS '21, Currently at [OnePredict](http://onepredict.ai))
-* [Juyeon Heo](https://sites.google.com/view/juyeonheo/) , (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
-* [Hyeongmin Park](https://sites.google.com/view/hyeongminpark/), (MS '20, Currently at [GymT](https://www.tlabstudio.com/))   
-* [Yongbee Park](https://sites.google.com/view/yongbeepark/) (MS '20, Currently at [OnePredict](http://onepredict.ai))
-* [Suhyeon Jin]() (PhD 수료 '20, Currently at [3Billion](https://www.3billion.io/))
-* [Jungtae Lee](https://jungtae9lee.github.io/about/) (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
+* Junha Jeon (MS '21, Currently at [OnePredict](http://onepredict.ai))
+* [Juyeon Heo](https://sites.google.com/view/juyeonheo/) (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
+* Hyeongmin Park (MS '20, Currently at [GymT](https://www.tlabstudio.com/))   
+* Yongbee Park(MS '20, Currently at [OnePredict](http://onepredict.ai))
+* Suhyeon Jin (PhD 수료 '20, Currently at [3Billion](https://www.3billion.io/))
+* Jungtae Lee (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Youngeun Seo (MS '19, Currently at [Samsung Electronics](http://www.samsung.com))
 * Seungwon Oh (BS '18, Currently an MS student at [University of Maryland](https://www.umd.edu/))
 * Byungjoon Kwon (MS '17, Currently at [NCSoft](http://kr.ncsoft.com/korean/))
