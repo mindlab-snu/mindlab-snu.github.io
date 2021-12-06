@@ -9,7 +9,7 @@ subtitle: Publications
 - [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations]()  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_  
-- [Learning Fair Classifiers with Partially Annotated Group Labels]()  
+- [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581)  
 Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
 _Submitted_    
 - [Interpretable Deep Learning-based Hippocampal Sclerosis Classification]()  
