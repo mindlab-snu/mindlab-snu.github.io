@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### Manuscripts
 
-- [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations]()  
+- [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_  
 - [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581)  
