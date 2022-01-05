@@ -15,7 +15,7 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
 
-**Notice:** As of Jan 2022, we currently do not have any more openings for BS interns or MS/PhD positions for Winter/Spring 2022. For the Summer/Fall openings, we will post in the website around May 2022. 
+**Notice:** As of Jan 2022, we currently do _not_ have any more openings for BS interns or MS/PhD positions for Winter/Spring 2022. For the Summer/Fall 2022 openings, we will post on the website around May 2022. Thanks for your interest!
 
 <!--
 Following is our lab intro video taken in 2018 (special thanks to Karel Setnička)! 
