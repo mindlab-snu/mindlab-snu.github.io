@@ -24,6 +24,8 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 22.1 Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome! 
+
 - 21.12 Sungmin and Jaeseok got the [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-south-korea) Prize! Congratualations! ([News article](http://www.aitimes.com/news/articleView.html?idxno=141863))
 - 21.9 One paper got accepted to [**NeurIPS 21**](https://neurips.cc)! Congratulations Sungmin Cha! It was our first joint work with [Naver AI Lab](https://clova.ai/ko)!
 - 21.7 One paper got accepted to [**ICCV 21**](http://iccv2021.thecvf.com/home)! Congratulations Hongjoon Ahn and Jihwan Kwak!
