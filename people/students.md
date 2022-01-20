@@ -11,18 +11,23 @@ subtitle: M.IN.D Lab Family
 * [Donggyu Lee](https://sites.google.com/view/dqlee) 
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
+* [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
+* [Sang Won Jung](https://sites.google.com/view/sangwon-jung)
 
 #### MS students
 
-* [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
-* [Sang Won Jung](https://sites.google.com/view/sangwon-jung)
 * [Dohyun Kim](https://sites.google.com/view/dokim/)
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
+* [Taebaek Hwang]()  
+* [Dohoon Kim]()
+* [Seokhyun Chung]()
 
 #### BS students / Interns
 
-* [Taebaek Hwang]()  
-
+* Juhyun Park
+* Youngin Kim
+* Heewoong Choi
+* Donguk Lee
 
 #### Alumni
 
