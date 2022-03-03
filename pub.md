@@ -16,7 +16,7 @@ _Submitted_
 ### 2022
 - **[C31]** [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581)  
 Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2022_   
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2022   
 
 ### 2021
 - **[C30]** [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://papers.nips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html)  
