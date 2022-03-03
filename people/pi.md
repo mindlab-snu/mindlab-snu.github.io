@@ -32,8 +32,7 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 #### Work Experience
 
 * Associate Professor, [Department of ECE](http://ee.snu.ac.kr), [SNU](http://www.snu.ac.kr) (2021.3~)
-* Associate Professor, [College of ICE](http://icc.skku.edu), [SKKU](http://www.skku.edu) (2019.9~2021.2)
-* Assistant Professor, [College of ICE](http://icc.skku.edu), [SKKU](http://www.skku.edu) (2017.3~2019.8)
+* Assistant/Associate Professor, [College of ICE](http://icc.skku.edu), [SKKU](http://www.skku.edu) (2017.3~2021.2)
 * Assistant Professor, [Department of ICE](http://ice.dgist.ac.kr), [DGIST](http://www.dgist.ac.kr) (2015.9~2017.2)
 * Research Staff Member, [SAIT](http://www.sait.samsung.co.kr) (2013.9~2015.8)
 * Postdoctoral Researcher, [Department of Statistics](http://statistics.berkeley.edu), [UC Berkeley](http://www.berkeley.edu) (2012.2~2013.8)
@@ -45,7 +44,7 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 
 
 #### Professional Services
-* Reviewer (recent) - _NeurIPS_ (2017,2018,2019,2020), _ICML_ (2018, 2019,2020), _ICLR_ (2019,2020), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2020), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
+* Reviewer (recent) - _NeurIPS_ (2017,2018,2019,2020), _ICML_ (2018,2019,2020), _ICLR_ (2019,2020), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2020), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
 
 
