@@ -17,8 +17,8 @@ subtitle: M.IN.D Lab Family
 #### MS students
 
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
-* [Dohoon Kim]()
-* [Seokhyun Chung]()
+* [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
+* [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
 
 #### BS students / Interns
 
