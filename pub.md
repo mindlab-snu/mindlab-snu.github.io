@@ -6,6 +6,12 @@ subtitle: Publications
 
 ### Manuscripts
 
+- [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()
+Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
+_Submitted_
+- [Task-Balanced Batch Normalization for Exemplar-based Class-Incremental Learning](https://arxiv.org/abs/2201.12559)  
+Sungmin Cha, Soonwon Hong, Moontae Lee, and Taesup Moon  
+_Submitted_  
 - [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_   
