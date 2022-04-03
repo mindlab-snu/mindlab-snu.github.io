@@ -25,10 +25,10 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About: "index"
   News: "news"
-    - 2021: "news/2021"
-    - 2020: "news/2020"
-    - 2019: "news/2019"
-    - Before 2018: "news/past"
+#     - 2021: "news/2021"
+#     - 2020: "news/2020"
+#     - 2019: "news/2019"
+#     - Before 2018: "news/past"
   People: 
     - PI: "people/pi"
     - Students: "people/students"
