@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### Manuscripts
 
-- [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()
+- [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _Submitted_
 - [Task-Balanced Batch Normalization for Exemplar-based Class-Incremental Learning](https://arxiv.org/abs/2201.12559)  
