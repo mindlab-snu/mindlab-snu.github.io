@@ -27,18 +27,4 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - 22.3 [One paper](https://arxiv.org/abs/2111.14581) got accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
 - 22.1 Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome!   
 
-- 21.12 Sungmin and Jaeseok got the [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-south-korea) Prize! Congratualations! ([News article](http://www.aitimes.com/news/articleView.html?idxno=141863))
-- 21.9 One paper got accepted to [**NeurIPS 21**](https://neurips.cc)! Congratulations Sungmin Cha! It was our first joint work with [Naver AI Lab](https://clova.ai/ko)!
-- 21.7 One paper got accepted to [**ICCV 21**](http://iccv2021.thecvf.com/home)! Congratulations Hongjoon Ahn and Jihwan Kwak!
-- 21.7 Three members will do industry internships in the fall! Congratulations Hongjoon Ahn ([Amazon Shanghai](https://www.amazon.jobs/en-gb/locations/shanghai-china)), Jaeseok Byun ([Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)), and Sangwon Jung ([Naver AI](https://clova.ai/ko))!
-- 21.7 Sungmin Cha got the Best Paper Award at [CKAIA summer conference](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=111#CONF).
-- 21.7 Taesup served as a General Chair for the CKAIA summer conference.
-- 21.5 M.IN.D Lab will participate in [**Naver-SNU Hyperscal AI Project**](http://www.aitimes.kr/news/articleView.html?idxno=20983)!
-- 21.4 Our lab will be supported by [**NRF 미래뇌융합기술 연구과제**]()!
-- 21.4 Our lab will be supported by [**Microsoft-IITP Project**]()!
-- 21.3 We moved to [**Seoul National University ECE**](http://ee.snu.ac.kr) as of March 01, 2021!
-- 21.3 Two papers got accepted to [**CVPR 21**](http://cvpr2021.thecvf.com/)! Congratulations Sungmin, Jaeseok, Sangwon, Donggyu, and Taeeon!
-- 21.3 Two papers got accepted to [**ICLR 21**](https://iclr.cc/)! Congratulations Sungmin and Taeeon!
-- 21.3 Our lab will be supported by [**NRF Mid-Career Research Program**](https://www.nrf.re.kr/biz/info/notice/list?menu_no=378&biz_no=85) for 5 years!
-- 20.11 Sungmin won the Best Paper Award at [**2020 Microsoft-AI Association Fall Conference**]()! Congratulations!
-- 20.12 Sangwon, Hongjoon won the [**Qualcomm Innovation Fellowship Korea**]()! Congratulations!
+
