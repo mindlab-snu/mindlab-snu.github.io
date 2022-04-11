@@ -22,7 +22,7 @@ Sangwon Jung, Sanghyuk Chun, and Taesup Moon
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2022   
 - **[W]** [Task-Balanced Batch Normalization for Exemplar-based Class-Incremental Learning](https://arxiv.org/abs/2201.12559)  
 Sungmin Cha, Soonwon Hong, Moontae Lee, and Taesup Moon  
-_CVPR Workshop on Continual Learning in Computer Vision (**CLVISION**)_, June 2022  
+_**CVPR Workshop** on Continual Learning in Computer Vision (**CLVISION**)_, June 2022  
 
 ### 2021
 - **[C30]** [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://papers.nips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html)  
