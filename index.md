@@ -24,7 +24,8 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 22.3 [One paper](https://arxiv.org/abs/2111.14581) got accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
-- 22.1 Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome!   
+- 22.4, One paper got accepted to [CVPR 2022 Workshop on Continual Learning](https://sites.google.com/view/clvision2022). Congrats Sungmin!
+- 22.3, [One paper](https://arxiv.org/abs/2111.14581) got accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
+- 22.1, Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome!   
 
 
