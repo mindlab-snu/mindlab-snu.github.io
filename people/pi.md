@@ -41,6 +41,7 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 #### Other SNU Affiliations
 * [Graduate School of AI, Seoul National University](https://gsai.snu.ac.kr)
 * [Artificial Intelligence Institute at Seoul National University](https://aiis.snu.ac.kr)
+* [Automation and Systems Research Institute](https://asri.snu.ac.kr/)
 
 
 #### Professional Services
