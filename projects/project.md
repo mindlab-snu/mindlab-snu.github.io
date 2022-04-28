@@ -6,19 +6,25 @@ subtitle: Main Areas & Projects
 
 ### Main research areas & tools
 <hr>
-#### Core AI/ML Algorithms
-##### Adaptive ML
-- Continual Learning
-- Meta Learning
-- Self-Supervised / Unsupervised Learning
+#### Adaptive ML
+- Continual Learning  
+- Meta Learning  
+- Self-Supervised / Unsupervised Learning  
 
-##### Trustworthy ML
-- Explainable AI
-- Fairness / Bias Mitigation
-- Adversarial Robustness
+#### Trustworthy ML
+- Explainable AI  
+- Fairness / Bias Mitigation  
+- Adversarial Robustness  
 
-- Many areas that deal with mathematics and computation
-- **Main tools**: Python/NumPy, C++/CUDA, Pytorch
+#### Data Science Applications
+- Neuroscience
+- Medical Imaging
+- Image Restoration
+- Semiconductor Random Variation Modeling
+
+
+- + Many areas that deal with mathematics and computation
+
 
 <br>
 
