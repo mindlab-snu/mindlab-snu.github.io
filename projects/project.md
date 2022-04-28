@@ -9,7 +9,7 @@ subtitle: Main Areas & Projects
 <hr>
 #### Core machine intelligence algorithms
 
-We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus category is the **trustworthy machine learning (TML)**  that make ML models more reliable and safe to use. Namely, we pursue to make ML algorithms more explainable, fair, bias-free, and robust. 
+We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include _continual learning, meta/transfer learning, and self-supervised/unsupervised learning_. The second focus category is the **trustworthy machine learning (TML)**  that make ML models more reliable and safe to use. Namely, we pursue to make ML algorithms more _explainable, fair, bias-free, and robust_. 
 
 
 Some more concrete funded project regarding above topics includes the following:
