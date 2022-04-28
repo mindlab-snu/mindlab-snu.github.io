@@ -7,9 +7,7 @@ subtitle: Main Areas & Projects
 ### Current research topics
 <hr>
 - Develop **Adaptive** and **Trustworthy** ML algorithms
--- adf
-- Apply the algorithms to high-impact data science applications
-
+- Apply the algorithms to high-impact **Data Science** applications
 - Many areas that deal with **mathematics** and **computation**
 
 
