@@ -6,8 +6,8 @@ subtitle: Main Areas & Projects
 
 ### Main research areas & tools
 <hr>
-- Core AI/ML algorithms
-- Adaptive ML
+#### Core AI/ML algorithms
+##### Adaptive ML
 - Data science applications
 
 - Many areas that deal with mathematics and computation
