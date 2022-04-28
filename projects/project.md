@@ -9,15 +9,16 @@ subtitle: Main Areas & Projects
 <hr>
 #### Core machine intelligence algorithms
 
-We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus category is the **trustworthy machine learning (TML)**  that make ML models more reliable and safe to use. Namely, we pursue to make ML algorithms more explainable, fair, bias-free, and robust.  
-Some more concrete funded project regarding above topics includes the following:
+We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus category is the **trustworthy machine learning (TML)**  that make ML models more reliable and safe to use. Namely, we pursue to make ML algorithms more explainable, fair, bias-free, and robust. 
 
-- Multi-task / continual / incremental learning (Supported by [NRF Mid-Career Project]()(2021-2025), [IITP Project on Continual Learning]() (2022-2027))  
-- XAI with Causality (Supported by [IITP Project and XAI and Few-Shot Learning]()(2022-2027))  
+
+Some more concrete funded project regarding above topics includes the following:
+- Multi-task / continual / incremental learning (Supported by [NRF]()(2021-2025), [IITP]() (2022-2027))  
+- XAI with Causality/Few-Shot Learning (Supported by [IITP]()(2022-2027))  
 - Fairness in Machine Learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
-- Hyperscale AI (Supported by [Naver]() (2021-2023))  
-- Fair Continual Learning (Supported by [LG AI Research]() (2022-2023)
-- Continual RL (Supported by [SAIT]() (2022-2025)
+- Hyperscale AI (Supported by [Naver](https://naver-career.gitbook.io/en/teams/clova-cic) (2021-2023))  
+- Fair Continual Learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023)
+- Continual RL (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)
 
 #### Data science applications
 - Pre-training large-scale multi-modal data (Supported by IITP-MSRA (Microsoft Research Asia))
