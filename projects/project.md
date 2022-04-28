@@ -7,12 +7,12 @@ subtitle: Main Areas & Projects
 ### Main research areas & tools
 <hr>
 #### Adaptive ML
-- Continual Learning  
-- Meta Learning  
+- Continual/Meta Learning  
+- Multi-modal Learning 
 - Self-Supervised / Unsupervised Learning  
 
 #### Trustworthy ML
-- Explainable AI  
+- Explainable AI / Causality.  
 - Fairness / Bias Mitigation  
 - Adversarial Robustness  
 
