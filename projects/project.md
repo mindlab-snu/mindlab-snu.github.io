@@ -13,12 +13,12 @@ We primarily focus on overcoming the limitations of the current supervised machi
 
 
 Some more concrete funded project regarding above topics includes the following:
-- Multi-task / continual / incremental learning (Supported by [NRF]()(2021-2025), [IITP]() (2022-2027))  
+- Next Generation Continual Learning (Supported by [NRF]()(2021-2025), [IITP]() (2022-2027))  
 - XAI with Causality/Few-Shot Learning (Supported by [IITP]()(2022-2027))  
 - Fairness in Machine Learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
 - Hyperscale AI (Supported by [Naver](https://naver-career.gitbook.io/en/teams/clova-cic) (2021-2023))  
 - Fair Continual Learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023)
-- Continual RL (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)
+- Continual Reinforcement Learning (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)
 
 #### Data science applications
 - Pre-training large-scale multi-modal data (Supported by IITP-MSRA (Microsoft Research Asia))
