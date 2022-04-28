@@ -4,23 +4,11 @@ title: Research
 subtitle: Main Areas & Projects
 ---
 
-### Main research areas & tools
+### Current research topics
 <hr>
-#### Adaptive ML
-- Continual/Meta Learning  
-- Multi-modal Learning 
-- Self-Supervised / Unsupervised Learning  
-
-#### Trustworthy ML
-- Explainable AI / Causality.  
-- Fairness / Bias Mitigation  
-- Adversarial Robustness  
-
-#### Data Science Applications
-- Neuroscience
-- Medical Imaging
-- Image Restoration  
-- Semiconductor Random Variation Modeling
+- Develop **Adaptive** and **Trustworthy** ML algorithms
+-- adf
+- Apply the algorithms to high-impact data science applications
 
 - Many areas that deal with **mathematics** and **computation**
 
