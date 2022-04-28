@@ -6,9 +6,17 @@ subtitle: Main Areas & Projects
 
 ### Main research areas & tools
 <hr>
-- Deep learning / Machine learning
-- Statistical signal processing
-- Information theory
+#### Core AI/ML Algorithms
+##### Adaptive ML
+- Continual Learning
+- Meta Learning
+- Self-Supervised / Unsupervised Learning
+
+##### Trustworthy ML
+- Explainable AI
+- Fairness / Bias Mitigation
+- Adversarial Robustness
+
 - Many areas that deal with mathematics and computation
 - **Main tools**: Python/NumPy, C++/CUDA, Pytorch
 
