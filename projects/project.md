@@ -4,18 +4,13 @@ title: Research
 subtitle: Main Areas & Projects
 ---
 
-### Current research topics
-<hr>
-- Develop **Adaptive** and **Trustworthy** ML algorithms
-- Apply the algorithms to high-impact **Data Science** applications
-- Many areas that deal with **mathematics** and **computation**
-
-
-<br>
 
 ### Current Projects
 <hr>
 #### Core machine intelligence algorithms
+
+We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus area is how to make the machine learning methods more **trustworthy (TML)**. Namely, we want to make the algorithms to be more explainable, fair, bias-free, and robust. Some more concrete funded project of our lab includes the following: 
+
 - Neural network based denoising / estimation 
 - Multi-task / continual / incremental learning (Being supported by [NRF Mid-Career Project]() (2021-2025) )
 - Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
