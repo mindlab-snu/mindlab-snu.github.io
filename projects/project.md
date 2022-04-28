@@ -19,11 +19,10 @@ subtitle: Main Areas & Projects
 #### Data Science Applications
 - Neuroscience
 - Medical Imaging
-- Image Restoration
+- Image Restoration  
 - Semiconductor Random Variation Modeling
 
-
-- + Many areas that deal with mathematics and computation
+- Many areas that deal with **mathematics** and **computation**
 
 
 <br>
