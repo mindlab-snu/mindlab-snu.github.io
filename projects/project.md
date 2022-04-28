@@ -9,12 +9,15 @@ subtitle: Main Areas & Projects
 <hr>
 #### Core machine intelligence algorithms
 
-We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus area is how to make the machine learning methods more **trustworthy (TML)**. Namely, we want to make the algorithms to be more explainable, fair, bias-free, and robust. Some more concrete funded project of our lab includes the following: 
+We primarily focus on overcoming the limitations of the current supervised machine learning framework. The first category we focus on is the **adaptive machine learning (AML)** schemes that deal with more challenging scenarios without large-scale labelled training data. The examples of those schemes include continual learning, meta/transfer learning, and self-supervised/unsupervised learning. The second focus category is the **trustworthy machine learning (TML)**  that make ML models more reliable and safe to use. Namely, we pursue to make ML algorithms more explainable, fair, bias-free, and robust.  
+Some more concrete funded project regarding above topics includes the following:
 
-- Neural network based denoising / estimation 
-- Multi-task / continual / incremental learning (Being supported by [NRF Mid-Career Project]() (2021-2025) )
-- Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
-- Fairness in machine learning (Supported by [IITP](https://www.iitp.kr/en/main.it), Joint work with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/))
+- Multi-task / continual / incremental learning (Supported by [NRF Mid-Career Project]()(2021-2025), [IITP Project on Continual Learning]() (2022-2027))  
+- XAI with Causality (Supported by [IITP Project and XAI and Few-Shot Learning]()(2022-2027))  
+- Fairness in Machine Learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
+- Hyperscale AI (Supported by [Naver]() (2021-2023))  
+- Fair Continual Learning (Supported by [LG AI Research]() (2022-2023)
+- Continual RL (Supported by [SAIT]() (2022-2025)
 
 #### Data science applications
 - Pre-training large-scale multi-modal data (Supported by IITP-MSRA (Microsoft Research Asia))
@@ -31,3 +34,6 @@ http://dclab.skku.edu))
 - Neural network based denoising / estimation (Supported by [NRF](https://www.nrf.re.kr/biz/info/info/view?biz_no=319)(2016-2019), [Samsung](https://www.sait.samsung.co.kr/saithome/main/main.do)(2018-2019))
 - Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
 - DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
+- Neural network based denoising / estimation 
+- Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
+
