@@ -38,5 +38,4 @@ Some more concrete funded project regarding above topics includes the following:
 - Neural network based denoising / estimation (Supported by [NRF](https://www.nrf.re.kr/biz/info/info/view?biz_no=319)(2016-2019), [Samsung](https://www.sait.samsung.co.kr/saithome/main/main.do)(2018-2019))
 - Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
 - DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
-- Satellite-based PM2.5 estimation
-- Doppler-Radar based Human Activity Recognition
+- Doppler-Radar based Human Activity Recognition (Jointly with [Prof. Youngwook Kim](http://airlab.sogang.ac.kr/))
