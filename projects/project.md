@@ -13,21 +13,24 @@ We primarily focus on overcoming the limitations of the current supervised machi
 
 
 Some more concrete funded project regarding above topics includes the following:
-- Next Generation Continual Learning (Supported by [NRF]()(2021-2025), [IITP]() (2022-2027))  
-- XAI with Causality/Few-Shot Learning (Supported by [IITP]()(2022-2027))  
-- Fairness in Machine Learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
+- Next generation continual learning (Supported by [NRF]()(2021-2026), [IITP]() (2022-2027))  
+- XAI with causalityfew-shot learning (Supported by [IITP]()(2022-2027))  
+- Fairness in machine learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
 - Hyperscale AI (Supported by [Naver](https://naver-career.gitbook.io/en/teams/clova-cic) (2021-2023))  
-- Fair Continual Learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023)
-- Continual Reinforcement Learning (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)
+- Fair continual learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023)
+- Continual reinforcement learning (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)  
+
 
 #### Data science applications
-- Pre-training large-scale multi-modal data (Supported by IITP-MSRA (Microsoft Research Asia))
-- Neuroscience / Medical data analyses (Joint work with Prof. [Choong-Wan Woo](https://cocoanlab.github.io/), Prof. [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do))
-- Random variation prediction for semiconductor manufacturing (Supported by [KEIT](https://itech.keit.re.kr/index.do), Joint work with Prof. [Chang-Hwan Shin](
-http://dclab.skku.edu))
+
+- Pre-training large-scale multi-modal model (Supported by IITP-[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2021-2022))
+- Neuroscience / Medical data analyses (Supported by [NRF]() (2021-2024))
+- Semiconductor random variation prediction (Supported by [KEIT](https://itech.keit.re.kr/index.do) (2019-2021))
+- Image restoration (Supported by [NRF](), [Samsung]())
 
 <br>
 ### Past Projects
+
 <hr>
 - Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/) (2018-2020), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
 - Adaptive machine learning for digital companion (Supported by [IITP](https://www.iitp.kr/en/main.it) (2016-2020))
@@ -35,6 +38,5 @@ http://dclab.skku.edu))
 - Neural network based denoising / estimation (Supported by [NRF](https://www.nrf.re.kr/biz/info/info/view?biz_no=319)(2016-2019), [Samsung](https://www.sait.samsung.co.kr/saithome/main/main.do)(2018-2019))
 - Non-intrusive load monitoring (Jointly with [Encored Technologies, Inc.](http://www.enertalk.com/), [SNU ADSL Lab](http://adsl.snu.ac.kr))
 - DNA sequence denoising (Jointly with [SNU DSAI Lab](http://best.snu.ac.kr))
-- Neural network based denoising / estimation 
-- Interpretable machine learning (Supported by [KIST](https://www.kist.re.kr/kist_web/main/), Joint work with Prof. [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/))
-
+- Satellite-based PM2.5 estimation
+- Doppler-Radar based Human Activity Recognition
