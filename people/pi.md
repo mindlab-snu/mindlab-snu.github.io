@@ -49,6 +49,22 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
 
 
+#### Collaborators / Co-authors
+
+- [Tsachy Weissman]
+- [Bin Yu]
+- [Alex Smola]
+- [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/)
+- [Youngwook Kim]
+- [Yang Liu]
+- [Choong Wan Woo]
+- [Jangsup Moon]
+- [Wonjong Rhee]
+- [Sungroh Yoon]
+- [Jae-Jin Song]
+- [Changhwan Shin]
+- [Flavio P. Calmon]
+
 
 <hr>  
 
