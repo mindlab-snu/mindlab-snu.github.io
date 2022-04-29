@@ -51,19 +51,20 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 
 #### Collaborators / Co-authors
 
-- [Tsachy Weissman]
-- [Bin Yu]
-- [Alex Smola]
+- [Tsachy Weissman](https://web.stanford.edu/~tsachy/)
+- [Bin Yu](https://binyu.stat.berkeley.edu/)
+- [Alex Smola](https://alex.smola.org/)
 - [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/)
-- [Youngwook Kim]
-- [Yang Liu]
-- [Choong Wan Woo]
-- [Jangsup Moon]
-- [Wonjong Rhee]
-- [Sungroh Yoon]
-- [Jae-Jin Song]
-- [Changhwan Shin]
-- [Flavio P. Calmon]
+- [Flavio P. Calmon](https://people.seas.harvard.edu/~flavio/)
+- [Youngwook Kim](https://airlab.sogang.ac.kr/)
+- [Yang Liu](https://sph.emory.edu/faculty/profile/index.php?FID=yang-liu-632)
+- [Choong Wan Woo](https://cocoanlab.github.io/)
+- [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do?dr_cd=82821)
+- [Wonjong Rhee](http://adsl.snu.ac.kr/?page_id=10883)
+- [Sungroh Yoon](http://best.snu.ac.kr/)
+- [Jae-Jin Song](https://snucm.elsevierpure.com/en/persons/y-song-3)
+- [Changhwan Shin](https://scholar.google.co.kr/citations?user=ODheimwAAAAJ&hl=en)
+
 
 
 <hr>  
