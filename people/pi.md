@@ -56,14 +56,17 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 - [Alex Smola](https://alex.smola.org/)
 - [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/)
 - [Flavio P. Calmon](https://people.seas.harvard.edu/~flavio/)
-- [Youngwook Kim](https://airlab.sogang.ac.kr/)
+- [Jianlong Fu](https://jianlong-fu.github.io/)
+- [David Wipf](http://www.davidwipf.com/)
 - [Yang Liu](https://sph.emory.edu/faculty/profile/index.php?FID=yang-liu-632)
+- [Youngwook Kim](https://airlab.sogang.ac.kr/)
 - [Choong Wan Woo](https://cocoanlab.github.io/)
 - [Jangsup Moon](http://www.snuh.org/global/en/blog/82821/paper.do?dr_cd=82821)
 - [Wonjong Rhee](http://adsl.snu.ac.kr/?page_id=10883)
 - [Sungroh Yoon](http://best.snu.ac.kr/)
 - [Jae-Jin Song](https://snucm.elsevierpure.com/en/persons/y-song-3)
 - [Changhwan Shin](https://scholar.google.co.kr/citations?user=ODheimwAAAAJ&hl=en)
+- [Jongduk Baek](https://sit.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=DtEOF1p2MpwGWs8dpzFcNA%3D%3D&sosokcd=)
 
 
 
