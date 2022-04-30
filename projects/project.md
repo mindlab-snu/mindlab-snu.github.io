@@ -25,7 +25,7 @@ Some more concrete funded project regarding above topics includes the following:
 
 #### Data science applications
 
-For applications, we aim to apply the ML algorithms to solve a real-world problems that can lead to a high impact. Some of the recent topics include multi-modal model inference, neuroscience / medical image analyses, semiconductor random variation prediction, image restoration, radar-based activity recognition, satellite-based PM2.5 estimation, etc. 
+For applications, we aim to apply the ML algorithms to solve a **real-world problems** that can lead to a **high impact**. Some of the recent topics include multi-modal model inference, neuroscience / medical image analyses, semiconductor random variation prediction, image restoration, radar-based activity recognition, satellite-based PM2.5 estimation, etc. 
 
 Some recent funded projects include the following: 
 - Pre-training large-scale multi-modal model (Supported by IITP-[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2021-2022))
