@@ -45,8 +45,8 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 
 
 #### Professional Services
-* Reviewer (recent) - _NeurIPS_ (2017,2018,2019,2020), _ICML_ (2018,2019,2020), _ICLR_ (2019,2020), _PAKDD_ (2019), _CVPR_ (2019), _AAAI_ (2017,2018,2020), _SAC_ (2019), _ISIT_ (2019), _IJCAI_ (2019)
-* Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019)
+* Reviewer / Program Committee - _NeurIPS_, _ICML_, _ICLR_, _CVPR_, _AAAI_, _AISTATS_, _ISIT_ , _IJCAI_, etc. 
+* Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019), _ICML (2020)_
 
 
 #### Collaborators / Co-authors
