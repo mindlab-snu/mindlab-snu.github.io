@@ -37,7 +37,7 @@ _**Hearing Research**_, Volume 411, November 2021, 108356
 - **[C28]** [Fair Feature Distillation for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Jung_Fair_Feature_Distillation_for_Visual_Recognition_CVPR_2021_paper.html)  
 Sangwon Jung, Donggyu Lee, Taeeon Park, and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021 
-- **[C27]** [FBI: Fast Blind Image Denoiser for Source-Dependent Noise](https://openaccess.thecvf.com/content/CVPR2021/html/Byun_FBI-Denoiser_Fast_Blind_Image_Denoiser_for_Poisson-Gaussian_Noise_CVPR_2021_paper.html) (**Oral**)    
+- **[C27]** [FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise](https://openaccess.thecvf.com/content/CVPR2021/html/Byun_FBI-Denoiser_Fast_Blind_Image_Denoiser_for_Poisson-Gaussian_Noise_CVPR_2021_paper.html) (**Oral**)    
 Jaeseok Byun, Sungmin Cha, and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2021  
 - **[J19]** [Prediction Model for Random Variation in FinFET Induced by Line-Edge-Roughness (LER)](https://www.mdpi.com/2079-9292/10/4/455/htm)  
