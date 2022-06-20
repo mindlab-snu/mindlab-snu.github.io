@@ -6,6 +6,12 @@ subtitle: Publications
 
 ### Manuscripts
 
+- [Is Continual Learning Truly Learning Representations Continually?]()  
+Sungmin Cha, Dongsub Shim, Hyungwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
+_Submitted_  
+- [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
+Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
+_Submitted_  
 - [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _Submitted_
