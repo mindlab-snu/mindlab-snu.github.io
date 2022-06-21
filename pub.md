@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### Manuscripts
 
-- [Towards More Robust Interpretation via Local Gradient Alignment]()   
+<!-- - [Towards More Robust Interpretation via Local Gradient Alignment]()   
 Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _Submitted_  
 - [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks]()  
@@ -20,7 +20,7 @@ Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moo
 _Submitted_  
 - [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
 Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
-_Submitted_  
+_Submitted_   -->
 - [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _Submitted_
