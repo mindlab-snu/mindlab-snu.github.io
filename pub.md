@@ -7,7 +7,7 @@ subtitle: Publications
 ### Manuscripts
 
 - [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
-Taeeon Park, Jihwan Park, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
+Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
 _Submitted_  
 - [Is Continual Learning Truly Learning Representations Continually?]()  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
