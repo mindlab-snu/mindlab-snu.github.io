@@ -6,6 +6,12 @@ subtitle: Publications
 
 ### Manuscripts
 
+- [Towards More Robust Interpretation \\ via Local Gradient Alignment]()   
+Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
+_Submitted_  
+- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks]()  
+Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
+_Submitted_
 - [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
 Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
 _Submitted_  
