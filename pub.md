@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### Manuscripts
 
-- [Towards More Robust Interpretation \\ via Local Gradient Alignment]()   
+- [Towards More Robust Interpretation via Local Gradient Alignment]()   
 Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _Submitted_  
 - [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks]()  
