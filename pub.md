@@ -18,7 +18,7 @@ _Submitted_   -->
 - [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.11081)  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
-- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2206.11081.pdf)  
+- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
 Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
 _Submitted_
 - [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
