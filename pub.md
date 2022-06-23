@@ -9,18 +9,18 @@ subtitle: Publications
 <!-- - [Towards More Robust Interpretation via Local Gradient Alignment]()   
 Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _Submitted_  
-- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks]()  
-Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
-_Submitted_
 - [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
 Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
-_Submitted_  
-- [Is Continual Learning Truly Learning Representations Continually?]()  
-Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
 - [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
 Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
 _Submitted_   -->
+- [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.11081)  
+Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
+_Submitted_  
+- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2206.11081.pdf)  
+Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
+_Submitted_
 - [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _Submitted_
