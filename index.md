@@ -28,6 +28,9 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 22.7, One paper got accepted to [ECCV 2022](https://eccv2022.ecva.net/)! Congrats Jaeseok and Taebaek!
+- 22.6, Jaeseok won the "Stars of Tomorrow Award of Excellence" for his internship at MSRA. Congrats!
+- 22.6, 9 lab members attended CVPR 2022! 
 - 22.4, One paper got accepted to [CVPR 2022 Workshop on Continual Learning](https://sites.google.com/view/clvision2022). Congrats Sungmin!
 - 22.3, [One paper](https://arxiv.org/abs/2111.14581) got accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
 - 22.1, Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome!   
