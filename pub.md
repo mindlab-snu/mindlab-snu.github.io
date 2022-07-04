@@ -21,9 +21,6 @@ _Submitted_
 - [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
 Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
 _Submitted_
-- [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
-Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
-_Submitted_
 - [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_   
@@ -32,6 +29,9 @@ Dohyun Kim, Jungtae Lee, Jangsup Moon, and Taesup Moon
 _Submitted_ 
 
 ### 2022
+- **[C32]** [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
+Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
+_European Conference on Computer Vision (**ECCV**)_, October 2022
 - **[C31]** [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581)  
 Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2022   
