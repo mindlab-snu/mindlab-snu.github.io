@@ -11,9 +11,10 @@ published: true
 
 Welcome to **M.IN.D Lab** at **Seoul National University**! 
 
-Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).    
+Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about joining the lab, please read this [*page*](people/joinus.md).
 
-To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
+<!-- To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).     -->
+
 
 **Notice:** As of **May 2022**, we do **not** have any more openings for _Summer/Fall 2022_ BS internship. For the **_Winter/Spring 2023_** BS internships, we will post on the website around **_Nov 2022_**. Thanks for your interest!!
 
