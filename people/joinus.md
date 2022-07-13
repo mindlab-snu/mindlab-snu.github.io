@@ -4,7 +4,7 @@ title: People
 subtitle: Join Us
 ---
 
-We are looking for passionate BS/MS/PhD students to join the lab! (Competitive financial support will be provided.)  
+We are looking for passionate BS/MS/PhD students to join the lab! (Competitive financial support will be provided.) For more detaiiled information about the lab, please refere to this [feature](intro.pdf). 
 
 Thankfully, there are currently many applicants who want to join our lab. 
 
