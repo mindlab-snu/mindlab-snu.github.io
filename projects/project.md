@@ -21,6 +21,8 @@ Some more concrete funded project regarding above topics includes the following:
 - Fair continual learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023)
 - Continual reinforcement learning (Supported by [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do) (2022-2025)
 
+You may refer to a little more detailed information about the [core algorithm research agenda](research_agenda.pdf). 
+
 <br>
 
 #### Data science applications
