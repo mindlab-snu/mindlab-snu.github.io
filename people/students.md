@@ -22,7 +22,6 @@ subtitle: M.IN.D Lab Family
 
 #### BS students / Interns
 
-* [Taebaek Hwang]()  
 * Juhyun Park
 * Youngin Kim
 * Heewoong Choi
@@ -30,7 +29,8 @@ subtitle: M.IN.D Lab Family
 
 #### Alumni
 
-* [Dohyun Kim](https://sites.google.com/view/dokim/) (MS '22, Currently at [Lunit](https://www.lunit.io/en))
+* [Taebaek Hwang]() (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
+* [Dohyun Kim](https://sites.google.com/view/dokim/) (MS '22, Currently at [OnePredict](http://onepredict.ai))
 * Junha Jeon (MS '21, Currently at [OnePredict](http://onepredict.ai))
 * [Juyeon Heo](https://sites.google.com/view/juyeonheo/) (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
 * Hyeongmin Park (MS '20, Currently at [Hyundai Robotics](https://www.hyundai-robotics.com/))   
