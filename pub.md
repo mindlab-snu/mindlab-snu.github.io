@@ -15,7 +15,7 @@ _Submitted_
 - [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
 Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
 _Submitted_   -->
-- [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.11081)  
+- [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.08101)  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
 - [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
