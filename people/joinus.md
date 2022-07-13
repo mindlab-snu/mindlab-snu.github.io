@@ -11,10 +11,10 @@ Thankfully, there are currently many applicants who want to join our lab. When y
 - Transcript
 - CV
 - Experience on the following points
--- Strong backgrounds in **probability, statistics and linear algebra**.
--- Strong programming skills in **Python, C/C++**.
--- Good **communication skills** and **integrity** to become a constructive team member.
--- **Positive attitude** and **willingness to learn and contribute**.
+  - Strong backgrounds in **probability, statistics and linear algebra**.
+  - Strong programming skills in **Python, C/C++**.
+  - Good **communication skills** and **integrity** to become a constructive team member.
+  - **Positive attitude** and **willingness to learn and contribute**.
 
 
  Followings are some requirements for joining the lab. When you write a contact e-mail, you **MUST** include your experience on the following points. Otherwise, I _**may not be able to respond**_ to your e-mails. 
