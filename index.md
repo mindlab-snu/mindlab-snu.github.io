@@ -11,7 +11,7 @@ published: true
 
 Welcome to **M.IN.D Lab** at **Seoul National University**! 
 
-Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about joining the lab, please read this [*page*](people/joinus.md).
+Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on our research, please visit our [**project page**](projects/project). To know more about joining, please read this [**page**](people/joinus.md).
 
 <!-- To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).     -->
 
