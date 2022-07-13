@@ -4,7 +4,7 @@ title: People
 subtitle: Join Us
 ---
 
-We are looking for passionate BS/MS/PhD students to join the lab! (Competitive financial support will be provided.) For more detaiiled information about the lab, please refere to this [feature](intro.pdf). 
+We are looking for passionate BS/MS/PhD students to join the lab! (Competitive financial support will be provided.) For more detaiiled information about the lab, please refere to this [feature](intro.pdf) at SNU and a more [outdated one](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) at SKKU. 
 
 Thankfully, there are currently many applicants who want to join our lab. 
 
