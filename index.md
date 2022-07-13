@@ -29,6 +29,8 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 22.7 Jaeseok won the prestigeous [**SBS 문화재단 Scholarship for Graduate Students**](https://foundation.sbs.co.kr/culture.cmd?act=agendaFutureHumanGuideline)! Congrats!!
+- 22.7, Sungmin and Hongjoon won the prestigeous [**율촌 AI STAR Award 2022**](https://aiis.snu.ac.kr/sub4_3.php)! Congrats!!
 - 22.7, One paper got accepted to [ECCV 2022](https://eccv2022.ecva.net/)! Congrats Jaeseok and Taebaek!
 - 22.6, Jaeseok won the "Stars of Tomorrow Award of Excellence" for his internship at MSRA. Congrats!
 - 22.6, 9 lab members attended CVPR 2022! 
