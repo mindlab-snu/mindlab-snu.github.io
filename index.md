@@ -31,11 +31,11 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 <hr>
 - 22.7 Jaeseok won the prestigeous [**SBS 문화재단 Scholarship for Graduate Students**](https://foundation.sbs.co.kr/culture.cmd?act=agendaFutureHumanGuideline)! Congrats!!
 - 22.7, Sungmin and Hongjoon won the prestigeous [**율촌 AI STAR Award 2022**](https://aiis.snu.ac.kr/sub4_3.php)! Congrats!!
-- 22.7, One paper got accepted to [ECCV 2022](https://eccv2022.ecva.net/)! Congrats Jaeseok and Taebaek!
+- 22.7, One paper got accepted to [**_ECCV 2022_**](https://eccv2022.ecva.net/)! Congrats Jaeseok and Taebaek!
 - 22.6, Jaeseok won the "Stars of Tomorrow Award of Excellence" for his internship at MSRA. Congrats!
-- 22.6, 9 lab members attended CVPR 2022! 
+- 22.6, 9 lab members attended [**_CVPR 2022_**](https://cvpr2022.thecvf.com/)! 
 - 22.4, One paper got accepted to [CVPR 2022 Workshop on Continual Learning](https://sites.google.com/view/clvision2022). Congrats Sungmin!
-- 22.3, [One paper](https://arxiv.org/abs/2111.14581) got accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
+- 22.3, [One paper](https://arxiv.org/abs/2111.14581) got accepted to [**_CVPR 2022_**](https://cvpr2022.thecvf.com/). Congratulations Sangwon!  
 - 22.1, Dohoon, Seokhyun, and Taebaek will joint the lab as MS/PhD students from March! Juhyun, Youngin, Heewoong, Donguk joined the lab as BS interns! Welcome!   
 
 
