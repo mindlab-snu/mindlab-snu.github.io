@@ -19,6 +19,8 @@ Thankfully, there are currently many applicants who want to join our lab. When y
   - Experience in **machine/deep learning tools** (e.g., Scikit-Learn, Keras, Tensorflow, PyTorch) is a plus.
   - Backgrounds in **real analysis, convex optimization** is a plus.
 
+**For BS interns:** We typically have a few openings for BS interns during the summer/winter vacations. We will post the number of available BS intern positions around May and November for the summer and winter vacation, respectively. 
+
 <!--  Followings are some requirements for joining the lab. When you write a contact e-mail, you **MUST** include your experience on the following points. Otherwise, I _**may not be able to respond**_ to your e-mails.  -->
 
 <!-- - Strong backgrounds in **probability, statistics and linear algebra**.
