@@ -29,7 +29,7 @@ subtitle: M.IN.D Lab Family
 
 #### Alumni
 
-* [Taebaek Hwang]() (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
+* Taebaek Hwang (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
 * [Dohyun Kim](https://sites.google.com/view/dokim/) (MS '22, Currently at [OnePredict](http://onepredict.ai))
 * Junha Jeon (MS '21, Currently at [OnePredict](http://onepredict.ai))
 * [Juyeon Heo](https://sites.google.com/view/juyeonheo/) (MS '20, PhD student at [Universiy of Cambridge](http://mlg.eng.cam.ac.uk/))
