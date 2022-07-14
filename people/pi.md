@@ -32,6 +32,7 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 #### Work Experience
 
 * Associate Professor, [Department of ECE](http://ee.snu.ac.kr), [SNU](http://www.snu.ac.kr) (2021.3~)
+* Visiting Professor, [SEAS](https://www.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/) (2019.12~2020.8)
 * Assistant/Associate Professor, [College of ICE](http://icc.skku.edu), [SKKU](http://www.skku.edu) (2017.3~2021.2)
 * Assistant Professor, [Department of ICE](http://ice.dgist.ac.kr), [DGIST](http://www.dgist.ac.kr) (2015.9~2017.2)
 * Research Staff Member, [SAIT](http://www.sait.samsung.co.kr) (2013.9~2015.8)
