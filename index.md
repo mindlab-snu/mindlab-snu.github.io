@@ -32,7 +32,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - 22.7 Seyoung, Yongho, Sumin, and Jinwoo joined the lab as summer BS interns! Welcome!
 - 22.7 Hyunwoong will join the lab as MS student this Fall! Welcome!
 - 22.7 Jaeseok won the prestigeous [**SBS 문화재단 Scholarship for Graduate Students**](https://foundation.sbs.co.kr/culture.cmd?act=agendaFutureHumanGuideline)! Congrats!!
-- 22.7, Sungmin and Hongjoon won the prestigeous [**율촌 AI STAR Award 2022**](https://aiis.snu.ac.kr/sub4_3.php)! Congrats!!
+- 22.7, Sungmin and Hongjoon won the prestigeous [**율촌 AI STAR Award 2022**](http://www.aitimes.kr/news/articleView.html?idxno=25525)! Congrats!!
 - 22.7, One paper got accepted to [**_ECCV 2022_**](https://eccv2022.ecva.net/)! Congrats Jaeseok and Taebaek!
 - 22.6, Jaeseok won the "Stars of Tomorrow Award of Excellence" for his internship at MSRA. Congrats!
 - 22.6, 9 lab members attended [**_CVPR 2022_**](https://cvpr2022.thecvf.com/)! 
