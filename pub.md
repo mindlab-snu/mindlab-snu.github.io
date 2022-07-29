@@ -29,7 +29,7 @@ Dohyun Kim, Jungtae Lee, Jangsup Moon, and Taesup Moon
 _Submitted_ 
 
 ### 2022
-- **[C32]** [GMS-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
+- **[C32]** [GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training]()  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _European Conference on Computer Vision (**ECCV**)_, October 2022
 - **[C31]** [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581)  
