@@ -19,14 +19,19 @@ subtitle: M.IN.D Lab Family
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 * [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
 * [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
+* [Hyunwoong Bae]()
 
 #### BS students / Interns
 
 * Juhyun Park
-* Youngin Kim
 * Heewoong Choi
-* Donguk Lee
-
+* Seyoung Kim
+* Yongho Kim
+* Sumin Yoo
+* Jinwoo Hyun
+<!-- * Youngin Kim -->
+<!-- * Donguk Lee
+ -->
 #### Alumni
 
 * Taebaek Hwang (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
