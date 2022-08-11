@@ -32,6 +32,7 @@ subtitle: M.IN.D Lab Family
 <!-- * Youngin Kim -->
 <!-- * Donguk Lee
  -->
+ 
 #### Alumni
 
 * Taebaek Hwang (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
