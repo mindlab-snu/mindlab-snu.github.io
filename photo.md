@@ -8,6 +8,18 @@ subtitle: Life in M.IN.D Lab
 
 ## 2019
 
+#### ICCV 2019 @ COEX
+<img src="img/2019_10_iccv.jpeg" width="700" align="center"/>
+<img src="img/2019_10_iccv_2.jpeg" width="700" align="center"/>
+<img src="img/2019_10_iccv_3.jpeg" width="700" align="center"/>
+
+
+#### KCCV 2019 @ Yonsei
+<img src="img/2019_7_kccv.jpeg" width="700" align="center"/>
+
+#### Spring Group Photo @ SKKU
+<img src="img/2019_4_skku.jpeg" width="700" align="center"/>
+
 #### AAAI 2019 @ Honolulu, HI
 <img src="img/2019_1_aaai_hawaii.jpeg" width="700" align="center"/>
 <img src="img/2019_1_aaai_hawaii_2.jpeg" width="700" align="center"/>
@@ -19,7 +31,7 @@ subtitle: Life in M.IN.D Lab
 #### XAI Symposium @ COEX
 <img src="img/2018_10_xai.jpeg" width="700" align="center"/>
 
-#### KCCV 2018
+#### KCCV 2018 @ SKKU
 <img src="img/2018_7_kccv.jpeg" width="700" align="center"/>
 
 #### Spring Group Photo @ SKKU
