@@ -4,6 +4,13 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
+### 2017
+<hr>
+
+#### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
+<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
+
+
 ### 2016
 <hr>
 
@@ -11,11 +18,6 @@ subtitle: Life in M.IN.D Lab
 <img src="img/2016_DGIST.jpeg" width="700" align="center"/>
 
 
-### 2017
-<hr>
-
-#### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
-<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
 <!-- 
