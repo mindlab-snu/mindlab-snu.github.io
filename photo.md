@@ -14,10 +14,10 @@ subtitle: Life in M.IN.D Lab
 
 
 #### CVPR 2022 @ New Orleans, Louisiana 
-<img src="https://mindlab-snu.github.io/img/2022_6_cvpr.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_6_cvpr.jpeg" width="700" align="center"/>
 
 #### Bu-Deul-Gol @ SNU
-<img src="https://mindlab-snu.github.io/img/2022_4_buddelgol.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_4_buddelgol.jpeg" width="700" align="center"/>
 
 
 <hr>
@@ -25,11 +25,11 @@ subtitle: Life in M.IN.D Lab
 ## 2021
 
 #### Summer Group Photo @ SNU
-<img src="img/2021_7_snu.jpeg" width="700" align="center"/>
-<img src="img/2021_7_snu_2.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2021_7_snu.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2021_7_snu_2.jpeg" width="700" align="center"/>
 
 #### Gwanak Mt. @ SNU
-<img src="img/2021_snu_gwanak.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2021_snu_gwanak.jpeg" width="700" align="center"/>
 
 
 
@@ -38,56 +38,56 @@ subtitle: Life in M.IN.D Lab
 ## 2020
 
 #### Fall Group Photo @ SKKU
-<img src="img/2020_9_skku.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2020_9_skku.jpeg" width="700" align="center"/>
 
 #### Visiting Scholars @ Havard University
-<img src="img/2020_6_harvard.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2020_6_harvard.jpeg" width="700" align="center"/>
 
 <hr>
 
 ## 2019
 
 #### NeurIPS 2019 @ Vancouver, Canada
-<img src="img/2019_12_neurips.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_12_neurips.jpeg" width="700" align="center"/>
 
 #### ICCV 2019 @ COEX
-<img src="img/2019_10_iccv.jpeg" width="700" align="center"/>
-<img src="img/2019_10_iccv_2.jpeg" width="700" align="center"/>
-<img src="img/2019_10_iccv_3.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_10_iccv.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_10_iccv_2.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_10_iccv_3.jpeg" width="700" align="center"/>
 
 
 #### KCCV 2019 @ Yonsei
-<img src="img/2019_7_kccv.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_7_kccv.jpeg" width="700" align="center"/>
 
 #### Spring Group Photo @ SKKU
-<img src="img/2019_4_skku.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_4_skku.jpeg" width="700" align="center"/>
 
 #### AAAI 2019 @ Honolulu, HI
-<img src="img/2019_1_aaai_hawaii.jpeg" width="700" align="center"/>
-<img src="img/2019_1_aaai_hawaii_2.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_1_aaai_hawaii.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_1_aaai_hawaii_2.jpeg" width="700" align="center"/>
 
 <hr>
 
 ## 2018
 
 #### XAI Symposium @ COEX
-<img src="img/2018_10_xai.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_10_xai.jpeg" width="700" align="center"/>
 
 #### KCCV 2018 @ SKKU
-<img src="img/2018_7_kccv.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_7_kccv.jpeg" width="700" align="center"/>
 
 #### Spring Group Photo @ SKKU
-<img src="img/2018_4_skku.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_4_skku.jpeg" width="700" align="center"/>
 
 #### Jump Shot in front of Samsung Library @ SKKU
-<img src="img/2018_skku.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_skku.jpeg" width="700" align="center"/>
 
 <hr>
 
 ## 2017
 
 #### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
-<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
 <hr>
@@ -95,7 +95,7 @@ subtitle: Life in M.IN.D Lab
 ## 2016
 
 #### First Group Photo @ DGIST
-<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2016_DGIST.jpeg" width="700" align="center"/>
 
 
 <!-- 
