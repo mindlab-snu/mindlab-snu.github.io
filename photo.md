@@ -6,6 +6,19 @@ subtitle: Life in M.IN.D Lab
 
 <hr>
 
+## 2021
+
+#### Group Photo @ SNU
+<img src="img/2021_7_snu.jpeg" width="700" align="center"/>
+<img src="img/2021_7_snu_2.jpeg" width="700" align="center"/>
+
+#### Gwanak Mt. @ SNU
+<img src="img/2021_snu_gwanak.jpeg" width="700" align="center"/>
+
+
+
+<hr>
+
 ## 2020
 
 #### Fall Group Photo @ SKKU
@@ -37,7 +50,7 @@ subtitle: Life in M.IN.D Lab
 <img src="img/2019_1_aaai_hawaii.jpeg" width="700" align="center"/>
 <img src="img/2019_1_aaai_hawaii_2.jpeg" width="700" align="center"/>
 
-
+<hr>
 
 ## 2018
 
