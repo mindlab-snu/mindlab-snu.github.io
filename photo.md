@@ -16,15 +16,17 @@ subtitle: Life in M.IN.D Lab
 #### Winter Jump Shot @ SKKU
 <img src="img/2018_skku.jpeg" width="700" align="center"/>
 
-### 2017
 <hr>
+
+## 2017
 
 #### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
 <img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
-### 2016
 <hr>
+
+## 2016
 
 #### First Group Photo @ DGIST
 <img src="img/2016_DGIST.jpeg" width="700" align="center"/>
