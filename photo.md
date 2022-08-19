@@ -10,7 +10,7 @@ subtitle: Life in M.IN.D Lab
 
 #### Summer Group Photo @ SNU
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_8_group_2.jpeg" width="700" align="center"/>
-<img src="https://mindlab-snu.github.io/img/2022_8_group.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_8_group.jpeg" width="700" align="center"/>
 
 
 #### CVPR 2022 @ New Orleans, Louisiana 
