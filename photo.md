@@ -14,7 +14,7 @@ subtitle: Life in M.IN.D Lab
 ### 2017
 <hr>
 
-#### ICML 2017 @ Sydney (with Lihong Li)
+#### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
 <img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
