@@ -6,9 +6,25 @@ subtitle: Life in M.IN.D Lab
 
 <hr>
 
+## 2022
+
+#### Summer Group Photo @ SNU
+<img src="img/2022_8_group.jpeg" width="700" align="center"/>
+<img src="img/2022_8_group_2.jpeg" width="700" align="center"/>
+
+
+#### CVPR 2022 @ New Orleans, Louisiana 
+<img src="img/2022_6_cvpr.jpeg" width="700" align="center"/>
+
+#### Bu-Deul-Gol @ SNU
+<img src="img/2022_4_buddelgol.jpeg" width="700" align="center"/>
+
+
+<hr>
+
 ## 2021
 
-#### Group Photo @ SNU
+#### Summer Group Photo @ SNU
 <img src="img/2021_7_snu.jpeg" width="700" align="center"/>
 <img src="img/2021_7_snu_2.jpeg" width="700" align="center"/>
 
