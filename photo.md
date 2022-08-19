@@ -5,6 +5,7 @@ subtitle: Life in M.IN.D Lab
 ---
 
 <hr>
+
 ## 2019
 
 #### AAAI 2019 @ Honolulu, HI
