@@ -4,9 +4,9 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
-### 2018
 <hr>
 
+## 2018
 #### KCCV 2018
 <img src="img/2018_7_kccv.jpeg" width="700" align="center"/>
 
