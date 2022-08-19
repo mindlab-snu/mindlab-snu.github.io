@@ -6,7 +6,18 @@ subtitle: Life in M.IN.D Lab
 
 <hr>
 
+## 2020
+
+#### Fall Group Photo @ SKKU
+<img src="img/2020_9_skku.jpeg" width="700" align="center"/>
+
+#### Visiting Scholars @ Havard University
+<img src="img/2020_6_harvard.jpeg" width="700" align="center"/>
+
 ## 2019
+
+#### NeurIPS 2019 @ Vancouver, Canada
+<img src="img/2019_12_neurips.jpeg" width="700" align="center"/>
 
 #### ICCV 2019 @ COEX
 <img src="img/2019_10_iccv.jpeg" width="700" align="center"/>
