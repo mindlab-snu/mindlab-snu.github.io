@@ -7,11 +7,14 @@ subtitle: Life in M.IN.D Lab
 ### 2018
 <hr>
 
-#### Spring Group Photo @ SKKU
-<img src="img/2018_skku.jpeg" width="700" align="center"/>
+#### KCCV 2018
+<img src="img/2018_7_kccv.jpeg" width="700" align="center"/>
 
 #### Spring Group Photo @ SKKU
 <img src="img/2018_4_skku.jpeg" width="700" align="center"/>
+
+#### Winter Jump Shot @ SKKU
+<img src="img/2018_skku.jpeg" width="700" align="center"/>
 
 ### 2017
 <hr>
