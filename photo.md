@@ -14,10 +14,10 @@ subtitle: Life in M.IN.D Lab
 
 
 #### CVPR 2022 @ New Orleans, Louisiana 
-<img src="img/2022_6_cvpr.jpeg" width="700" align="center"/>
+<img src="https://mindlab-snu.github.io/img/2022_6_cvpr.jpeg" width="700" align="center"/>
 
 #### Bu-Deul-Gol @ SNU
-<img src="img/2022_4_buddelgol.jpeg" width="700" align="center"/>
+<img src="https://mindlab-snu.github.io/img/2022_4_buddelgol.jpeg" width="700" align="center"/>
 
 
 <hr>
