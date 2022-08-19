@@ -4,18 +4,27 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
+### 2018
+<hr>
+
+#### Spring Group Photo @ SKKU
+<img src="img/2018_skku.jpeg" width="700" align="center"/>
+
+#### Spring Group Photo @ SKKU
+<img src="img/2018_4_skku.jpeg" width="700" align="center"/>
+
 ### 2017
 <hr>
 
 #### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
-<img src="img/2017_ICML_Lihong.jpeg" width="600" align="center"/>
+<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
 ### 2016
 <hr>
 
 #### First Group Photo @ DGIST
-<img src="img/2016_DGIST.jpeg" width="600" align="center"/>
+<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
 
 
 
