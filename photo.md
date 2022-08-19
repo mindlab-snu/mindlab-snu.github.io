@@ -4,8 +4,10 @@ title: Photos
 subtitle: Life in M.IN.D Lab
 ---
 
-### 2018
+### 2016
 <hr> 
+<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
+
 
 <br>
 
