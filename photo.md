@@ -99,6 +99,8 @@ subtitle: Life in M.IN.D Lab
 
 
 
+#### Spring group photo, in SSaDong
+<img src="img/spring_lab_pink.jpg" width="700" align="center"/>
 
 <!-- 
 <br>
