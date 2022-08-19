@@ -8,14 +8,14 @@ subtitle: Life in M.IN.D Lab
 <hr>
 
 #### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
-<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
+<img src="img/2017_ICML_Lihong.jpeg" width="600" align="center"/>
 
 
 ### 2016
 <hr>
 
 #### First Group Photo @ DGIST
-<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
+<img src="img/2016_DGIST.jpeg" width="600" align="center"/>
 
 
 
