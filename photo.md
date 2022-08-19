@@ -14,8 +14,8 @@ subtitle: Life in M.IN.D Lab
 ### 2017
 <hr>
 
-#### First Group Photo @ DGIST
-<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
+#### ICML 2017 (with Lihong Li)
+<img src="img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
 <!-- 
