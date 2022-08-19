@@ -49,7 +49,7 @@ subtitle: Life in M.IN.D Lab
 <img src="http://115.145.145.158/photos/skku/jeju2.jpg" width="700" align="center"/>
 
  -->
-<br> -->
+<!-- <br> --> -->
 
 #### Spring group photo, in SSaDong
 <img src="img/spring_lab_pink.jpg" width="700" align="center"/>
