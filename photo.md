@@ -7,13 +7,17 @@ subtitle: Life in M.IN.D Lab
 <hr>
 
 ## 2018
+
+#### XAI Symposium @ COEX
+<img src="img/2018_10_xai.jpeg" width="700" align="center"/>
+
 #### KCCV 2018
 <img src="img/2018_7_kccv.jpeg" width="700" align="center"/>
 
 #### Spring Group Photo @ SKKU
 <img src="img/2018_4_skku.jpeg" width="700" align="center"/>
 
-#### Winter Jump Shot @ SKKU
+#### Jump Shot in front of Samsung Library @ SKKU
 <img src="img/2018_skku.jpeg" width="700" align="center"/>
 
 <hr>
