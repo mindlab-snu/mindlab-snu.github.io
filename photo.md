@@ -10,6 +10,14 @@ subtitle: Life in M.IN.D Lab
 #### First Group Photo @ DGIST
 <img src="img/2016_DGIST.jpeg" width="700" align="center"/>
 
+
+### 2017
+<hr>
+
+#### First Group Photo @ DGIST
+<img src="img/2016_DGIST.jpeg" width="700" align="center"/>
+
+
 <!-- 
 <br>
 
