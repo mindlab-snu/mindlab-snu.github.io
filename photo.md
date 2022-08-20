@@ -64,7 +64,7 @@ subtitle: Life in M.IN.D Lab
 #### Spring Group Photo @ SKKU
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_4_skku.jpeg" width="700" align="center"/>
 
-#### AAAI 2019 @ Honolulu, HI
+#### AAAI 2019 @ Honolulu, Hawaii
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_1_aaai_hawaii.jpeg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_1_aaai_hawaii_2.jpeg" width="700" align="center"/>
 
@@ -91,7 +91,7 @@ subtitle: Life in M.IN.D Lab
 
 ## 2017
 
-#### ICML 2017 @ Sydney (with [Lihong Li](https://lihongli.github.io/))
+#### ICML 2017 @ Sydney, Australia (with [Lihong Li](https://lihongli.github.io/))
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2017_ICML_Lihong.jpeg" width="700" align="center"/>
 
 
