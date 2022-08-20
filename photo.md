@@ -55,6 +55,8 @@ subtitle: Life in M.IN.D Lab
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_10_iccv_2.jpeg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_10_iccv_3.jpeg" width="700" align="center"/>
 
+#### [Tsachy Weissman](https://web.stanford.edu/~tsachy/)'s visit @ SKKU
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_9_Tsachy.jpeg" width="700" align="center"/>
 
 #### KCCV 2019 @ Yonsei
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2019_7_kccv.jpeg" width="700" align="center"/>
