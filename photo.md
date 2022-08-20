@@ -78,6 +78,9 @@ subtitle: Life in M.IN.D Lab
 #### KCCV 2018 @ SKKU
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_7_kccv.jpeg" width="700" align="center"/>
 
+#### ICASSP 2018 @ Calgary, Canada
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_4_icassp.jpeg" width="700" align="center"/>
+
 #### Spring Group Photo @ SKKU
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2018_4_skku.jpeg" width="700" align="center"/>
 
