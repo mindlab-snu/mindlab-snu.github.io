@@ -12,7 +12,7 @@ subtitle: M.IN.D Lab Family
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
-* [Sang Won Jung](https://sites.google.com/view/sangwon-jung)
+* [Sangwon Jung](https://sites.google.com/view/sangwon-jung)
 
 #### MS students
 
