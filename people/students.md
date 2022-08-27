@@ -25,13 +25,12 @@ subtitle: M.IN.D Lab Family
 
 * Juhyun Park
 * Heewoong Choi
-<!-- * Seyoung Kim -->
 * Yongho Kim
 * Sumin Yoo
 * Jinwoo Hyun
+<!-- * Seyoung Kim -->
 <!-- * Youngin Kim -->
-<!-- * Donguk Lee
- -->
+<!-- * Donguk Lee -->
  
 #### Alumni
 
