@@ -25,7 +25,7 @@ subtitle: M.IN.D Lab Family
 
 * Juhyun Park
 * Heewoong Choi
-* Seyoung Kim
+<!-- * Seyoung Kim -->
 * Yongho Kim
 * Sumin Yoo
 * Jinwoo Hyun
