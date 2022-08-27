@@ -40,10 +40,10 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 * Scientist, [Yahoo! Labs](http://research.yahoo.com) (2008.10~2012.1)
 
 #### Other SNU Affiliations
-* [Graduate School of AI, Seoul National University](https://gsai.snu.ac.kr)
-* [Artificial Intelligence Institute at Seoul National University](https://aiis.snu.ac.kr)
-* [Automation and Systems Research Institute](https://asri.snu.ac.kr/)
-
+* [Interdisciplinary Program in AI (IPAI), Seoul National University](https://gsai.snu.ac.kr)
+* [Artificial Intelligence Institute at Seoul National University (AIIS)](https://aiis.snu.ac.kr)
+* [Automation and Systems Research Institute (ASRI)](https://asri.snu.ac.kr/)
+* [Institute of New Media and Communications (INMC)](http://www.inmc.snu.ac.kr/)
 
 #### Professional Services
 * Reviewer / Program Committee - _NeurIPS_, _ICML_, _ICLR_, _CVPR_, _AAAI_, _AISTATS_, _ISIT_ , _IJCAI_, etc. 
