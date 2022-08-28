@@ -15,7 +15,7 @@ We primarily focus on overcoming the limitations of the current supervised machi
 
 Some more concrete funded project regarding above topics includes the following:
 - Next generation continual learning (Supported by [NRF]() (2021-2026), [IITP]() (2022-2027))  
-- XAI with causalityfew-shot learning (Supported by [IITP]() (2022-2027))  
+- XAI with causality / Robust XAI / Few-shot learning (Supported by [IITP]() (2022-2027))  
 - Fairness in machine learning (Supported by [IITP](https://www.iitp.kr/en/main.it) (2019-2022)) 
 - Hyperscale AI (Supported by [Naver](https://naver-career.gitbook.io/en/teams/clova-cic) (2021-2023))  
 - Fair continual learning (Supported by [LG AI Research](https://www.lgresearch.ai/kor/) (2022-2023))
