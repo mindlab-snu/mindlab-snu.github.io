@@ -18,9 +18,6 @@ _Submitted_   -->
 - [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.08101)  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
-- [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
-Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
-_Submitted_
 - [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_   
@@ -29,6 +26,9 @@ Dohyun Kim, Jungtae Lee, Jangsup Moon, and Taesup Moon
 _Submitted_ 
 
 ### 2022
+- **[C33]** [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
+Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
+_Neural Information Processing Systems (**NeurIPS**)_, December 2022
 - **[C32]** [GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training](https://arxiv.org/abs/2208.04060)  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _European Conference on Computer Vision (**ECCV**)_, October 2022
