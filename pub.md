@@ -27,7 +27,7 @@ _Submitted_
 
 ### 2022
 - **[C33]** [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
-Hongjoon Ahn, Youngyi Yang, Quan Gan , David Wipf, and Taesup Moon  
+Hongjoon Ahn, Youngyi Yang, Quan Gan, David Wipf, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2022
 - **[C32]** [GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training](https://arxiv.org/abs/2208.04060)  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
