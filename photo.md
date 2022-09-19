@@ -40,7 +40,7 @@ subtitle: Life in M.IN.D Lab
 #### Fall Group Photo @ SKKU
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2020_9_skku.jpeg" width="700" align="center"/>
 
-#### Visiting Scholars @ Havard University
+#### (Social distancing) Visiting Scholars @ Havard University
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2020_6_harvard.jpeg" width="700" align="center"/>
 
 <hr>
