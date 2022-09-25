@@ -29,6 +29,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 22.9 One paper got accepted to [**_NeurIPS 2022_**](https://neurips.cc/)! Congratulations Hongjoon!
 - 22.7 Seyoung, Yongho, Sumin, and Jinwoo joined the lab as summer BS interns! Welcome!
 - 22.7 Hyunwoong will join the lab as an MS/PhD student this Fall! Welcome!
 - 22.7 Jaeseok won the prestigeous [**SBS 문화재단 Scholarship for Graduate Students**](https://foundation.sbs.co.kr/culture.cmd?act=agendaFutureHumanGuideline)! Congrats!!
