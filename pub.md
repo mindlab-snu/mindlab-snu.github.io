@@ -4,7 +4,7 @@ title: Research
 subtitle: Publications
 ---
 
-### Manuscripts
+<!-- ### Manuscripts -->
 
 <!-- - [Towards More Robust Interpretation via Local Gradient Alignment]()   
 Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
@@ -15,12 +15,12 @@ _Submitted_
 - [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
 Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
 _Submitted_   -->
-- [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.08101)  
+<!-- - [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.08101)  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
 - [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
-_Submitted_   
+_Submitted_    -->
 
 
 ### 2022
