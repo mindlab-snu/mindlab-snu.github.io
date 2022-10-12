@@ -8,7 +8,7 @@ subtitle: Life in M.IN.D Lab
 
 ## 2022
 
-#### Fall Group Hiking @ Gwanak Mt. 
+#### Fall Group Hiking @ Gwanak Mt., Oct 2022
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_10_gwanak2.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_10_gwanak1.jpeg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2022_10_gwanak3.jpeg" width="700" align="center"/>
