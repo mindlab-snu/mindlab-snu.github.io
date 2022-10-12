@@ -24,9 +24,9 @@ _Submitted_    -->
 
 
 ### 2022
-- **[J21]** [Interpretable Deep Learning-based Hippocampal Sclerosis Classification]()  
+- **[J21]** [Interpretable Deep Learning-based Hippocampal Sclerosis Classification](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)  
 Dohyun Kim, Jungtae Lee, Jangsup Moon, and Taesup Moon  
-Accepted to _**Epilepsia Open (IF=4.026)**_, September 2022  
+_**Epilepsia Open (IF=4.026)**_, https://doi.org/10.1002/epi4.12655, September 2022  
 - **[C33]** [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
 Hongjoon Ahn, Youngyi Yang, Quan Gan, David Wipf, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2022
