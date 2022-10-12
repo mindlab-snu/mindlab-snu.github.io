@@ -6,6 +6,7 @@ subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 published: true
 ---
 <img src="img/2022_10_gwanak1.jpeg" width="820" align="center"/>
+(@ Gwanak Mt., Oct 2022)
 
 <!--**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**-->
 
