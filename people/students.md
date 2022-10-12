@@ -19,7 +19,7 @@ subtitle: M.IN.D Lab Family
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 * [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
 * [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
-* [Hyunwoong Bae]()
+* [Hyunwoong Bae](https://hyunw3.github.io/)
 
 #### BS students / Interns
 
