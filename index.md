@@ -16,7 +16,8 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 <!-- To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).     -->
 
 
-**Notice:** As of **Nov 2022**, we currently have about 1~2 openings for the BS interns for **_Winter/Spring 2023_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
+**Notice:** 
+<!-- As of **Nov 2022**, we currently have about 1~2 openings for the BS interns for **_Winter/Spring 2023_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. -->
 
 <!-- **not** have any more openings for _Summer/Fall 2022_ BS internship. For the **_Winter/Spring 2023_** BS internships, we will post on the website around **_Nov 2022_**. Thanks for your interest!! -->
 
