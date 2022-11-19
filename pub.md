@@ -22,6 +22,10 @@ _Submitted_
 Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
 _Submitted_    -->
 
+### 2023
+- **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment]()  
+Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
+_The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
 
 ### 2022
 - **[J21]** [Interpretable Deep Learning-based Hippocampal Sclerosis Classification](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)  
