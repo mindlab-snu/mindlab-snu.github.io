@@ -16,7 +16,7 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 <!-- To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).     -->
 
 
-**Notice:** 
+**Notice:** As of **Nov 2022**, we currently do not have any more openings for the BS interns for **_Winter/Spring 2023_**. Thank you very much for your interests. 
 <!-- As of **Nov 2022**, we currently have about 1~2 openings for the BS interns for **_Winter/Spring 2023_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. -->
 
 <!-- **not** have any more openings for _Summer/Fall 2022_ BS internship. For the **_Winter/Spring 2023_** BS internships, we will post on the website around **_Nov 2022_**. Thanks for your interest!! -->
@@ -32,6 +32,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 22.11 One paper got accepted to [**AAAI 2023**](https://aaai.org/Conferences/AAAI-23/)! Congratulations Sunghwan and SeokHyun!
 - 22.9 One paper got accepted to [**Epilepsia Open**](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)!
 - 22.9 One paper got accepted to [**_NeurIPS 2022_**](https://neurips.cc/)! Congratulations Hongjoon!
 - 22.7 Seyoung, Yongho, Sumin, and Jinwoo joined the lab as summer BS interns! Welcome!
