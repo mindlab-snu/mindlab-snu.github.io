@@ -23,7 +23,7 @@ Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon
 _Submitted_    -->
 
 ### 2023
-- **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment]()  
+- **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)  
 Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
 - **[W]** [Issues for Continual Learning in the Presence of Dataset Bias]()  
