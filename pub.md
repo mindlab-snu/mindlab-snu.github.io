@@ -26,8 +26,14 @@ _Submitted_    -->
 - **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment]()  
 Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
+- **[W]** [Issues for Continual Learning in the Presence of Dataset Bias]()  
+Donggyu Lee, Sangwon Jung, and Taesup Moon  
+_AAAI 2023 Bridge Program: Continual Causality_, February 2023 
 
 ### 2022
+- **[J22]** [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
+Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
+Accepted to _**IEEE Access**_ 2022
 - **[J21]** [Interpretable Deep Learning-based Hippocampal Sclerosis Classification](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)  
 Dohyun Kim, Jungtae Lee, Jangsup Moon, and Taesup Moon  
 _**Epilepsia Open (IF=4.026)**_, https://doi.org/10.1002/epi4.12655, September 2022  
