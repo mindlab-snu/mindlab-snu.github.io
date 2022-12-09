@@ -28,7 +28,7 @@ Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon
 _The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
 - **[W]** [Issues for Continual Learning in the Presence of Dataset Bias]()  
 Donggyu Lee, Sangwon Jung, and Taesup Moon  
-_AAAI 2023 Bridge Program: Continual Causality_, February 2023 
+_**AAAI 2023 Bridge** Program: Continual Causality_, February 2023 
 
 ### 2022
 - **[J22]** [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
