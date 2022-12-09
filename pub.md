@@ -6,7 +6,7 @@ subtitle: Publications
 
 <!-- ### Manuscripts -->
 
-<!-- - [Towards More Robust Interpretation via Local Gradient Alignment]()   
+<!-- - [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)   
 Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _Submitted_  
 - [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
