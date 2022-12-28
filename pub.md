@@ -31,7 +31,7 @@ Donggyu Lee, Sangwon Jung, and Taesup Moon
 _**AAAI 2023 Bridge** Program: Continual Causality_, February 2023 
 
 ### 2022
-- **[J22]** [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
+- **[J22]** [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982433)  
 Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
 Accepted to _**IEEE Access**_ 2022
 - **[J21]** [Interpretable Deep Learning-based Hippocampal Sclerosis Classification](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)  
