@@ -40,7 +40,7 @@ _**Epilepsia Open (IF=4.026)**_, https://doi.org/10.1002/epi4.12655, September 2
 - **[C33]** [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)  
 Hongjoon Ahn, Youngyi Yang, Quan Gan, David Wipf, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2022
-- **[C32]** [GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training](https://arxiv.org/abs/2208.04060)  
+- **[C32]** [GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5643_ECCV_2022_paper.php)  
 Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon  
 _European Conference on Computer Vision (**ECCV**)_, October 2022
 - **[C31]** [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/html/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.html)  
