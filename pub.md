@@ -23,6 +23,9 @@ Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon
 _Submitted_    -->
 
 ### 2023
+- **[C35]** [Exact Group Fairness Regularization via Classwise Robust Optimization]()  
+Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
+_The 11th International Conference on Learning Representations (**ICLR**)_, May 2023
 - **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)  
 Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
 _The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
