@@ -6,6 +6,12 @@ subtitle: Life in M.IN.D Lab
 
 <hr>
 
+## 2023
+
+#### 1st M.IN.D Lab Workshop @ SNU, Feb 2023
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/23_02_labworkshop.jpg" width="700" align="center"/>
+
+
 ## 2022
 
 #### Fall Group Hiking @ Gwanak Mt., Oct 2022
