@@ -33,6 +33,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+- 23.2 Taesup won [**2022 공과대학 우수강의상**] for both semesters in 2022! Thanks to the great TAs!
 - 22.11 One paper got accepted to [**_AAAI 2023_**](https://aaai.org/Conferences/AAAI-23/)! Congratulations Sunghwan and SeokHyun!
 - 22.9 One paper got accepted to [**Epilepsia Open**](https://onlinelibrary.wiley.com/doi/10.1002/epi4.12655)!
 - 22.9 One paper got accepted to [**_NeurIPS 2022_**](https://neurips.cc/)! Congratulations Hongjoon!
