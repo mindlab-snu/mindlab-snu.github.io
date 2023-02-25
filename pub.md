@@ -23,6 +23,9 @@ Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon
 _Submitted_    -->
 
 ### 2023
+- **[J23]** [Observations on K-Image Expansion of Image-Mixing Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038702)  
+Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, and Youngjoon Yoo  
+_IEEE Access_, vol. 11, pp. 16631-16643, 2023, doi: 10.1109/ACCESS.2023.3243108
 - **[C35]** [Exact Group Fairness Regularization via Classwise Robust Optimization]()  
 Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
 _The 11th International Conference on Learning Representations (**ICLR**)_, May 2023
