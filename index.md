@@ -33,7 +33,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 23.3 Yongho, Sumin, Jinwoo, Juhyun (MS/PhD) and Yong Jin (PhD) joined our lab! Welcome! 
+- 23.3 Yongho, Sumin, Jinwoo, Juhyun, Heewoong (MS/PhD) and Yong Jin (PhD) joined our lab! Welcome! 
 - 23.2 One paper got accepted to [**CVPR 2023**](https://cvpr2023.thecvf.com/)! Congratulations Sungmin! 
 - 23.2 Taesup won 2022 공과대학 우수강의상 for both semesters in 2022! Thanks to the hard work of great TAs!
 - 23.1 One paper got accepted to [**ICLR 2023**](https://iclr.cc)! Congratulations Sangwon and Taeeon!
