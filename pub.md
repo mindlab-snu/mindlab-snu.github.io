@@ -23,6 +23,9 @@ Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon
 _Submitted_    -->
 
 ### 2023
+- **[C36]** [Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning]()  
+Sungmin Cha, Sungjun Cho, Dasol Hwang, Sunwon Hong, Moontae Lee, and Taesup Moon  
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2023   
 - **[J23]** [Observations on K-Image Expansion of Image-Mixing Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038702)  
 Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, and Youngjoon Yoo  
 _**IEEE Access**_, vol. 11, pp. 16631-16643, 2023, doi: 10.1109/ACCESS.2023.3243108
