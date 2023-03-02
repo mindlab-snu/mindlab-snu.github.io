@@ -29,8 +29,8 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, Jun
 - **[J23]** [Observations on K-Image Expansion of Image-Mixing Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038702)  
 Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, and Youngjoon Yoo  
 _**IEEE Access**_, vol. 11, pp. 16631-16643, 2023, doi: 10.1109/ACCESS.2023.3243108
-- **[C35]** [Exact Group Fairness Regularization via Classwise Robust Optimization]()  
-Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
+- **[C35]** [Re-weighting Based Group Fairness Regularization via Classwise Robust Optimization](https://openreview.net/pdf?id=Q-WfHzmiG9m)  
+Sangwon Jung, Taeeon Park, Sanghyuk Chun, and **Taesup Moon**  
 _The 11th International Conference on Learning Representations (**ICLR**)_, May 2023
 - **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)  
 Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
