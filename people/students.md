@@ -22,9 +22,9 @@ subtitle: M.IN.D Lab Family
 * [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
 * [Hyunwoong Bae](https://hyunw3.github.io/)
 * [Juhyun Park](https://juhyeon.develofolio.com/)  
-* Heewoong Choi
+* [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
 * Yongho Kim
-* Sumin Yoo
+* [Sumin Yoo](https://suminyu.notion.site/Sumin-Yu-f0851ac95a1a435885cfd2b77596143d)
 * Jinwoo Hyun
 
 #### BS students / Interns
