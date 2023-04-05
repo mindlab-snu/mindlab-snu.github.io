@@ -9,8 +9,8 @@ subtitle: Life in M.IN.D Lab
 ## 2023
 
 #### M.IN.D Lab MT @ Ansan, March 2023
-<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_0_mt_1.jpeg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_0_mt_2.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_3_mt_1.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_3_mt_2.jpeg" width="700" align="center"/>
 
 
 #### 1st M.IN.D Lab Workshop @ SNU, Feb 2023
