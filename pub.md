@@ -34,7 +34,10 @@ Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon
 _The 11th International Conference on Learning Representations (**ICLR**)_, May 2023
 - **[C34]** [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)  
 Sunghwan Joo, SeokHyeon Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
-_The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023  
+_The 37th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2023
+- **[W]** [Towards More Objective Evaluation of Class Incremental Learning: Representation Learning Perspective]
+Sungmin Cha, Jihwan Kwak, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, Taesup Moon
+_**CVPR Workshop** on Continual Learning in Computer Vision (**CLVISION**)_, June 2023  
 - **[W]** [Issues for Continual Learning in the Presence of Dataset Bias](https://openreview.net/pdf?id=iWLbLoleZMN)  
 Donggyu Lee, Sangwon Jung, and Taesup Moon  
 _**AAAI 2023 Bridge** Program: Continual Causality_, February 2023 
