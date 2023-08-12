@@ -34,7 +34,9 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 - 23.7 Taesup gave research talks at companies ([NewsBreak](https://newsbreak.com), [Google](https://research.google), [Coupang](https://www.coupang.jobs/en/locations/mountain-view/), [Amazon](https://www.amazon.science/), [Meta](https://ai.meta.com/), and [NVIDIA](https://nvidia.com)) and universities ([UC Berkeley](https://statistics.berkeley.edu/) and [Stanford](https://statistics.stanford.edu/events/statistics-seminar)) in the Bay Area, CA USA! We look forward to fruitful collaborations!
-- 23.7 Sungmin successfully defended his Ph.D thesis! He is our #1 PhD graduate and is now with [NYU CS department](https://cs.nyu.edu/dynamic/people/faculty/type/3/) as a Faculty Fellow! Congrats!
+- 23.7 M.IN.D Lab attended at the [한국인공지능학회 하계학술대회](https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20230401&B_CATE=BBC1)!
+- 23.7 [Sungmin](https://sites.google.com/view/sungmin-cha/) successfully defended his Ph.D thesis! He is our #1 PhD graduate and is now with [NYU CS department](https://cs.nyu.edu/dynamic/people/faculty/type/3/) as a Faculty Fellow! Congrats!
+- 23.3 We had our first group MT! It was a real fun!
 - 23.3 Yongho, Sumin, Jinwoo, Juhyun, Heewoong (MS/PhD) and Yong Jin (PhD) joined our lab! Welcome! 
 - 23.2 One paper got accepted to [**CVPR 2023**](https://cvpr2023.thecvf.com/)! Congratulations Sungmin! 
 - 23.2 Taesup won 2022 공과대학 우수강의상 for both semesters in 2022! Thanks to the hard work of great TAs!
