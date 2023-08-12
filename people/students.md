@@ -6,7 +6,6 @@ subtitle: M.IN.D Lab Family
 
 #### PhD students
 
-* [Sungmin Cha](https://sites.google.com/view/sungmin-cha/) 
 * [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) 
 * [Donggyu Lee](https://sites.google.com/view/dqlee) 
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
@@ -36,6 +35,7 @@ subtitle: M.IN.D Lab Family
  
 #### Alumni
 
+* [Sungmin Cha](https://sites.google.com/view/sungmin-cha/) (Ph.D. '23, Currently at [NYU CS](https://cs.nyu.edu/dynamic/people/faculty/type/3/) as a Faculty Fellow)  
 * Taebaek Hwang (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
 * [Dohyun Kim](https://sites.google.com/view/dokim/) (MS '22, Currently at [OnePredict](http://onepredict.ai))
 * Junha Jeon (MS '21, Currently at [OnePredict](http://onepredict.ai))
