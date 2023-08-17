@@ -29,8 +29,9 @@ More on **core algorithm research agenda** is [here](research_agenda.pdf).
 
 For applications, we aim to apply the ML algorithms to solve a **real-world problems** that can lead to a **high impact**. Some of the recent topics include _multi-modal model inference, neuroscience / medical image analyses, semiconductor random variation prediction, image restoration, radar-based activity recognition, satellite-based PM2.5 estimation_, etc. 
 
-Some recent funded projects include the following: 
+Some recent funded projects include the following:
 - Pre-training large-scale multi-modal model (Supported by IITP-[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2021-2022))
+- Deep learning based battery management (Supported by [Hyundai Motors](https://www.hyundai.com/worldwide/en/)) (2023-2024)
 - Neuroscience / Medical data analyses (Supported by [NRF]() (2021-2024))
 - Semiconductor random variation prediction (Supported by [KEIT](https://itech.keit.re.kr/index.do) (2019-2021))
 - Image restoration (Supported by [NRF](), [Samsung]() (2016-2019))
