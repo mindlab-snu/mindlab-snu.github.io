@@ -22,7 +22,7 @@ subtitle: M.IN.D Lab Family
 * [Hyunwoong Bae](https://hyunw3.github.io/)
 * [Juhyun Park](https://juhyeon.develofolio.com/)  
 * [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
-* Yongho Kim
+* [Yongho Kim](https://sites.google.com/view/peter-yongho-kim/)
 * [Sumin Yoo](https://suminyu.notion.site/Sumin-Yu-f0851ac95a1a435885cfd2b77596143d)
 * [Jinu Hyeon](https://sites.google.com/snu.ac.kr/jinuhyeon/)
 
