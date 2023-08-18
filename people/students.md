@@ -24,7 +24,7 @@ subtitle: M.IN.D Lab Family
 * [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
 * Yongho Kim
 * [Sumin Yoo](https://suminyu.notion.site/Sumin-Yu-f0851ac95a1a435885cfd2b77596143d)
-* Jinwoo Hyun
+* [Jinu Hyeon](https://sites.google.com/snu.ac.kr/jinuhyeon/)
 
 #### BS students / Interns
 
