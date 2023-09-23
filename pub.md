@@ -23,7 +23,10 @@ Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon
 _Submitted_    -->
 
 ### 2023
-- **[C36]** [Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning]()  
+- **[C37]** [SwiFT: Swin 4D fMRI Transformer]()
+Peter Yongho Kim, Junbeom Kwon, Sunghwan Joo, Sangyoon Bae, Donggyu Lee, Yoonho Jung, Shinjae Yoo, Jiook Cha, and Taesup Moon
+_Neural Information Processing Systems (**NeurIPS**)_, December 2023
+- **[C36]** [Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Cha_Rebalancing_Batch_Normalization_for_Exemplar-Based_Class-Incremental_Learning_CVPR_2023_paper.pdf)  
 Sungmin Cha, Sungjun Cho, Dasol Hwang, Sunwon Hong, Moontae Lee, and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2023   
 - **[J23]** [Observations on K-Image Expansion of Image-Mixing Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038702)  
