@@ -17,7 +17,9 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 <!-- To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).     -->
 
 
-**Notice:** As of **Aug 2023**, we **_may have_** 1 opening for MS/PhD for **_Spring 2024_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. Also, if you are interested in multidisciplinary research on developing foundation models using multimodal neuroscience data (e.g., fMRI, EEG, etc.), it would be a plus. 
+**Notice:** 
+
+// As of **Aug 2023**, we **_may have_** 1 opening for MS/PhD for **_Spring 2024_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. Also, if you are interested in multidisciplinary research on developing foundation models using multimodal neuroscience data (e.g., fMRI, EEG, etc.), it would be a plus. 
 
 <!-- As of **Nov 2022**, we currently have about 1~2 openings for the BS interns for **_Winter/Spring 2023_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. -->
 
