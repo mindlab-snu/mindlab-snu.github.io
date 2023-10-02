@@ -95,9 +95,11 @@ img {
 }
 
 /* --- Navbar --- */
+/*   background: #f5f5f5; */
+
 
 .navbar-custom {
-  background: #f5f5f5;
+  background: #CC0000;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
