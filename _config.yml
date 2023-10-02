@@ -15,7 +15,7 @@ baseurl: ""
 
 # Name of website
 # title: M.IN.D Lab @ SNU
-title-img: /path/to/image
+title-img: img/MIND_LOGO_red_black.png
 
 # Short description of your site
 description: A virtual proof that name is awesome!
