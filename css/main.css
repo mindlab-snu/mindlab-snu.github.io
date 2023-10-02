@@ -131,7 +131,7 @@ img {
 }
 .navbar-custom .navbar-brand-logo img {
 /*   height: 50px; */
-  height: 100px;
+  height: 150px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
