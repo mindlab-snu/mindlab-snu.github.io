@@ -114,14 +114,14 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
 /*   color: #404040; default */
-  color: #faf7f7;
+  color: #999191;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-/*   color: #0085a1; hover */
+/*   color: #c47878; hover */
   color: #facdcd;
 }
 
