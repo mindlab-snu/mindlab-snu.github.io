@@ -95,7 +95,7 @@ img {
 }
 
 /* --- Navbar --- */
-/*   background: #f5f5f5;  회색 */
+/*   background: #f5f5f5;  */
 
 
 .navbar-custom {
@@ -113,7 +113,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-/*   color: #404040; 검은색 default */
+/*   color: #404040; default */
   color: #faf7f7;
 }
 
@@ -121,7 +121,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-/*   color: #0085a1; 푸른색 hover */
+/*   color: #0085a1; hover */
   color: #facdcd;
 }
 
