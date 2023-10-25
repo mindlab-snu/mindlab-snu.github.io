@@ -6,21 +6,18 @@ subtitle: Publications
 
 <!-- ### Manuscripts -->
 
-<!-- - [Towards More Robust Interpretation via Local Gradient Alignment](https://arxiv.org/abs/2211.15900)   
-Sunghwan Joo, SeokHyun Jeong, Juyeon Heo, Adrian Weller, and Taesup Moon  
-_Submitted_  
-- [GAN-Based Framework for Unified Estimation of Process-Induced Random Variation in FinFET]()  
-Taeeon Park, Jihwan Kwak, Hongjoon Ahn, Jinwoong Lee, Jaehyuk Lim, Sangho Yu, Changhwan Shin, and Taesup Moon  
-_Submitted_  
-- [Constrained Distributionally Robust Classifiers: From Variance Regularization to Group Fairness]()  
-Sangwon Jung, Taeeon Park, Sanghyuk Chun, and Taesup Moon  
-_Submitted_   -->
+<!-- 
+ -->
 <!-- - [Is Continual Learning Truly Learning Representations Continually?](https://arxiv.org/abs/2206.08101)  
 Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moon  
 _Submitted_  
-- [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
-Sungmin Cha, Naeun Ko, Youngjoon Yoo, and Taesup Moon  
-_Submitted_    -->
+-->
+
+### 2024
+- **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
+Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon
+_IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, January 2024
+
 
 ### 2023
 - **[C37]** [SwiFT: Swin 4D fMRI Transformer]()  
