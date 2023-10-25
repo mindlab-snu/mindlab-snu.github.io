@@ -16,7 +16,7 @@ _Submitted_
 ### 2024
 - **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
-_IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, January 2024
+_IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
 
 
 ### 2023
