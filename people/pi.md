@@ -46,6 +46,7 @@ _Administrative Assistant_: [Hayoung lee](mailtp:hazero@snu.ac.kr)
 * [Institute of New Media and Communications (INMC)](http://www.inmc.snu.ac.kr/)
 
 #### Professional Services
+* Area Chair - _ICLR 2024_, _CVPR 2024_
 * Reviewer / Program Committee - _NeurIPS_, _ICML_, _ICLR_, _CVPR_, _AAAI_, _AISTATS_, _ISIT_ , _IJCAI_, etc. 
 * Workshop chair - _RiTA_ (2017,2018), _ACML_ (2019), _ICML (2020)_
 
