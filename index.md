@@ -18,7 +18,9 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 
 
 **Notice:** 
-As of **_Nov 2023_**, we have a few openings for **Winter/Spring 2024** BS internships. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
+As of **_Dec 2023_**, we currently do not have more BS internship positions. We will post again next Spring 2024. 
+
+<!-- As of **_Nov 2023_**, we have a few openings for **Winter/Spring 2024** BS internships. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.-->
 
 <!-- As of **Aug 2023**, we **_may have_** 1 opening for MS/PhD for **_Spring 2024_**. For those who are interested, please e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**. Also, if you are interested in multidisciplinary research on developing foundation models using multimodal neuroscience data (e.g., fMRI, EEG, etc.), it would be a plus. -->
 
