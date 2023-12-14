@@ -14,6 +14,9 @@ _Submitted_
 -->
 
 ### 2024
+- **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()
+Sungmin Cha, Sungjun Cho, Dasol Hwang, Honglak Lee, Taesup Moon, and Moontae Lee  
+_The 38th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2024  
 - **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
