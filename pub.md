@@ -23,7 +23,7 @@ _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, Janu
 
 
 ### 2023
-- **[C37]** [SwiFT: Swin 4D fMRI Transformer](https://openreview.net/forum?id=dKeWh6EzBB)  
+- **[C37]** [SwiFT: Swin 4D fMRI Transformer](https://openreview.net/pdf?id=dKeWh6EzBB)  
 Peter Yongho Kim, Junbeom Kwon, Sunghwan Joo, Sangyoon Bae, Donggyu Lee, Yoonho Jung, Shinjae Yoo, Jiook Cha, and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2023
 - **[C36]** [Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Cha_Rebalancing_Batch_Normalization_for_Exemplar-Based_Class-Incremental_Learning_CVPR_2023_paper.pdf)  
