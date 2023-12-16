@@ -39,7 +39,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
-- 23.12 One paper got accepted to [NeurIPS 2024](https://openreview.net/forum?id=dKeWh6EzBB)!
+- 23.12 One paper was presented at [NeurIPS 2023](https://openreview.net/forum?id=dKeWh6EzBB)! This is a joint work with [Connectome Lab @ SNU](https://www.connectomelab.com/home)!
 - 23.10 One paper got accepted to [WACV 2024](https://wacv2024.thecvf.com/)!
 - 23.9 Taesup will serve as an Area Chair for [ICLR 2024](https://iclr.cc/) and [CVPR 2024](https://cvpr.thecvf.com/). 
 - 23.7 Taesup gave research talks at companies ([NewsBreak](https://newsbreak.com), [Google](https://research.google), [Coupang](https://www.coupang.jobs/en/locations/mountain-view/), [Amazon](https://www.amazon.science/), [Meta](https://ai.meta.com/), and [NVIDIA](https://nvidia.com)) and universities ([UC Berkeley](https://statistics.berkeley.edu/) and [Stanford](https://statistics.stanford.edu/events/statistics-seminar)) in the Bay Area, CA USA! We look forward to fruitful collaborations!
