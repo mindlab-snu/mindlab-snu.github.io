@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
-- **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline]()
+- **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline]()  
 Donggyu Lee, Sangwon Jung and Taesup Moon
 _The Twelfth International Conference on Learning Representations (**ICLR**)_, May 2024   
 - **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()  
