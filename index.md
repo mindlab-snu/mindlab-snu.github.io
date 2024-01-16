@@ -39,6 +39,11 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ### Recent News
 <hr>
+
+- 24.1 One paper got accepted to [ICLR 2024](https://iclr.cc)! Congrats Donggyu and Sangwon!
+- 24.1 One paper got accepted to [AAAI 2024](https://aaai.org/)! Congrats Sungmin!
+- 24.1 One paper got accepted to [WACV 2024](https://wacv2024.thecvf.com/)! Congrats Sungmin!
+  
 - 23.12 One paper was presented at [NeurIPS 2023](https://openreview.net/forum?id=dKeWh6EzBB)! This is a joint work with [Connectome Lab @ SNU](https://www.connectomelab.com/home)!
 - 23.10 One paper got accepted to [WACV 2024](https://wacv2024.thecvf.com/)!
 - 23.9 Taesup will serve as an Area Chair for [ICLR 2024](https://iclr.cc/) and [CVPR 2024](https://cvpr.thecvf.com/). 
