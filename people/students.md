@@ -12,13 +12,13 @@ subtitle: M.IN.D Lab Family
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
 * [Sangwon Jung](https://sites.google.com/view/sangwon-jung)
-* [Yong Jin Jeong](https://sites.google.com/view/yongjin)  
-
-#### MS students
-
+* [Yong Jin Jeong](https://sites.google.com/view/yongjin)
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 * [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
 * [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
+
+#### MS students
+
 * [Hyunwoong Bae](https://hyunw3.github.io/)
 * [Juhyun Park](https://juhyeon.develofolio.com/)  
 * [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
@@ -28,6 +28,9 @@ subtitle: M.IN.D Lab Family
 
 #### BS students / Interns
 
+* Donghoon Kang
+* Dongho Choi
+* Yeonwoo Chae
 
 <!-- * Seyoung Kim -->
 <!-- * Youngin Kim -->
