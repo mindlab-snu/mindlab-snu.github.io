@@ -11,7 +11,7 @@ subtitle: M.IN.D Lab Family
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
 * [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
-* [Sangwon Jung](https://sites.google.com/view/sangwon-jung)
+* [Sangwon Jung](https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313)
 * [Yong Jin Jeong](https://sites.google.com/view/yongjin)
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 * [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
