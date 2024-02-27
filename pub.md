@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
-- **[C41]** [COSMO: Converting and Smoothing False Negatives for Vision-Language Pre-training]()
+- **[C41]** [COSMO: Converting and Smoothing False Negatives for Vision-Language Pre-training]()  
 Jaeseok Byun, Dohoon Kim and Taesup Moon
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2024  
 - **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline]()  
