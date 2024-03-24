@@ -17,7 +17,7 @@ subtitle: Life in M.IN.D Lab
 #### End-Year Party, December 2023
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_end_year_party.jpg" width="700" align="center"/>
 
-#### First Ph.D Graduate (Dr. Sungmin Cha), August 2023
+#### First Ph.D Graduate (Dr. [Sungmin Cha](https://sites.google.com/view/sungmin-cha/)), August 2023
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_first_phd.jpeg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_first_phd_2.jpeg" width="700" align="center"/>
 
