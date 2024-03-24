@@ -6,6 +6,12 @@ subtitle: Life in M.IN.D Lab
 
 <hr>
 
+## 2024
+#### Spring Gwanak Mt. Hiking, March 2024
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2024_gwanak.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2024_gwanak_2.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2024_gwanak_3.jpeg" width="700" align="center"/>
+
 ## 2023
 
 #### End-Year Party, December 2023
