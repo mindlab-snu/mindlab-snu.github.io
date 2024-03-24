@@ -6,7 +6,7 @@ subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
 published: true
 ---
 <!-- <img src="img/2022_10_gwanak1.jpeg" width="820" align="center"/> -->
-<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2024_gwanak.jpeg" width="820" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2024_gwanak.jpg" width="820" align="center"/>
 
 <!--**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**-->
 
