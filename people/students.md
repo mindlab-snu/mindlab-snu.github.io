@@ -25,12 +25,14 @@ subtitle: M.IN.D Lab Family
 * [Yongho Kim](https://sites.google.com/view/peter-yongho-kim/)
 * [Sumin Yoo](https://suminyu.notion.site/Sumin-Yu-f0851ac95a1a435885cfd2b77596143d)
 * [Jinu Hyeon](https://sites.google.com/snu.ac.kr/jinuhyeon/)
+* [Jin Park]()
 
 #### BS students / Interns
 
 * Donghoon Kang
 * Dongho Choi
 * Yeonwoo Chae
+* Jung-Yoon Hwang
 
 <!-- * Seyoung Kim -->
 <!-- * Youngin Kim -->
