@@ -8,6 +8,17 @@ subtitle: Life in M.IN.D Lab
 
 ## 2023
 
+#### End-Year Party, December 2023
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_end_year_party.jpg" width="700" align="center"/>
+
+#### First Ph.D Graduate (Dr. Sungmin Cha), August 2023
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_first_phd.jpeg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_first_phd_2.jpeg" width="700" align="center"/>
+
+#### 2023 Teacher's Day, May 2023
+<img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_5_teachers_day.jpg" width="700" align="center"/>
+
+
 #### M.IN.D Lab MT @ Ansan, March 2023
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_3_mt_1.jpeg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/mindlab-snu/mindlab-snu.github.io/master/img/2023_3_mt_2.jpeg" width="700" align="center"/>
