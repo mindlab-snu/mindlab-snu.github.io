@@ -23,7 +23,7 @@ _International Conference on Machine Learning (**ICML**)_, July 2024
 - **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training]()  
 Jaeseok Byun, Dohoon Kim and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2024  
-- **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline]()  
+- **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)  
 Donggyu Lee, Sangwon Jung and Taesup Moon  
 _The 12th International Conference on Learning Representations (**ICLR**)_, May 2024   
 - **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()  
