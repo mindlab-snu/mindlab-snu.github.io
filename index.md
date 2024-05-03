@@ -40,6 +40,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 
+- 24.5 Two papers got accepted to [ICML 2024](https://icml.cc)! Congrats to Heewoong, Sangwon, Hongjoon, and Sungmin!
 - 24.3 One paper got accepted to [CVPR 2024](https://cvpr.thecvf.com/)! Congrats to Jaeseok and Dohoon!
 - 24.1 One paper got accepted to [ICLR 2024](https://iclr.cc)! Congrats Donggyu and Sangwon!
 - 24.1 One paper got accepted to [AAAI 2024](https://aaai.org/)! Congrats Sungmin!  
