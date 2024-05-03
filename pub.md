@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
--**[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning]()  
+- **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning]()  
 Sungmin Cha, Kyunghyun Cho and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
 - **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training]()  
