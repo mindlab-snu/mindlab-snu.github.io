@@ -14,6 +14,9 @@ _Submitted_
 -->
 
 ### 2024
+- **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning]()
+Heewoong Choi, Sangwon Jung, Hongjoon Ahn and Taesup Moon
+_International Conference on Machine Learning (**ICML**)_, July 2024  
 - **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning]()  
 Sungmin Cha, Kyunghyun Cho and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
