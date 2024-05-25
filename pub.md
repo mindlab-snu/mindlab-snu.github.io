@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
-- **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective]()
+- **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective]()  
  Sungmin Cha, Jihwan Kwak, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee and Taesup Moon
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
 - **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation]()  
