@@ -15,7 +15,7 @@ _Submitted_
 
 ### 2024
 - **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation]()
- Jihwan Kwak, Sungmin Cha and Taesup Moon
+ Jihwan Kwak, Sungmin Cha and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
 - **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning]()  
 Heewoong Choi, Sangwon Jung, Hongjoon Ahn and Taesup Moon  
