@@ -10,7 +10,7 @@ subtitle: M.IN.D Lab Family
 * [Donggyu Lee](https://sites.google.com/view/dqlee) 
 * [Tae Eon Park](https://sites.google.com/view/taeeon) 
 * [Jaeseok Byun](https://sites.google.com/view/jaeseokbyun) 
-* [Hongjoon Ahn](https://sites.google.com/view/hongjoon-ahn)  
+* [Hongjoon Ahn](https://sites.google.com/view/welcome-hongjoon-ahn/)  
 * [Sangwon Jung](https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313)
 * [Yong Jin Jeong](https://sites.google.com/view/yongjin)
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
