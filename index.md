@@ -42,7 +42,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ### Recent News
 <hr>
 
-- 24.7 Taesup will start his 1-year sabbatical at [Stanford EE](https://ee.stanford.edu)!
+- 24.7 Taesup will start his 1-year sabbatical (24.9~25.8) at [Stanford EE](https://ee.stanford.edu)!
 - 24.5 [Sangwon](https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313) started his 1 year visit to [Flavio Calmon](https://people.seas.harvard.edu/~flavio/)'s lab at [Harvard SEAS](https://seas.harvard.edu/)!
 - 24.6 Two papers got accepted to [CoLLAs 2024](https://lifelong-ml.cc/)! Congrats to Jihwan and Sungmin!
 - 24.5 Two papers got accepted to [ICML 2024](https://icml.cc)! Congrats to Heewoong, Sangwon, Hongjoon, and Sungmin!
