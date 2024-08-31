@@ -14,19 +14,19 @@ _Submitted_
 -->
 
 ### 2024
-- **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective]()  
+- **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
  Sungmin Cha, Jihwan Kwak, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
-- **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation]()  
+- **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation](https://arxiv.org/abs/2405.09858)  
  Jihwan Kwak, Sungmin Cha and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
-- **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning]()  
+- **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning](https://proceedings.mlr.press/v235/choi24b.html)  
 Heewoong Choi, Sangwon Jung, Hongjoon Ahn and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
-- **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning]()  
+- **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning](https://proceedings.mlr.press/v235/cha24a.html)  
 Sungmin Cha, Kyunghyun Cho and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
-- **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training]()  
+- **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training](https://openaccess.thecvf.com/content/CVPR2024/papers/Byun_MAFA_Managing_False_Negatives_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)  
 Jaeseok Byun, Dohoon Kim and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2024  
 - **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)  
