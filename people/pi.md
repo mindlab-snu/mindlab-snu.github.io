@@ -14,7 +14,7 @@ Professor
 [Department of Electrical and Computer Engineering](http://ee.snu.ac.kr)  
 [College of Engineering](http://eng.snu.ac.kr)  
 [Seoul National University](http://www.snu.ac.kr)   
-
+(Currently on sabbatical at [Stanford University](http://ee.stanford.edu) until Aug 2025.)
  
 **Contact**  
 tsmoon _at_ snu _dot_ ac  _dot_ kr  
