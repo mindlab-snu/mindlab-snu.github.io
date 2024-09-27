@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
-- **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()
+- **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()  
 Sangwon Jung, Sumin Yu, Sanghyuk Chun and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2024  
 - **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
