@@ -14,7 +14,7 @@ _Submitted_
 -->
 
 ### 2024
-- **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()
+- **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
 - **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()  
