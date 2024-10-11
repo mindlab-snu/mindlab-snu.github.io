@@ -16,10 +16,10 @@ _Submitted_
 ### 2024
 
 - **Conference Proceedings**  
- - **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()  
+  - **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()  
 Sangwon Jung, Sumin Yu, Sanghyuk Chun and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2024  
- - **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
+  - **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
  Sungmin Cha, Jihwan Kwak, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
 - **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation](https://arxiv.org/abs/2405.09858)  
