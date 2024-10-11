@@ -22,35 +22,35 @@ _Neural Information Processing Systems (**NeurIPS**)_, December 2024
   - **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
  Sungmin Cha, Jihwan Kwak, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
-- **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation](https://arxiv.org/abs/2405.09858)  
+  - **[C44]** [Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation](https://arxiv.org/abs/2405.09858)  
  Jihwan Kwak, Sungmin Cha and Taesup Moon  
 _The Third Conference on Lifelong Learning Agents (**CoLLAs**)_, July 2024  
-- **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning](https://proceedings.mlr.press/v235/choi24b.html)  
+  - **[C43]** [Listwise Reward Estimation for Offline Preference-based Reinforcement Learning](https://proceedings.mlr.press/v235/choi24b.html)  
 Heewoong Choi, Sangwon Jung, Hongjoon Ahn and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
-- **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning](https://proceedings.mlr.press/v235/cha24a.html)  
+  - **[C42]** [Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning](https://proceedings.mlr.press/v235/cha24a.html)  
 Sungmin Cha, Kyunghyun Cho and Taesup Moon  
 _International Conference on Machine Learning (**ICML**)_, July 2024  
-- **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training](https://openaccess.thecvf.com/content/CVPR2024/papers/Byun_MAFA_Managing_False_Negatives_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)  
+  - **[C41]** [MAFA: Managing False Negatives for Vision-Language Pre-training](https://openaccess.thecvf.com/content/CVPR2024/papers/Byun_MAFA_Managing_False_Negatives_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)  
 Jaeseok Byun, Dohoon Kim and Taesup Moon  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2024  
-- **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)  
+  - **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)  
 Donggyu Lee, Sangwon Jung and Taesup Moon  
 _The 12th International Conference on Learning Representations (**ICLR**)_, May 2024   
-- **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()  
+  - **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()  
 Sungmin Cha, Sungjun Cho, Dasol Hwang, Honglak Lee, Taesup Moon, and Moontae Lee  
 _The 38th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2024  
-- **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
+  - **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
 
-**Journals**
-- **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
+- **Journals**
+  - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
 
-**Workshop**
-- **[W]** [Measuring Representational Harms in Image Generation with a Multi-Group Proportional Metric]()
+- **Workshop**
+  - **[W]** [Measuring Representational Harms in Image Generation with a Multi-Group Proportional Metric]()
 Sangwon Jung, Claudio Mayrink Verdun, Alex Oesterling, Sajani Vithana, Taesup Moon and Flavio du Pin Calmon  
 _**NeurIPS Workshop**: Algorithmic Fairness through the Lens of Metrics and Evaluation_, December 2024  
 
