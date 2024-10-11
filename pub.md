@@ -50,7 +50,7 @@ Sunghwan Joo and Taesup Moon
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
 
 **Workshop**
-- **[W}** [Measuring Representational Harms in Image Generation with a Multi-Group Proportional Metric]()
+- **[W]** [Measuring Representational Harms in Image Generation with a Multi-Group Proportional Metric]()
 Sangwon Jung, Claudio Mayrink Verdun, Alex Oesterling, Sajani Vithana, Taesup Moon and Flavio du Pin Calmon
 _**NeurIPS Workshop**: Algorithmic Fairness through the Lens of Metrics and Evaluation_, December 2024  
 
