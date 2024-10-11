@@ -43,10 +43,12 @@ _The 38th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2024
 - **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
+
 **Journals**
 - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
+
 **Workshop**
 - **[W}** [Measuring Representational Harms in Image Generation with a Multi-Group Proportional Metric]()
 Sangwon Jung, Claudio Mayrink Verdun, Alex Oesterling, Sajani Vithana, Taesup Moon and Flavio du Pin Calmon
