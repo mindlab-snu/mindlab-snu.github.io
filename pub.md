@@ -14,6 +14,8 @@ _Submitted_
 -->
 
 ### 2024
+
+**Conference Proceedings**
 - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
