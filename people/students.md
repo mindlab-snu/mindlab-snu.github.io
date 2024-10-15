@@ -29,10 +29,11 @@ subtitle: M.IN.D Lab Family
 
 #### BS students / Interns
 
-* Donghoon Kang
-* Dongho Choi
-* Yeonwoo Chae
 * Jung-Yoon Hwang
+* Woobin Park
+* Jungwoo Park
+* Gahyun Lee
+* Sejoon Park
 
 <!-- * Seyoung Kim -->
 <!-- * Youngin Kim -->
