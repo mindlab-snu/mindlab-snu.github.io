@@ -13,6 +13,17 @@ Sungmin Cha, Dongsub Shim, Hyunwoo Kim, Moontae Lee, Honglak Lee, and Taesup Moo
 _Submitted_  
 -->
 
+### 2025
+
+- **Conference Proceedings**
+  - **[C47]** [TLDR: Text Based Last-layer Retraining for Debiasing Image Classifiers]()
+Juhyeon Park, SeokHyun Jeong, and Taesup Moon
+_IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, February 2025  
+- **Journals**
+- **Workshop**
+
+
+
 ### 2024
 
 - **Conference Proceedings**  
