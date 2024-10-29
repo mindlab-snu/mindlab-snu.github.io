@@ -17,7 +17,7 @@ _Submitted_
 
 - **Conference Proceedings**
   - **[C47]** [TLDR: Text Based Last-layer Retraining for Debiasing Image Classifiers]()  
-Juhyeon Park, SeokHyun Jeong, and Taesup Moon
+Juhyeon Park, SeokHyun Jeong, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, February 2025  
 - **Journals**
 - **Workshop**
