@@ -58,7 +58,7 @@ _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, Janu
   - **[J25]** [FairDRO: Group Fairness Regularization via Classwise Robust Optimization
 Reference]()  
 Taeeon Park, Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
-_Accepted to Neural Networks (**NEUNET**)_, November 2024
+Accepted to _Neural Networks (**NEUNET**)_, November 2024
   - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
