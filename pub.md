@@ -55,6 +55,10 @@ _The 38th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2024
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
 - **Journals**
+  - **[J25]** [FairDRO: Group Fairness Regularization via Classwise Robust Optimization
+Reference]()  
+Taeeon Park, Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
+_Accepted to Neural Networks (**NEUNET**)_, November 2024
   - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization]()  
 Sunghwan Joo and Taesup Moon  
 _**IEEE Access**_, doi:10.1109/ACCESS.2024.3477454
