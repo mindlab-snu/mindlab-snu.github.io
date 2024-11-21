@@ -20,7 +20,7 @@ subtitle: M.IN.D Lab Family
 #### MS students
 
 * [Hyunwoong Bae](https://hyunw3.github.io/)
-* [Juhyun Park](https://juhyeon.develofolio.com/)  
+* [Juhyun Park](https://beotborry.github.io/)  
 * [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
 * [Yongho Kim](https://sites.google.com/view/peter-yongho-kim/)
 * [Sumin Yu](https://sites.google.com/view/sumin-yu)
