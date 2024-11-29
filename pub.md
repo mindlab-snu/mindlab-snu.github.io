@@ -48,14 +48,14 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, Jun
   - **[C40]** [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)  
 Donggyu Lee, Sangwon Jung and Taesup Moon  
 _The 12th International Conference on Learning Representations (**ICLR**)_, May 2024   
-  - **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers]()  
+  - **[C39]** [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578)  
 Sungmin Cha, Sungjun Cho, Dasol Hwang, Honglak Lee, Taesup Moon, and Moontae Lee  
 _The 38th AAAI Conference on Artificial Intelligence (**AAAI**)_, February 2024  
   - **[C38]** [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/abs/2106.11644)  
 Sungmin Cha, Naeun Ko, Heewong Choi, Youngjoon Yoo, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, January 2024
 - **Journals**
-  - **[J25]** [FairDRO: Group Fairness Regularization via Classwise Robust Optimization]()  
+  - **[J25]** [FairDRO: Group Fairness Regularization via Classwise Robust Optimization](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008207)  
 Taeeon Park, Sangwon Jung, Sanghyuk Chun, and Taesup Moon  
 _**Neural Networks**_, vol.182, https://doi.org/10.1016/j.neunet.2024.106891
   - **[J24]** [Debiased Learning via Composed Conceptual Sensitivity Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713328)  
