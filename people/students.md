@@ -16,20 +16,20 @@ subtitle: M.IN.D Lab Family
 * [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
 * [Dohoon Kim](https://sites.google.com/view/dohoon-kim/)
 * [SeokHyun Jeong](https://sites.google.com/view/seokhyeon-jeong/)
-
-#### MS students
-
 * [Hyunwoong Bae](https://hyunw3.github.io/)
 * [Juhyun Park](https://beotborry.github.io/)  
 * [Heewoong Choi](https://sites.google.com/view/chwoong/%ED%99%88)
 * [Yongho Kim](https://sites.google.com/view/peter-yongho-kim/)
 * [Sumin Yu](https://sites.google.com/view/sumin-yu)
 * [Jinu Hyeon](https://sites.google.com/snu.ac.kr/jinuhyeon/)
+
+#### MS students
+
 * [Jin Park]()
+* [Jung-Yoon Hwang]()
 
 #### BS students / Interns
 
-* Jung-Yoon Hwang
 * Woobin Park
 * Jungwoo Park
 * Gahyun Lee
