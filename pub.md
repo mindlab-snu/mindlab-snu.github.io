@@ -16,6 +16,9 @@ _Submitted_
 ### 2025
 
 - **Conference Proceedings**
+  - **[C48]** [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/pdf?id=KAIqwkB3dT)  
+Hongjoon Ahn, Jinu Hyeon, Youngmin Oh, Bosun Hwang, and Taesup Moon
+_The 13th International Conference on Learning Representations (**ICLR**)_, April 2025
   - **[C47]** [TLDR: Text Based Last-layer Retraining for Debiasing Image Classifiers](https://arxiv.org/abs/2311.18291)  
 Juhyeon Park, SeokHyun Jeong, and Taesup Moon  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, February 2025  
