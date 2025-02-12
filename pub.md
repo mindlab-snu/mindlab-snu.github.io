@@ -30,7 +30,7 @@ _IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)_, Febr
 ### 2024
 
 - **Conference Proceedings**  
-  - **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study]()  
+  - **[C46]** [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study](https://openreview.net/pdf?id=hFDdSd6hSM)  
 Sangwon Jung, Sumin Yu, Sanghyuk Chun and Taesup Moon  
 _Neural Information Processing Systems (**NeurIPS**)_, December 2024  
   - **[C45]** [Towards More Diverse Evaluation of Class Incremental Learning: Representation Learning Perspective](https://arxiv.org/abs/2206.08101)  
