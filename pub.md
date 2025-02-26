@@ -16,6 +16,9 @@ _Submitted_
 ### 2025
 
 - **Conference Proceedings**
+  - **[C49]** [Multi-Group Proportional Representations for Text-to-Image Models]()  
+  Sangwon Jung, Alex Oesterling, Claudio Mayrink Verdun, Sajani Vithana, Taesup Moon, and Flavio Calmon  
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, June 2025  
   - **[C48]** [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/pdf?id=KAIqwkB3dT)  
 Hongjoon Ahn, Jinu Hyeon, Youngmin Oh, Bosun Hwang, and Taesup Moon  
 _The 13th International Conference on Learning Representations (**ICLR**)_, April 2025
