@@ -18,7 +18,8 @@ Our mission is to develop state-of-the-art machine learning/deep learning algori
 
 
 **Notice:** 
-**(As of _May 2024_)** : For those who are interested in BS internship or joining the lab, please read [**this**](people/joinus.md) and e-mail Prof. Taesup Moon with your **CV** and **transcript**. (**Disclaimer**: It may **_NOT_** be possible to reply to all inquiries, but please do inquire if you are interested.)
+**(As of _Mar 2025_)** : 
+- For those who are interested in BS internship or joining the lab, please read [**this**](people/joinus.md) and e-mail Prof. Taesup Moon with your **CV** and **transcript**. (**Disclaimer**: It may **_NOT_** be possible to reply to all inquiries, but please do inquire if you are interested.)
 
 <!-- As of **_Dec 2023_**, we currently do not have more BS internship positions. We will post again next Spring 2024. -->
 
