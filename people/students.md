@@ -40,7 +40,7 @@ subtitle: M.IN.D Lab Family
  
 #### Alumni
 
-* [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) 
+* [Sunghwan Joo](https://sites.google.com/view/sunghwanjoo/) (Ph.D. '25, Currently on Job Market!)
 * [Sungmin Cha](https://sites.google.com/view/sungmin-cha/) (Ph.D. '23, Currently at [NYU CS](https://cs.nyu.edu/dynamic/people/faculty/type/3/) as a Faculty Fellow)  
 * Taebaek Hwang (BS '21, Currently at [Dealicious](https://www.dealicious.kr/))
 * [Dohyun Kim](https://sites.google.com/view/dokim/) (MS '22, Currently at [OnePredict](http://onepredict.ai))
